@@ -21,6 +21,34 @@ collections:
     create: true
     slug: "{{slug}}"
     fields:
-      - {label: "Judul", name: "title", widget: "string"}
-      - {label: "Tanggal", name: "date", widget: "datetime"}
-      - {label: "Konten", name: "body", widget: "markdown"}
+      - { label: "Judul", name: "title", widget: "string" }
+      - { label: "Tanggal", name: "date", widget: "datetime" }
+      - { label: "Konten", name: "body", widget: "markdown" }
+
+  - name: "rekomendasi"
+    label: "Rekomendasi"
+    folder: "content/rekomendasi"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Judul", name: "title", widget: "string" }
+      - { label: "Deskripsi", name: "body", widget: "markdown" }
+
+  - name: "cara-pikir"
+    label: "Cara Pikir"
+    folder: "content/cara-pikir"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Judul", name: "title", widget: "string" }
+      - { label: "Deskripsi", name: "body", widget: "markdown" }
+
+  - name: "portofolio"
+    label: "Portofolio"
+    folder: "content/portofolio"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Nama Proyek", name: "title", widget: "string" }
+      - { label: "Deskripsi", name: "body", widget: "markdown" }
+      - { label: "Tautan", name: "url", widget: "string", required: false }
