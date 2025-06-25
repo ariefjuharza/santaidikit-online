@@ -1,0 +1,7 @@
+baseURL = "http://localhost:1313/"
+languageCode = "id"
+title = "santaidikit"
+theme = "PaperMod"
+
+[params]
+  env = "development"

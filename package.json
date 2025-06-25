@@ -1,0 +1,19 @@
+{
+  "name": "santaidikit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:css": "npx tailwindcss -i ./assets/css/main.css -o ./assets/css/bundle.css --minify && copy assets\\css\\bundle.css static\\assets\\css\\bundle.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.4.38",
+    "postcss-cli": "^11.0.1",
+    "tailwindcss": "^3.4.3"
+  }
+}
