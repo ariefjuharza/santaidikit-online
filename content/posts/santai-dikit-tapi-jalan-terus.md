@@ -2,7 +2,7 @@
 title: Santai Dikit, Tapi Jalan Terus
 date: 2025-06-26T05:26:00
 ---
-![](/uploads/post-1.png)
+![](/uploads/Nighttime_Coding_Session.png)
 
 # **_Nggak Harus Canggih Buat Jadi Produktif_**
 
