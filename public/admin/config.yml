@@ -1,0 +1,54 @@
+# Sveltia CMS configuration
+
+# This is where we configure the CMS repo and its collections and fields
+# Sveltia CMS generally follows the Decap CMS configuration spec
+# Decap CMS docs: https://decapcms.org/docs/intro/
+# Sveltia CMS docs: https://github.com/sveltia/sveltia-cms#features
+
+# Enter your GitHub repo path and branch (defaults to master)
+backend:
+  name: github
+  repo: ariefjuharza/santaidikit-online # Path to your GitHub repository
+  branch: master # Optional, defaults to master
+
+media_folder: "static/uploads"
+public_folder: "/uploads"
+
+collections:
+  - name: "posts"
+    label: "Tulisan"
+    folder: "content/posts"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Judul", name: "title", widget: "string" }
+      - { label: "Tanggal", name: "date", widget: "datetime" }
+      - { label: "Konten", name: "body", widget: "markdown" }
+
+  - name: "rekomendasi"
+    label: "Rekomendasi"
+    folder: "content/rekomendasi"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Judul", name: "title", widget: "string" }
+      - { label: "Deskripsi", name: "body", widget: "markdown" }
+
+  - name: "cara-pikir"
+    label: "Cara Pikir"
+    folder: "content/cara-pikir"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Judul", name: "title", widget: "string" }
+      - { label: "Deskripsi", name: "body", widget: "markdown" }
+
+  - name: "portofolio"
+    label: "Portofolio"
+    folder: "content/portofolio"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Nama Proyek", name: "title", widget: "string" }
+      - { label: "Deskripsi", name: "body", widget: "markdown" }
+      - { label: "Tautan", name: "url", widget: "string", required: false }

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>santaidikit</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on santaidikit</description>
+    <title>Posts on santaidikit</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on santaidikit</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>id</language>
     <lastBuildDate>Thu, 26 Jun 2025 05:26:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Santai Dikit, Tapi Jalan Terus</title>
       <link>http://localhost:1313/posts/santai-dikit-tapi-jalan-terus/</link>
