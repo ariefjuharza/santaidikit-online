@@ -1,0 +1,43 @@
+{{ define "main" }}
+<article class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 font-firacode">
+
+  <!-- Judul -->
+  <h1 class="text-3xl sm:text-4xl font-bold mb-4">{{ .Title }}</h1>
+
+  <!-- Metadata -->
+  <div class="text-sm text-gray-500 mb-6 flex flex-wrap items-center gap-4">
+    <span>{{ .Date.Format "02 Jan 2006" }}</span>
+    <span>•</span>
+    <span>{{ .ReadingTime }} menit baca</span>
+    {{ with .Params.categories }}
+    <span>•</span>
+    <span>Kategori: 
+      {{ range $index, $cat := . }}
+        {{ if $index }}, {{ end }}<a href="/categories/{{ $cat | urlize }}" class="text-indigo-600 hover:underline">{{ $cat }}</a>
+      {{ end }}
+    </span>
+    {{ end }}
+  </div>
+
+  <!-- Gambar utama (jika ada) -->
+  {{ with .Params.image }}
+  <img src="{{ . | relURL }}" alt="Featured image" class="rounded-lg mb-8 mx-auto" />
+  {{ end }}
+
+  <!-- Konten markdown -->
+  <div class="prose prose-neutral max-w-none prose-headings:font-bold prose-p:leading-relaxed prose-img:rounded">
+    {{ .Content }}
+  </div>
+
+  <!-- Navigasi antar post -->
+  <div class="mt-12 pt-6 border-t text-sm flex justify-between text-indigo-600">
+    {{ with .Prev }}
+      <a href="{{ .RelPermalink }}" class="hover:underline">&larr; {{ .Title }}</a>
+    {{ end }}
+    {{ with .Next }}
+      <a href="{{ .RelPermalink }}" class="hover:underline ml-auto">{{ .Title }} &rarr;</a>
+    {{ end }}
+  </div>
+
+</article>
+{{ end }}
