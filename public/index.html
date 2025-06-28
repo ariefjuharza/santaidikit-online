@@ -13,9 +13,12 @@
 <body class="bg-gradient-to-br from-white via-blue-50 to-slate-100 text-gray-800 font-firacode antialiased">
   
   
-  <header class="bg-white shadow-md sticky top-0 z-50">
+  <header class="bg-white backdrop-blur-lg shadow-md sticky top-0 z-50">
     <div class="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center">
-      <h1 class="text-2xl font-bold text-red-500 tracking-wide font-sans">santai dikit online</h1>
+      
+      <a href="/">
+        <img src="uploads/logo santai.png" alt="santai dikit online" class="h-10 w-auto" />
+      </a>
       <nav class="space-x-4 text-sm font-medium text-gray-700 font-sans">
         <a href="/" class="hover:text-red-500 transition">Rumah</a>
         <a href="/rekomendasi/" class="hover:text-red-500 transition">Pilihan</a>
@@ -27,7 +30,7 @@
   </header>
 
   
-  <main class="px-4 sm:px-6 lg:px-8 py-10 max-w-5xl mx-auto">
+  <main class="px-4 sm:px-6 lg:px-8 py-12 max-w-5xl mx-auto">
     
   
 
@@ -147,6 +150,43 @@
   </div>
 </section>
 
+  <section class="bg-white py-20 border-t border-gray-200">
+  <div class="container mx-auto px-6 max-w-5xl">
+    <h2 class="text-3xl md:text-4xl font-bold text-gray-800 mb-6 text-center">
+      📌 Tulisan Terbaru di Meja Coding
+    </h2>
+    <div class="grid gap-8 md:grid-cols-2">
+      
+        <div class="p-6 bg-white border border-gray-200 rounded-lg shadow hover:shadow-md transition">
+          <h3 class="text-xl font-semibold text-indigo-700 mb-2">
+            <a href="/posts/cerita-tentang-gtx-750-ti/" class="hover:underline">GTX 750 Ti dan Meja Coding: Teman Setia di Era Digital</a>
+          </h3>
+          <p class="text-sm text-gray-500 mb-2">27 Jun 2025</p>
+          
+            <p class="text-sm text-gray-700 leading-relaxed">Cerita soal GPU jadul yang tetap setia menemani coding sehari-hari. Nggak harus canggih buat jadi produktif.</p>
+          
+          <a href="/posts/cerita-tentang-gtx-750-ti/" class="text-indigo-600 hover:underline text-sm font-medium mt-3 inline-block">
+            Baca Selengkapnya →
+          </a>
+        </div>
+      
+        <div class="p-6 bg-white border border-gray-200 rounded-lg shadow hover:shadow-md transition">
+          <h3 class="text-xl font-semibold text-indigo-700 mb-2">
+            <a href="/posts/santai-dikit-tapi-jalan-terus/" class="hover:underline">Santai Dikit, Tapi Jalan Terus</a>
+          </h3>
+          <p class="text-sm text-gray-500 mb-2">26 Jun 2025</p>
+          
+            <p class="text-sm text-gray-700 leading-relaxed">Nggak harus alat canggih untuk mulai produktif. Cerita tentang berkarya di tengah keterbatasan, dengan gaya santai tapi tetap mikir.</p>
+          
+          <a href="/posts/santai-dikit-tapi-jalan-terus/" class="text-indigo-600 hover:underline text-sm font-medium mt-3 inline-block">
+            Baca Selengkapnya →
+          </a>
+        </div>
+      
+    </div>
+  </div>
+</section>
+
   <section class="bg-slate-50 py-20 font-firacode" id="portofolio">
   <div class="max-w-5xl mx-auto px-4">
     <h2 class="text-3xl md:text-4xl font-bold text-gray-800 mb-4 text-center">
@@ -193,22 +233,27 @@
   
   
 
-  <footer class="bg-gray-800 text-gray-300 py-10 font-firacode">
+  <footer class="bg-gray-800 text-gray-300 py-12 font-firacode border-t border-gray-700">
   <div class="max-w-5xl mx-auto px-4 text-center">
     <p class="text-sm tracking-wide">
-      © 2025 santai dikit online — Dibuat sambil ngopi & mikir santai ☕
-    </p>
-    <p class="mt-2 text-xs text-gray-500">
-      Powered by <a href="https://gohugo.io" class="text-indigo-400 hover:underline">Hugo</a>
-      & <a href="https://tailwindcss.com" class="text-indigo-400 hover:underline">Tailwind CSS</a>.
+      © 2025 santai dikit online
     </p>
 
-     
+    <p class="mt-2 text-xs text-gray-500">
+      Dibuat dengan cinta, ditemani secangkir kopi & mikir santai ☕
+    </p>
+
     <div class="mt-10 text-[0.65rem] text-gray-500 space-x-4">
       <a href="/tentang/" class="hover:text-indigo-400 transition">Tentang</a>
       <a href="/portofolio/" class="hover:text-indigo-400 transition">Proyek</a>
       <a href="/privacy-policy/" class="hover:text-indigo-400 transition">Privasi</a>
     </div>
+
+    <p class="mt-2 text-xs text-gray-500">
+      Powered by <a href="https://gohugo.io" class="text-indigo-400 hover:underline">Hugo</a>
+      & <a href="https://tailwindcss.com" class="text-indigo-400 hover:underline">Tailwind CSS</a>.
+    </p>
+    
   </div>
 </footer>
 

@@ -2,17 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/750ti/</loc>
+    <lastmod>2025-06-27T21:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-06-27T21:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/gpu/</loc>
+    <lastmod>2025-06-27T21:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/cerita-tentang-gtx-750-ti/</loc>
+    <lastmod>2025-06-27T21:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/nostalgia/</loc>
+    <lastmod>2025-06-27T21:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/perangkat/</loc>
+    <lastmod>2025-06-27T21:00:00+07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-06-28T21:00:00+00:00</lastmod>
+    <lastmod>2025-06-27T21:00:00+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-06-28T21:00:00+00:00</lastmod>
+    <lastmod>2025-06-27T21:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-06-27T21:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/motivasi/</loc>
+    <lastmod>2025-06-26T05:26:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/perangkat/</loc>
+    <lastmod>2025-06-26T05:26:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/produktivitas/</loc>
+    <lastmod>2025-06-26T05:26:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/refleksi/</loc>
+    <lastmod>2025-06-26T05:26:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/santai/</loc>
+    <lastmod>2025-06-26T05:26:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/santai-dikit-tapi-jalan-terus/</loc>
     <lastmod>2025-06-26T05:26:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

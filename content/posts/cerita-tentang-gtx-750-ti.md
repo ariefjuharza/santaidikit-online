@@ -1,11 +1,14 @@
 ---
 title: "GTX 750 Ti dan Meja Coding: Teman Setia di Era Digital"
-date: 2025-06-28T21:00:00+07:00
+date: 2025-06-27T21:00:00+07:00
 draft: false
 categories: ["perangkat"]
 tags: ["gpu", "nostalgia", "750ti"]
 description: "Cerita soal GPU jadul yang tetap setia menemani coding sehari-hari. Nggak harus canggih buat jadi produktif."
+slug: "cerita-tentang-gtx-750-ti"
 ---
+![](/uploads/Graphics-Card-GTX-750-Ti-Close-Up.png)
+
 **Kadang, yang nggak terlalu canggih justru yang paling setia.**  
 Begitu juga dengan satu benda kecil yang sudah nemenin hari-hari di depan layar: **NVIDIA GTX 750 Ti.**
 
@@ -19,7 +22,7 @@ GPU ini nggak pernah minta banyak. Daya kecil, nggak rewel, tapi cukup buat jala
 - VRAM: 2GB GDDR5  
 - Interface: PCIe 3.0  
 - TDP: 60 Watt  
-- Port: DVI-D, DVI-I, Mini-HDMI  
+- Port: DVI-D, DVI-I, miniHDMI  
 - Power: **Tidak butuh kabel tambahan dari PSU**
 
 Dirilis sekitar tahun 2014, dan masih bisa jalan dengan driver resmi sampai sekarang. Varian yang saya pakai adalah **Zotac GTX 750 Ti 2GB**, bentuk kecil tapi bandel.
@@ -43,7 +46,9 @@ Nggak mewah, tapi punya makna. Karena setiap komponen yang saya beli, rasanya ka
 
 ## ⌛ Antara Kuno dan Klasik
 
-Zaman udah berubah. Sekarang GPU udah bisa AI-in gambar, ngedit video 4K, atau push 300 fps di game kompetitif. Tapi di pojokan meja, GTX 750 Ti masih bertahan. Bukan karena dia terbaik, tapi karena **dia cukup**. Dan kadang, **cukup itu lebih dari cukup.**
+Zaman udah berubah. Sekarang GPU udah bisa AI-in gambar, ngedit video 4K, atau push 300 fps di game kompetitif. Tapi di pojokan meja, GTX 750 Ti masih bertahan.
+
+> Bukan karena dia terbaik, tapi karena **dia cukup**. Dan kadang, **cukup itu lebih dari cukup.**
 
 Kita nggak selalu butuh yang paling cepat, paling mewah, atau paling baru. Kadang kita cuma butuh alat yang bisa dipercaya.
 
@@ -72,4 +77,4 @@ Selama dia masih bisa nyalain dua layar dan bikin kita bisa nulis baris demi bar
 
 ---
 
-> Ditulis di atas meja coding, ditemani kipas casing yang berisik, dan GPU yang masih setia muter fan-nya walau nggak lagi main game.
+> Ditulis di atas meja coding, ditemani kipas casing yang berisik, dan GPU yang masih setia muterin _fan_-nya walau nggak lagi main game.
