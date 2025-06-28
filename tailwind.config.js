@@ -1,5 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
+  darkMode: 'class', // <- penting: class-based
   content: [
     './layouts/**/*.html',
     './content/**/*.{html,md}',
@@ -12,8 +13,8 @@ module.exports = {
         sans: ['"Plus Jakarta Sans"', 'ui-sans-serif', 'system-ui'],
       },
       colors: {
-        primary: '#f07f48',   // orange
-        accent: '#659fb2',    // biru keabu-abuan
+        primary: '#f07f48',
+        secondary: '#659fb2',
       },
     },
   },

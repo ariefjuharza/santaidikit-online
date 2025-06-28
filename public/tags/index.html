@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="id">
+<html lang="id" class="scroll-smooth">
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -9,14 +9,13 @@
   <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;700&display=swap" rel="stylesheet">
 </head>
 
-<body class="bg-gradient-to-br from-white via-[#f0f0f0] to-[#e8eff1] text-gray-800 font-firacode antialiased">
+<body class="bg-gradient-to-br from-white via-[#f0f0f0] to-[#e8eff1] text-gray-800 font-firacode antialiased dark:from-[#1c1c1e] dark:via-[#222] dark:to-[#111] dark:text-gray-200">
   
   
-  <header class="bg-white/90 backdrop-blur-md shadow-sm sticky top-0 z-50">
+  <header class="bg-white/90 dark:bg-[#1e1e1e] backdrop-blur-md shadow-sm sticky top-0 z-50">
     <div class="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center animate-fade-in">
-      
       <a href="/">
-        <img src="/uploads/logo-santai.png" alt="santai dikit online" class="h-10 w-auto" />
+        <img src="/uploads/logo-santai.png" alt="santai dikit online" class="h-10 w-auto" loading="lazy">
       </a>
       <nav class="space-x-4 text-sm font-medium text-gray-700 font-sans">
         <a href="/" class="hover:text-[#f07f48] transition">Rumah</a>
@@ -24,6 +23,7 @@
         <a href="/cara-pikir/" class="hover:text-[#f07f48] transition">Pikiran</a>
         <a href="/tentang/" class="hover:text-[#f07f48] transition">Kenalan</a>
         <a href="/portofolio/" class="hover:text-[#f07f48] transition">Karya</a>
+        <button id="dark-toggle" class="ml-4 text-base transition hover:text-[#659fb2]">🌙 / ☀️</button>
       </nav>
     </div>
   </header>
@@ -67,19 +67,19 @@
       © 2025 santai dikit online
     </p>
 
-    <p class="mt-2 text-xs text-[#659fb2]">
+    <p class="mt-2 text-xs text-[#659fb2] dark:text-[#88c8da]">
       Dibuat dengan cinta, ditemani secangkir kopi & mikir santai ☕
     </p>
 
-    <div class="mt-8 text-xs text-[#659fb2] space-x-4">
-        <a href="/tentang/" class="hover:text-[#f07f48] transition">Tentang</a>
-        <a href="/portofolio/" class="hover:text-[#f07f48] transition">Proyek</a>
-        <a href="/privacy-policy/" class="hover:text-[#f07f48] transition">Privasi</a>
+    <div class="mt-8 text-xs text-[#659fb2] dark:text-[#88c8da] space-x-4">
+        <a href="/tentang/" class="hover:text-[#f07f48] dark:hover:text-[#f7a678] transition">Tentang</a>
+        <a href="/portofolio/" class="hover:text-[#f07f48] dark:hover:text-[#f7a678] transition">Proyek</a>
+        <a href="/privacy-policy/" class="hover:text-[#f07f48] dark:hover:text-[#f7a678] transition">Privasi</a>
       </div>
 
-    <p class="mt-4 text-xs text-[#659fb2]">
-        Powered by <a href="https://gohugo.io" class="text-[#f07f48] hover:underline">Hugo</a>
-        & <a href="https://tailwindcss.com" class="text-[#f07f48] hover:underline">Tailwind CSS</a>.
+      <p class="mt-4 text-xs text-[#659fb2] dark:text-[#88c8da]">
+        Powered by <a href="https://gohugo.io" class="text-[#f07f48] dark:text-[#f7a678] hover:underline">Hugo</a>
+        & <a href="https://tailwindcss.com" class="text-[#f07f48] dark:text-[#f7a678] hover:underline">Tailwind CSS</a>.
       </p>
   </div>
 </footer>
@@ -104,6 +104,22 @@
       100% { opacity: 1; transform: translateY(0); }
     }
   </style>
+
+  
+  <script>
+    const toggle = document.getElementById('dark-toggle');
+    const html = document.documentElement;
+
+    if (localStorage.getItem('theme') === 'dark' ||
+        (!localStorage.getItem('theme') && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+      html.classList.add('dark');
+    }
+
+    toggle.addEventListener('click', () => {
+      html.classList.toggle('dark');
+      localStorage.setItem('theme', html.classList.contains('dark') ? 'dark' : 'light');
+    });
+  </script>
 
 </body>
 </html>

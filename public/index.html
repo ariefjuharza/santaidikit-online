@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="id">
+<html lang="id" class="scroll-smooth">
 <head>
 	<meta name="generator" content="Hugo 0.147.8"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="UTF-8" />
@@ -10,14 +10,13 @@
   <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;700&display=swap" rel="stylesheet">
 </head>
 
-<body class="bg-gradient-to-br from-white via-[#f0f0f0] to-[#e8eff1] text-gray-800 font-firacode antialiased">
+<body class="bg-gradient-to-br from-white via-[#f0f0f0] to-[#e8eff1] text-gray-800 font-firacode antialiased dark:from-[#1c1c1e] dark:via-[#222] dark:to-[#111] dark:text-gray-200">
   
   
-  <header class="bg-white/90 backdrop-blur-md shadow-sm sticky top-0 z-50">
+  <header class="bg-white/90 dark:bg-[#1e1e1e] backdrop-blur-md shadow-sm sticky top-0 z-50">
     <div class="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center animate-fade-in">
-      
       <a href="/">
-        <img src="/uploads/logo-santai.png" alt="santai dikit online" class="h-10 w-auto" />
+        <img src="/uploads/logo-santai.png" alt="santai dikit online" class="h-10 w-auto" loading="lazy">
       </a>
       <nav class="space-x-4 text-sm font-medium text-gray-700 font-sans">
         <a href="/" class="hover:text-[#f07f48] transition">Rumah</a>
@@ -25,6 +24,7 @@
         <a href="/cara-pikir/" class="hover:text-[#f07f48] transition">Pikiran</a>
         <a href="/tentang/" class="hover:text-[#f07f48] transition">Kenalan</a>
         <a href="/portofolio/" class="hover:text-[#f07f48] transition">Karya</a>
+        <button id="dark-toggle" class="ml-4 text-base transition hover:text-[#659fb2]">🌙 / ☀️</button>
       </nav>
     </div>
   </header>
@@ -32,66 +32,70 @@
   
   <main class="px-4 sm:px-6 lg:px-8 py-12 max-w-5xl mx-auto animate-fade-in-up">
     
-  <section class="bg-gradient-to-br from-[#fff7f3] via-white to-[#f0f7f9] py-20 animate-fade-in">
-  <div class="container mx-auto px-6 text-center">
-    <h1 class="text-4xl md:text-6xl font-extrabold text-[#f07f48] leading-tight mb-4 font-sans">
-      🎯 santai dikit online
+  <section class="bg-gradient-to-br from-[#fefcfb] via-[#f6fafa] to-[#e8eff1] dark:from-[#1b1b1b] dark:via-[#1f2b30] dark:to-[#192023] py-20 transition-colors duration-500">
+  <div class="container mx-auto px-6 text-center animate-fade-in-up">
+    <h1 class="text-4xl md:text-6xl font-extrabold text-[#f07f48] dark:text-[#f07f48] leading-tight mb-4">
+      santai dikit online
     </h1>
-    <p class="text-lg md:text-xl text-[#444] max-w-2xl mx-auto mb-8 leading-relaxed font-sans">
+    <p class="text-lg md:text-xl text-gray-700 dark:text-gray-300 max-w-2xl mx-auto mb-8 leading-relaxed">
       Sebuah tempat buat yang pengen nyantai, tapi tetep pengen mikir dan dapet inspirasi.
     </p>
     <a href="#rekomendasi"
-       class="inline-block bg-[#659fb2] text-white font-semibold px-6 py-3 rounded-full shadow-md hover:bg-[#578fa5] hover:shadow-lg transition font-sans">
+       class="inline-block bg-[#659fb2] text-white font-semibold px-6 py-3 rounded-full shadow-md hover:bg-[#558a9a] hover:shadow-lg transition">
       😎 Lihat yang santai-santai yuk →
     </a>
   </div>
 </section>
 
-  <section class="bg-white py-20 border-t border-[#eee] animate-fade-in-up">
-  <div class="container mx-auto px-6 max-w-4xl text-center">
-    <h2 class="text-3xl md:text-4xl font-bold text-[#f07f48] mb-6 font-sans">
-      ✨ Tentang santai dikit online
+  <section class="bg-white dark:bg-[#121212] py-20 border-t border-gray-200 dark:border-gray-700 transition-colors duration-500">
+  <div class="container mx-auto px-6 max-w-4xl text-center animate-fade-in-up">
+    <h2 class="text-3xl md:text-4xl font-bold text-[#f07f48] dark:text-[#f07f48] mb-6">
+      Tentang santai dikit online 🌿
     </h2>
-    <p class="text-base md:text-lg text-[#444] leading-relaxed font-sans">
-      Di sini, kami bukan cuma nulis. Kami juga pengen kamu ikut mikir, ikut ngerasain, dan ikut berbagi.
-      Setiap tulisan, setiap gambar, setiap ide yang kami bagikan diharapkan bisa bikin kamu senyum, mikir, atau bahkan terinspirasi.
+    <p class="text-base md:text-lg text-gray-700 dark:text-gray-300 leading-relaxed">
+      Di sini, kami bukan cuma nulis. Kami juga pengen kamu ikut mikir, ikut ngerasain, dan ikut berbagi. Setiap tulisan, setiap gambar, setiap ide yang kami bagikan diharapkan bisa bikin kamu senyum, mikir, atau bahkan terinspirasi.
     </p>
-    <blockquote class="mt-6 border-l-4 border-[#659fb2] pl-4 text-base md:text-lg text-[#659fb2] italic font-sans">
-      🍃 Gak perlu buru-buru, santai aja.
+    <blockquote class="mt-6 border-l-4 pl-4 border-[#659fb2] text-[#659fb2] dark:text-[#85c9dc] italic text-base md:text-lg leading-relaxed">
+      Gak perlu buru-buru, santai aja 🍃
     </blockquote>
   </div>
 </section>
-
-  <section id="rekomendasi" class="py-20 px-6 bg-[#fefefe] text-gray-900 font-sans animate-fade-in-up">
-  <div class="max-w-5xl mx-auto text-center">
-    <h2 class="text-3xl md:text-4xl font-bold mb-4 text-[#f07f48]">
+  <section id="rekomendasi" class="py-20 px-6 bg-slate-50 dark:bg-[#1b1b1b] text-gray-900 dark:text-gray-100 font-firacode transition-colors duration-500">
+  <div class="max-w-5xl mx-auto text-center animate-fade-in-up">
+    <h2 class="text-3xl md:text-4xl font-bold mb-4 text-[#f07f48] dark:text-[#f07f48]">
       ✨ Eh, Coba Lihat yang Ini
     </h2>
-    <p class="text-lg leading-relaxed text-[#444] mb-10">
+    <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300 mb-10">
       Kadang kita nemu hal-hal seru pas lagi nggak nyari apa-apa. Nah, ini beberapa hal yang menurut kami asik, inspiratif, atau sekadar bikin senyum sendiri.
     </p>
 
     <div class="grid md:grid-cols-3 gap-8 text-left">
       
-      <div class="p-6 bg-white border border-[#ddd] rounded-lg shadow hover:shadow-md transition duration-300">
-        <h3 class="text-xl font-semibold mb-2 text-[#659fb2]">📚 Buku Ringan Tapi Nendang</h3>
-        <p class="text-sm text-gray-700 leading-relaxed">
+      <div class="p-6 bg-white dark:bg-[#262626] border border-gray-200 dark:border-gray-700 rounded-lg shadow hover:shadow-md transition animate-fade-in-up">
+        <h3 class="text-xl font-semibold mb-2 text-[#659fb2] dark:text-[#85c9dc]">
+          📚 Buku Ringan Tapi Nendang
+        </h3>
+        <p class="text-sm text-gray-700 dark:text-gray-300 leading-relaxed">
           Buku yang bisa dibaca sambil rebahan tapi isinya bikin kamu mikir dua kali soal hidup.
         </p>
       </div>
 
       
-      <div class="p-6 bg-white border border-[#ddd] rounded-lg shadow hover:shadow-md transition duration-300">
-        <h3 class="text-xl font-semibold mb-2 text-[#659fb2]">☕ Podcast untuk Teman Kopi</h3>
-        <p class="text-sm text-gray-700 leading-relaxed">
+      <div class="p-6 bg-white dark:bg-[#262626] border border-gray-200 dark:border-gray-700 rounded-lg shadow hover:shadow-md transition animate-fade-in-up">
+        <h3 class="text-xl font-semibold mb-2 text-[#659fb2] dark:text-[#85c9dc]">
+          🎧 Podcast untuk Teman Kopi
+        </h3>
+        <p class="text-sm text-gray-700 dark:text-gray-300 leading-relaxed">
           Nggak berat, tapi ada isi. Cocok banget didengerin pas lagi nyantai sore-sore.
         </p>
       </div>
 
       
-      <div class="p-6 bg-white border border-[#ddd] rounded-lg shadow hover:shadow-md transition duration-300">
-        <h3 class="text-xl font-semibold mb-2 text-[#659fb2]">📺 Channel YouTube Asik</h3>
-        <p class="text-sm text-gray-700 leading-relaxed">
+      <div class="p-6 bg-white dark:bg-[#262626] border border-gray-200 dark:border-gray-700 rounded-lg shadow hover:shadow-md transition animate-fade-in-up">
+        <h3 class="text-xl font-semibold mb-2 text-[#659fb2] dark:text-[#85c9dc]">
+          📺 Channel YouTube Asik
+        </h3>
+        <p class="text-sm text-gray-700 dark:text-gray-300 leading-relaxed">
           Visual santai, suara adem, tapi bahasannya kadang bikin “oh, iya ya...”
         </p>
       </div>
@@ -99,36 +103,36 @@
   </div>
 </section>
 
-  <section id="cara-pikir" class="py-20 px-6 bg-[#fefefe] text-gray-900 font-sans animate-fade-in-up">
-  <div class="max-w-4xl mx-auto text-center">
-    <h2 class="text-3xl md:text-4xl font-bold mb-4 text-[#f07f48]">
-      ✏️ Cara Pikir Kita
+  <section id="cara-pikir" class="py-20 px-6 bg-gray-50 dark:bg-[#1b1b1b] text-gray-900 dark:text-gray-100 transition-colors duration-500">
+  <div class="max-w-4xl mx-auto text-center animate-fade-in-up">
+    <h2 class="text-3xl md:text-4xl font-bold mb-4 text-[#f07f48] dark:text-[#f07f48]">
+      💭 Cara Pikir Kita
     </h2>
-    <p class="text-lg mb-10 text-[#444] leading-relaxed">
+    <p class="text-lg mb-10 text-gray-700 dark:text-gray-300 leading-relaxed">
       Kadang hidup terasa ribet karena cara mikir kita sendiri yang muter-muter. Di sini, kami coba tawarin cara pandang yang lebih enteng, tapi tetap nyambung sama hidup sehari-hari.
     </p>
 
     <div class="space-y-8 text-left">
       
-      <div class="p-6 bg-white border border-[#ddd] rounded-lg shadow hover:shadow-md transition duration-300">
-        <h3 class="text-xl font-semibold mb-2 text-[#659fb2]">🧘‍♂️ Nggak Semua Harus Heboh</h3>
-        <p class="text-sm text-gray-700 leading-relaxed">
+      <div class="p-6 bg-white dark:bg-[#262626] rounded-lg shadow hover:shadow-md transition animate-fade-in-up">
+        <h3 class="text-xl font-semibold mb-2 text-[#659fb2] dark:text-[#85c9dc]">🧘‍♂️ Nggak Semua Harus Heboh</h3>
+        <p class="text-sm text-gray-700 dark:text-gray-300 leading-relaxed">
           Kadang diam itu solusi. Nggak semua hal harus dikomentari atau ditanggapi buru-buru.
         </p>
       </div>
 
       
-      <div class="p-6 bg-white border border-[#ddd] rounded-lg shadow hover:shadow-md transition duration-300">
-        <h3 class="text-xl font-semibold mb-2 text-[#659fb2]">💡 Santai Bukan Berarti Nggak Serius</h3>
-        <p class="text-sm text-gray-700 leading-relaxed">
+      <div class="p-6 bg-white dark:bg-[#262626] rounded-lg shadow hover:shadow-md transition animate-fade-in-up">
+        <h3 class="text-xl font-semibold mb-2 text-[#659fb2] dark:text-[#85c9dc]">☕ Santai Bukan Berarti Nggak Serius</h3>
+        <p class="text-sm text-gray-700 dark:text-gray-300 leading-relaxed">
           Justru dengan pikiran yang tenang, kita bisa lebih jernih mikir dan ambil keputusan.
         </p>
       </div>
 
       
-      <div class="p-6 bg-white border border-[#ddd] rounded-lg shadow hover:shadow-md transition duration-300">
-        <h3 class="text-xl font-semibold mb-2 text-[#659fb2]">🧠 Berpikir Boleh, Panik Jangan</h3>
-        <p class="text-sm text-gray-700 leading-relaxed">
+      <div class="p-6 bg-white dark:bg-[#262626] rounded-lg shadow hover:shadow-md transition animate-fade-in-up">
+        <h3 class="text-xl font-semibold mb-2 text-[#659fb2] dark:text-[#85c9dc]">🌀 Berpikir Boleh, Panik Jangan</h3>
+        <p class="text-sm text-gray-700 dark:text-gray-300 leading-relaxed">
           Dunia ini memang aneh. Tapi kita masih bisa memilih bagaimana merespons semuanya.
         </p>
       </div>
@@ -136,35 +140,35 @@
   </div>
 </section>
 
-  <section class="bg-white py-20 border-t border-gray-200 font-sans animate-fade-in-up">
-  <div class="container mx-auto px-6 max-w-5xl">
-    <h2 class="text-3xl md:text-4xl font-bold text-[#f07f48] mb-6 text-center">
+  <section class="bg-white dark:bg-[#121212] py-20 border-t border-gray-200 dark:border-gray-700 transition-colors duration-500">
+  <div class="container mx-auto px-6 max-w-5xl animate-fade-in-up">
+    <h2 class="text-3xl md:text-4xl font-bold text-[#f07f48] dark:text-[#f07f48] mb-6 text-center">
       ✍️ Tulisan Terbaru di Meja Coding
     </h2>
     <div class="grid gap-8 md:grid-cols-2">
       
-        <div class="p-6 bg-white border border-[#e1e1e1] rounded-lg shadow hover:shadow-md transition duration-300">
-          <h3 class="text-xl font-semibold text-[#659fb2] mb-2">
+        <div class="p-6 bg-white dark:bg-[#1e1e1e] border border-gray-200 dark:border-gray-700 rounded-lg shadow hover:shadow-md transition animate-fade-in-up">
+          <h3 class="text-xl font-semibold text-[#659fb2] dark:text-[#85c9dc] mb-2">
             <a href="/posts/cerita-tentang-gtx-750-ti/" class="hover:underline">GTX 750 Ti dan Meja Coding: Teman Setia di Era Digital</a>
           </h3>
-          <p class="text-sm text-gray-500 mb-2">27 Jun 2025</p>
+          <p class="text-sm text-gray-500 dark:text-gray-400 mb-2">27 Jun 2025</p>
           
-            <p class="text-sm text-gray-700 leading-relaxed">Cerita soal GPU jadul yang tetap setia menemani coding sehari-hari. Nggak harus canggih buat jadi produktif.</p>
+            <p class="text-sm text-gray-700 dark:text-gray-300 leading-relaxed">Cerita soal GPU jadul yang tetap setia menemani coding sehari-hari. Nggak harus canggih buat jadi produktif.</p>
           
-          <a href="/posts/cerita-tentang-gtx-750-ti/" class="text-[#f07f48] hover:underline text-sm font-medium mt-3 inline-block">
+          <a href="/posts/cerita-tentang-gtx-750-ti/" class="text-[#f07f48] dark:text-[#f07f48] hover:underline text-sm font-medium mt-3 inline-block">
             Baca Selengkapnya →
           </a>
         </div>
       
-        <div class="p-6 bg-white border border-[#e1e1e1] rounded-lg shadow hover:shadow-md transition duration-300">
-          <h3 class="text-xl font-semibold text-[#659fb2] mb-2">
+        <div class="p-6 bg-white dark:bg-[#1e1e1e] border border-gray-200 dark:border-gray-700 rounded-lg shadow hover:shadow-md transition animate-fade-in-up">
+          <h3 class="text-xl font-semibold text-[#659fb2] dark:text-[#85c9dc] mb-2">
             <a href="/posts/santai-dikit-tapi-jalan-terus/" class="hover:underline">Santai Dikit, Tapi Jalan Terus</a>
           </h3>
-          <p class="text-sm text-gray-500 mb-2">26 Jun 2025</p>
+          <p class="text-sm text-gray-500 dark:text-gray-400 mb-2">26 Jun 2025</p>
           
-            <p class="text-sm text-gray-700 leading-relaxed">Nggak harus alat canggih untuk mulai produktif. Cerita tentang berkarya di tengah keterbatasan, dengan gaya santai tapi tetap mikir.</p>
+            <p class="text-sm text-gray-700 dark:text-gray-300 leading-relaxed">Nggak harus alat canggih untuk mulai produktif. Cerita tentang berkarya di tengah keterbatasan, dengan gaya santai tapi tetap mikir.</p>
           
-          <a href="/posts/santai-dikit-tapi-jalan-terus/" class="text-[#f07f48] hover:underline text-sm font-medium mt-3 inline-block">
+          <a href="/posts/santai-dikit-tapi-jalan-terus/" class="text-[#f07f48] dark:text-[#f07f48] hover:underline text-sm font-medium mt-3 inline-block">
             Baca Selengkapnya →
           </a>
         </div>
@@ -173,41 +177,41 @@
   </div>
 </section>
 
-  <section class="bg-[#f6f9fa] py-20 font-firacode animate-fade-in-up" id="portofolio">
-  <div class="max-w-5xl mx-auto px-4">
-    <h2 class="text-3xl md:text-4xl font-bold text-[#f07f48] mb-4 text-center">
-      🎨 Beberapa Hal Seru yang Pernah Kita Kerjain
+  <section class="bg-slate-50 dark:bg-[#121212] py-20 font-firacode transition-colors duration-500" id="portofolio">
+  <div class="max-w-5xl mx-auto px-4 animate-fade-in-up">
+    <h2 class="text-3xl md:text-4xl font-bold text-[#f07f48] dark:text-[#f07f48] mb-4 text-center">
+      🛠️ Beberapa Hal Seru yang Pernah Kita Kerjain
     </h2>
-    <p class="text-lg text-[#659fb2] text-center mb-12 leading-relaxed">
+    <p class="text-lg text-gray-600 dark:text-gray-300 text-center mb-12 leading-relaxed">
       Kadang-kadang kita santai, kadang-kadang juga bikin hal keren. Nih dia beberapa proyek yang udah kita garap.
     </p>
 
     <div class="grid md:grid-cols-3 gap-8">
       
-      <div class="bg-white border border-gray-200 rounded-lg shadow hover:shadow-md transition duration-300 p-6">
-        <h3 class="text-xl font-semibold text-[#659fb2] mb-2">📱 Aplikasi Catatan Santai</h3>
-        <p class="text-sm text-gray-700 mb-4 leading-relaxed">
+      <div class="bg-white dark:bg-[#1e1e1e] border border-gray-200 dark:border-gray-700 rounded-lg shadow hover:shadow-md transition p-6 animate-fade-in-up">
+        <h3 class="text-xl font-semibold text-[#659fb2] dark:text-[#85c9dc] mb-2">📱 Aplikasi Catatan Santai</h3>
+        <p class="text-sm text-gray-700 dark:text-gray-300 mb-4 leading-relaxed">
           Aplikasi ringan buat nyatet ide-ide random pas lagi ngopi. Simpel, offline, dan gak bikin ribet.
         </p>
-        <a href="#" class="text-[#f07f48] hover:underline text-sm font-medium">Lihat detail</a>
+        <a href="#" class="text-[#f07f48] dark:text-[#f07f48] hover:underline text-sm font-medium">Lihat detail</a>
       </div>
 
       
-      <div class="bg-white border border-gray-200 rounded-lg shadow hover:shadow-md transition duration-300 p-6">
-        <h3 class="text-xl font-semibold text-[#659fb2] mb-2">🌐 Landing Page Minimalis</h3>
-        <p class="text-sm text-gray-700 mb-4 leading-relaxed">
+      <div class="bg-white dark:bg-[#1e1e1e] border border-gray-200 dark:border-gray-700 rounded-lg shadow hover:shadow-md transition p-6 animate-fade-in-up">
+        <h3 class="text-xl font-semibold text-[#659fb2] dark:text-[#85c9dc] mb-2">🌐 Landing Page Minimalis</h3>
+        <p class="text-sm text-gray-700 dark:text-gray-300 mb-4 leading-relaxed">
           Proyek website satu halaman untuk teman yang jual kopi rumahan. Desainnya bersih, bahasanya santai.
         </p>
-        <a href="#" class="text-[#f07f48] hover:underline text-sm font-medium">Lihat detail</a>
+        <a href="#" class="text-[#f07f48] dark:text-[#f07f48] hover:underline text-sm font-medium">Lihat detail</a>
       </div>
 
       
-      <div class="bg-white border border-gray-200 rounded-lg shadow hover:shadow-md transition duration-300 p-6">
-        <h3 class="text-xl font-semibold text-[#659fb2] mb-2">🎧 Playlist Coding Santai</h3>
-        <p class="text-sm text-gray-700 mb-4 leading-relaxed">
+      <div class="bg-white dark:bg-[#1e1e1e] border border-gray-200 dark:border-gray-700 rounded-lg shadow hover:shadow-md transition p-6 animate-fade-in-up">
+        <h3 class="text-xl font-semibold text-[#659fb2] dark:text-[#85c9dc] mb-2">🎧 Playlist Coding Santai</h3>
+        <p class="text-sm text-gray-700 dark:text-gray-300 mb-4 leading-relaxed">
           Kurasi lagu-lagu chill buat nemenin ngoding malam. Udah dicoba sendiri — bisa fokus, bisa senyum.
         </p>
-        <a href="#" class="text-[#f07f48] hover:underline text-sm font-medium">Lihat detail</a>
+        <a href="#" class="text-[#f07f48] dark:text-[#f07f48] hover:underline text-sm font-medium">Lihat detail</a>
       </div>
     </div>
   </div>
@@ -223,19 +227,19 @@
       © 2025 santai dikit online
     </p>
 
-    <p class="mt-2 text-xs text-[#659fb2]">
+    <p class="mt-2 text-xs text-[#659fb2] dark:text-[#88c8da]">
       Dibuat dengan cinta, ditemani secangkir kopi & mikir santai ☕
     </p>
 
-    <div class="mt-8 text-xs text-[#659fb2] space-x-4">
-        <a href="/tentang/" class="hover:text-[#f07f48] transition">Tentang</a>
-        <a href="/portofolio/" class="hover:text-[#f07f48] transition">Proyek</a>
-        <a href="/privacy-policy/" class="hover:text-[#f07f48] transition">Privasi</a>
+    <div class="mt-8 text-xs text-[#659fb2] dark:text-[#88c8da] space-x-4">
+        <a href="/tentang/" class="hover:text-[#f07f48] dark:hover:text-[#f7a678] transition">Tentang</a>
+        <a href="/portofolio/" class="hover:text-[#f07f48] dark:hover:text-[#f7a678] transition">Proyek</a>
+        <a href="/privacy-policy/" class="hover:text-[#f07f48] dark:hover:text-[#f7a678] transition">Privasi</a>
       </div>
 
-    <p class="mt-4 text-xs text-[#659fb2]">
-        Powered by <a href="https://gohugo.io" class="text-[#f07f48] hover:underline">Hugo</a>
-        & <a href="https://tailwindcss.com" class="text-[#f07f48] hover:underline">Tailwind CSS</a>.
+      <p class="mt-4 text-xs text-[#659fb2] dark:text-[#88c8da]">
+        Powered by <a href="https://gohugo.io" class="text-[#f07f48] dark:text-[#f7a678] hover:underline">Hugo</a>
+        & <a href="https://tailwindcss.com" class="text-[#f07f48] dark:text-[#f7a678] hover:underline">Tailwind CSS</a>.
       </p>
   </div>
 </footer>
@@ -260,6 +264,22 @@
       100% { opacity: 1; transform: translateY(0); }
     }
   </style>
+
+  
+  <script>
+    const toggle = document.getElementById('dark-toggle');
+    const html = document.documentElement;
+
+    if (localStorage.getItem('theme') === 'dark' ||
+        (!localStorage.getItem('theme') && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+      html.classList.add('dark');
+    }
+
+    toggle.addEventListener('click', () => {
+      html.classList.toggle('dark');
+      localStorage.setItem('theme', html.classList.contains('dark') ? 'dark' : 'light');
+    });
+  </script>
 
 </body>
 </html>
