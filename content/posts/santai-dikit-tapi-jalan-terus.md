@@ -2,9 +2,9 @@
 title: Santai Dikit, Tapi Jalan Terus
 date: 2025-06-26T05:26:00
 ---
-![](/uploads/post-1.png)
+![](/uploads/Nighttime_Coding_Session.png)
 
-# **Nggak Harus Canggih Buat Jadi Produktif**
+# **_Nggak Harus Canggih Buat Jadi Produktif_**
 
 Pernah ngerasa minder gara-gara laptop yang kamu pakai udah kayak pemanas air? Atau HP yang tiap buka aplikasi butuh doa dulu biar nggak nge-lag? Tenang. Kamu nggak sendiri. Dan, kamu juga nggak harus upgrade ke perangkat mahal dulu buat mulai ngelakuin hal keren.
 
