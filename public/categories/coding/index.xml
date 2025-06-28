@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Coding on santaidikit</title>
+    <link>http://localhost:1313/categories/coding/</link>
+    <description>Recent content in Coding on santaidikit</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>id</language>
+    <lastBuildDate>Sat, 28 Jun 2025 22:00:00 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/coding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contoh Post dengan Highlight Kode</title>
+      <link>http://localhost:1313/posts/contoh-highlight-kode/</link>
+      <pubDate>Sat, 28 Jun 2025 22:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/posts/contoh-highlight-kode/</guid>
+      <description>Ini contoh bagaimana menampilkan kode dengan highlight di Hugo &#43; Tailwind CSS &#43; Dark Mode.</description>
+    </item>
+  </channel>
+</rss>

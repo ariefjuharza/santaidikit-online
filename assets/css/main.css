@@ -1,3 +1,33 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* ===== Custom Syntax Highlighting Colors ===== */
+code,
+pre {
+  @apply font-mono text-sm rounded overflow-x-auto;
+}
+
+pre code {
+  @apply block p-4;
+}
+
+/* Ganti warna berdasarkan class Hugo/Chroma */
+.chroma {
+  background-color: #fefcf9; /* latar belakang light mode */
+  color: #2e2e2e;
+}
+
+.dark .chroma {
+  background-color: #1c1c1c; /* latar belakang dark mode */
+  color: #d4d4d4;
+}
+
+/* Highlight Token Classes */
+.chroma .nb { color: #659fb2; } /* Builtin Name (fungsi dll) */
+.chroma .k  { color: #f07f48; font-weight: bold; } /* Keyword */
+.chroma .s  { color: #659fb2; } /* Strings */
+.chroma .c  { color: #999999; font-style: italic; } /* Comments */
+.chroma .mi { color: #f07f48; } /* Numbers */
+.chroma .o  { color: #f07f48; } /* Operators */
+

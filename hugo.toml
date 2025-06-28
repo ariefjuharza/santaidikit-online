@@ -5,3 +5,8 @@ theme = "PaperMod"
 
 [params]
   env = "development"
+
+[markup]
+  [markup.highlight]
+    style = "monokai"
+    noClasses = false
