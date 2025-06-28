@@ -11,6 +11,10 @@ module.exports = {
         firacode: ['"Fira Code"', 'monospace'],
         sans: ['"Plus Jakarta Sans"', 'ui-sans-serif', 'system-ui'],
       },
+      colors: {
+        primary: '#f07f48',   // orange
+        accent: '#659fb2',    // biru keabu-abuan
+      },
     },
   },
   plugins: [
