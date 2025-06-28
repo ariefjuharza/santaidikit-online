@@ -1,13 +1,11 @@
 ---
 title: "GTX 750 Ti dan Meja Coding: Teman Setia di Era Digital"
-date: 2025-06-28T21:00:00
+date: 2025-06-28T21:00:00+07:00
 draft: false
-slug: cerita-tentang-gtx-750-ti
 categories: ["perangkat"]
 tags: ["gpu", "nostalgia", "750ti"]
 description: "Cerita soal GPU jadul yang tetap setia menemani coding sehari-hari. Nggak harus canggih buat jadi produktif."
 ---
-
 **Kadang, yang nggak terlalu canggih justru yang paling setia.**  
 Begitu juga dengan satu benda kecil yang sudah nemenin hari-hari di depan layar: **NVIDIA GTX 750 Ti.**
 
@@ -54,6 +52,7 @@ Kita nggak selalu butuh yang paling cepat, paling mewah, atau paling baru. Kadan
 ## 🧠 Pelajaran dari Sebuah Kartu Grafis
 
 GTX 750 Ti ngajarin satu hal penting:
+
 > **Nggak harus canggih buat bisa produktif.**
 
 Selama kita tahu apa yang kita butuh, dan kita bisa maksimalkan yang kita punya, maka kita udah menang separuh jalan.
