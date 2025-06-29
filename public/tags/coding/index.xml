@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Coding on santaidikit</title>
-    <link>http://localhost:1313/categories/coding/</link>
+    <link>http://localhost:1313/tags/coding/</link>
     <description>Recent content in Coding on santaidikit</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>id</language>
     <lastBuildDate>Sun, 29 Jun 2025 23:45:00 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/coding/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/coding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>12 Bahasa Pemrograman Populer &#43; Contoh Kode (Bagian 2 – Versi Santai Dikit)</title>
       <link>http://localhost:1313/posts/jenis-bahasa-pemrograman-bagian-2/</link>
@@ -21,13 +21,6 @@
       <pubDate>Sun, 29 Jun 2025 23:30:00 +0700</pubDate>
       <guid>http://localhost:1313/posts/jenis-bahasa-pemrograman-bagian-1/</guid>
       <description>Penjelasan singkat tentang berbagai bahasa pemrograman yang sering ditemui, dibahas santai plus contoh sintaksnya biar nggak cuma teori doang.</description>
-    </item>
-    <item>
-      <title>Contoh Highlight Kode: Biar Nggak Pusing Sendiri</title>
-      <link>http://localhost:1313/posts/contoh-highlight-kode/</link>
-      <pubDate>Sat, 28 Jun 2025 22:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/posts/contoh-highlight-kode/</guid>
-      <description>Highlight kode bisa jadi hal kecil yang bikin semangat ngoding naik dikit. Ini contoh cara nampilkan kode di blog Hugo kamu.</description>
     </item>
   </channel>
 </rss>
