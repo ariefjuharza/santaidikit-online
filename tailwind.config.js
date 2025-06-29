@@ -21,4 +21,8 @@ module.exports = {
   plugins: [
     require('@tailwindcss/typography'),
   ],
+  safelist: [
+  'hljs', 'language-javascript', 'language-python', 'token', 'comment', 'keyword', 'string',
+  // dan class lain dari Chroma/Prism
+]
 }

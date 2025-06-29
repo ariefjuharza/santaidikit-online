@@ -12,7 +12,7 @@ slug: "cerita-tentang-gtx-750-ti"
 **Kadang, yang nggak terlalu canggih justru yang paling setia.**  
 Begitu juga dengan satu benda kecil yang sudah nemenin hari-hari di depan layar: **NVIDIA GTX 750 Ti.**
 
-GPU ini nggak pernah minta banyak. Daya kecil, nggak rewel, tapi cukup buat jalanin dua monitor, coding seharian, nonton YouTube, bahkan nyempetin main game indie kalau lagi suntuk. Dulu dia mungkin digadang-gadang buat main DOTA 2 atau CS:GO, tapi sekarang dia lebih banyak duduk tenang di balik casing, bantu nge-render teks dan syntax highlighting.
+GPU ini nggak pernah minta banyak. Daya kecil, nggak rewel, tapi cukup buat jalanin dua monitor, coding seharian, nonton YouTube, bahkan nyempetin main game indie kalau lagi suntuk. Dulu dia mungkin digadang-gadang buat main DOTA 2 atau CS:GO, tapi sekarang dia lebih banyak duduk tenang di balik casing — bantu nge-render teks dan syntax highlighting.
 
 ---
 
@@ -25,32 +25,32 @@ GPU ini nggak pernah minta banyak. Daya kecil, nggak rewel, tapi cukup buat jala
 - Port: DVI-D, DVI-I, miniHDMI  
 - Power: **Tidak butuh kabel tambahan dari PSU**
 
-Dirilis sekitar tahun 2014, dan masih bisa jalan dengan driver resmi sampai sekarang. Varian yang saya pakai adalah **Zotac GTX 750 Ti 2GB**, bentuk kecil tapi bandel.
+Dirilis sekitar tahun 2014, dan masih bisa jalan dengan driver resmi sampai sekarang. Varian yang dipakai adalah **Zotac GTX 750 Ti 2GB** — bentuk mungil tapi bandel.
 
 ---
 
-## 🧷 Konektor yang Sudah Nggak Sekuat Dulu
+## 🧷 Konektor yang Udah Nggak Sekuat Dulu
 
-Jujur aja, sekarang konektor mini-HDMI-nya udah mulai rewel.
-Kalau kabelnya kesenggol dikit aja, monitor bisa langsung blank — kayak lagi ngambek karena terlalu tua dipakai kerja. Kadang bikin kesel, tapi juga bikin ketawa sendiri, karena... ya ini bagian dari hidup bareng perangkat lama.
+Jujur aja, konektor mini-HDMI-nya sekarang udah agak rewel.
+Kalau kabelnya kesenggol dikit, monitor bisa langsung blank — kayak lagi ngambek karena terlalu tua dipakai kerja. Kadang bikin kesel, tapi juga bikin ketawa sendiri, karena... ya ini bagian dari hidup bareng perangkat lama.
 
 ---
 
 ## 💻 Dari Iklan Aplikasi ke Meja Coding
 
-GTX 750 Ti dikenal sebagai GPU yang hemat daya. Nggak perlu kabel tambahan dari PSU. Cocok banget buat PC rakitan saya dulu — yang berhasil saya bangun **dari penghasilan iklan aplikasi Android** buatan sendiri.
+GTX 750 Ti dikenal sebagai GPU hemat daya. Nggak butuh kabel tambahan dari PSU. Cocok banget buat PC rakitan pertama — yang berhasil dibangun **dari penghasilan iklan aplikasi Android** buatan sendiri.
 
-Nggak mewah, tapi punya makna. Karena setiap komponen yang saya beli, rasanya kayak hasil kerja keras sendiri. GPU ini jadi salah satu saksi bisu waktu pertama kali saya serius ngoding, bukan cuma untuk belajar, tapi buat hidup.
+Nggak mewah, tapi punya makna. Karena tiap komponen yang dibeli waktu itu, kayak hasil kerja keras sendiri. GPU ini jadi saksi bisu saat pertama kali mulai ngoding serius — bukan cuma buat belajar, tapi buat hidup.
 
 ---
 
 ## ⌛ Antara Kuno dan Klasik
 
-Zaman udah berubah. Sekarang GPU udah bisa AI-in gambar, ngedit video 4K, atau push 300 fps di game kompetitif. Tapi di pojokan meja, GTX 750 Ti masih bertahan.
+Zaman udah berubah. GPU sekarang udah bisa AI-in gambar, ngedit video 4K, atau push 300 fps di game kompetitif. Tapi di pojokan meja, GTX 750 Ti masih bertahan.
 
 > Bukan karena dia terbaik, tapi karena **dia cukup**. Dan kadang, **cukup itu lebih dari cukup.**
 
-Kita nggak selalu butuh yang paling cepat, paling mewah, atau paling baru. Kadang kita cuma butuh alat yang bisa dipercaya.
+Kita nggak selalu butuh yang paling cepat, paling baru, atau paling mewah. Kadang kita cuma butuh satu alat yang bisa diandalkan.
 
 ---
 
@@ -67,8 +67,8 @@ Selama kita tahu apa yang kita butuh, dan kita bisa maksimalkan yang kita punya,
 ## 📦 Akhir Kata: Jangan Dulu Dijual
 
 Banyak yang bilang, “Udah, jual aja. Nggak seberapa harganya.”  
-Tapi nggak semua hal harus diukur dengan harga.  
-Ada juga nilai **kenangan**, **fungsi**, dan **setia menemani**.
+Tapi nggak semua hal harus diukur pakai angka.  
+Ada nilai **kenangan**, **fungsi**, dan **setia nemenin**.
 
 Selama dia masih bisa nyalain dua layar dan bikin kita bisa nulis baris demi baris kode, dia akan tetap ada di meja — sampai waktu yang memisahkan.
 
@@ -77,4 +77,8 @@ Selama dia masih bisa nyalain dua layar dan bikin kita bisa nulis baris demi bar
 
 ---
 
-> Ditulis di atas meja coding, ditemani kipas casing yang berisik, dan GPU yang masih setia muterin _fan_-nya walau nggak lagi main game.
+**✍️ Ditulis oleh Si Dikit**
+
+_Tulisan ini disusun dengan GPU yang sama sejak zaman HTML masih diketik di Notepad. Fan-nya masih muter, walau kadang kayak berisik minta libur. Tapi ya... dia masih setia._
+
+

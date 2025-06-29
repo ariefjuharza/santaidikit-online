@@ -1,0 +1,26 @@
+{{ define "main" }}
+<section class="py-20 px-6 bg-slate-50 dark:bg-[#1b1b1b] text-gray-900 dark:text-gray-100 font-firacode transition-colors duration-500">
+  <div class="max-w-5xl mx-auto text-center animate-fade-in-up">
+    <h2 class="text-3xl md:text-4xl font-bold mb-4 text-[#f07f48] dark:text-[#f07f48]">
+      ✨ Eh, Coba Lihat yang Ini
+    </h2>
+    <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300 mb-10">
+      Kadang kita nemu hal-hal seru pas lagi nggak nyari apa-apa. Nah, ini beberapa hal yang menurut kami asik, inspiratif, atau sekadar bikin senyum sendiri.
+    </p>
+
+    <div class="grid md:grid-cols-3 gap-8 text-left">
+      {{ range .Pages }}
+      <div class="p-6 bg-white dark:bg-[#262626] border border-gray-200 dark:border-gray-700 rounded-lg shadow hover:shadow-md transition animate-fade-in-up">
+        <h3 class="text-xl font-semibold mb-2 text-[#659fb2] dark:text-[#85c9dc]">
+          {{ .Title }}
+        </h3>
+        <p class="text-sm text-gray-700 dark:text-gray-300 leading-relaxed mb-4">
+          {{ .Params.description }}
+        </p>
+        <a href="{{ .RelPermalink }}" class="text-sm text-[#f07f48] hover:underline">Lihat detail →</a>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}

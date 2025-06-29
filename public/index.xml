@@ -9,11 +9,32 @@
     <lastBuildDate>Sat, 28 Jun 2025 22:00:00 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Contoh Post dengan Highlight Kode</title>
+      <title>Contoh Highlight Kode: Biar Nggak Pusing Sendiri</title>
       <link>http://localhost:1313/posts/contoh-highlight-kode/</link>
       <pubDate>Sat, 28 Jun 2025 22:00:00 +0700</pubDate>
       <guid>http://localhost:1313/posts/contoh-highlight-kode/</guid>
-      <description>Ini contoh bagaimana menampilkan kode dengan highlight di Hugo &#43; Tailwind CSS &#43; Dark Mode.</description>
+      <description>Highlight kode bisa jadi hal kecil yang bikin semangat ngoding naik dikit. Ini contoh cara nampilkan kode di blog Hugo kamu.</description>
+    </item>
+    <item>
+      <title>🎧 Podcast untuk Teman Kopi</title>
+      <link>http://localhost:1313/rekomendasi/podcast-untuk-teman-kopi/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/rekomendasi/podcast-untuk-teman-kopi/</guid>
+      <description>Nggak berat, tapi ada isi. Cocok banget didengerin pas lagi nyantai sore-sore.</description>
+    </item>
+    <item>
+      <title>📚 Buku Ringan Tapi Nendang</title>
+      <link>http://localhost:1313/rekomendasi/buku-ringan-tapi-nendang/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/rekomendasi/buku-ringan-tapi-nendang/</guid>
+      <description>Buku yang bisa dibaca sambil rebahan tapi isinya bikin kamu mikir dua kali soal hidup.</description>
+    </item>
+    <item>
+      <title>📺 Channel YouTube Asik</title>
+      <link>http://localhost:1313/rekomendasi/channel-youtube-asik/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/rekomendasi/channel-youtube-asik/</guid>
+      <description>Visual santai, suara adem, tapi bahasannya kadang bikin “oh, iya ya...”</description>
     </item>
     <item>
       <title>GTX 750 Ti dan Meja Coding: Teman Setia di Era Digital</title>
@@ -28,6 +49,27 @@
       <pubDate>Thu, 26 Jun 2025 05:26:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/santai-dikit-tapi-jalan-terus/</guid>
       <description>Nggak harus alat canggih untuk mulai produktif. Cerita tentang berkarya di tengah keterbatasan, dengan gaya santai tapi tetap mikir.</description>
+    </item>
+    <item>
+      <title>☕ Santai Bukan Berarti Nggak Serius</title>
+      <link>http://localhost:1313/cara-pikir/santai-bukan-berarti-nggak-serius/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cara-pikir/santai-bukan-berarti-nggak-serius/</guid>
+      <description>Justru dengan pikiran yang tenang, kita bisa lebih jernih mikir dan ambil keputusan.</description>
+    </item>
+    <item>
+      <title>🌀 Berpikir Boleh, Panik Jangan</title>
+      <link>http://localhost:1313/cara-pikir/berpikir-boleh-panik-jangan/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cara-pikir/berpikir-boleh-panik-jangan/</guid>
+      <description>Dunia ini memang aneh. Tapi kita masih bisa memilih bagaimana merespons semuanya.</description>
+    </item>
+    <item>
+      <title>🧘‍♂️ Nggak Semua Harus Heboh</title>
+      <link>http://localhost:1313/cara-pikir/nggak-semua-harus-heboh/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cara-pikir/nggak-semua-harus-heboh/</guid>
+      <description>Kadang diam itu solusi. Nggak semua hal harus dikomentari atau ditanggapi buru-buru.</description>
     </item>
   </channel>
 </rss>

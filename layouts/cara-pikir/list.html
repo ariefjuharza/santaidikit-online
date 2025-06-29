@@ -1,0 +1,32 @@
+{{ define "main" }}
+<section class="py-20 px-6 bg-slate-50 dark:bg-[#1b1b1b] text-gray-900 dark:text-gray-100 font-firacode transition-colors duration-500">
+  <div class="max-w-5xl mx-auto text-center animate-fade-in-up">
+
+    <!-- Judul -->
+    <h2 class="text-3xl md:text-4xl font-bold mb-4 text-[#f07f48] dark:text-[#f07f48]">
+      🧠 Cara Pikir Kita
+    </h2>
+
+    <!-- Deskripsi pembuka -->
+    <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300 mb-10">
+      Kadang hidup terasa ribet karena cara mikir kita sendiri yang muter-muter. Di sini, kami coba tawarin cara pandang yang lebih enteng, tapi tetap nyambung sama hidup sehari-hari.
+    </p>
+
+    <!-- Daftar pemikiran -->
+    <div class="space-y-8 text-left">
+      {{ range .Pages.ByDate.Reverse }}
+      <div class="p-6 bg-white dark:bg-[#262626] border border-gray-200 dark:border-gray-700 rounded-lg shadow hover:shadow-md transition animate-fade-in-up">
+        <h3 class="text-xl font-semibold mb-2 text-[#659fb2] dark:text-[#85c9dc]">
+          {{ .Title }}
+        </h3>
+        <p class="text-sm text-gray-700 dark:text-gray-300 leading-relaxed mb-2">
+          {{ .Summary }}
+        </p>
+        <a href="{{ .RelPermalink }}" class="text-sm text-[#f07f48] hover:underline">Lihat selengkapnya →</a>
+      </div>
+      {{ end }}
+    </div>
+
+  </div>
+</section>
+{{ end }}

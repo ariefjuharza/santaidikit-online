@@ -9,11 +9,11 @@
     <lastBuildDate>Sat, 28 Jun 2025 22:00:00 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Contoh Post dengan Highlight Kode</title>
+      <title>Contoh Highlight Kode: Biar Nggak Pusing Sendiri</title>
       <link>http://localhost:1313/posts/contoh-highlight-kode/</link>
       <pubDate>Sat, 28 Jun 2025 22:00:00 +0700</pubDate>
       <guid>http://localhost:1313/posts/contoh-highlight-kode/</guid>
-      <description>Ini contoh bagaimana menampilkan kode dengan highlight di Hugo &#43; Tailwind CSS &#43; Dark Mode.</description>
+      <description>Highlight kode bisa jadi hal kecil yang bikin semangat ngoding naik dikit. Ini contoh cara nampilkan kode di blog Hugo kamu.</description>
     </item>
     <item>
       <title>GTX 750 Ti dan Meja Coding: Teman Setia di Era Digital</title>

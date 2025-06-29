@@ -11,14 +11,41 @@
     <loc>http://localhost:1313/posts/contoh-highlight-kode/</loc>
     <lastmod>2025-06-28T22:00:00+07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/darkmode/</loc>
+    <lastmod>2025-06-28T22:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/highlight/</loc>
+    <lastmod>2025-06-28T22:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hugo/</loc>
+    <lastmod>2025-06-28T22:00:00+07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-06-28T22:00:00+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-06-28T22:00:00+07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-06-28T22:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tailwind/</loc>
+    <lastmod>2025-06-28T22:00:00+07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/tutorial/</loc>
     <lastmod>2025-06-28T22:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/rekomendasi/podcast-untuk-teman-kopi/</loc>
+    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/rekomendasi/buku-ringan-tapi-nendang/</loc>
+    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/rekomendasi/channel-youtube-asik/</loc>
+    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/rekomendasi/</loc>
+    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/750ti/</loc>
     <lastmod>2025-06-27T21:00:00+07:00</lastmod>
@@ -33,9 +60,6 @@
     <lastmod>2025-06-27T21:00:00+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/perangkat/</loc>
-    <lastmod>2025-06-27T21:00:00+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-06-27T21:00:00+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/motivasi/</loc>
@@ -55,5 +79,19 @@
   </url><url>
     <loc>http://localhost:1313/posts/santai-dikit-tapi-jalan-terus/</loc>
     <lastmod>2025-06-26T05:26:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cara-pikir/santai-bukan-berarti-nggak-serius/</loc>
+    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cara-pikir/berpikir-boleh-panik-jangan/</loc>
+    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cara-pikir/</loc>
+    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cara-pikir/nggak-semua-harus-heboh/</loc>
+    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tentang/</loc>
   </url>
 </urlset>

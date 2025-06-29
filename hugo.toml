@@ -8,5 +8,5 @@ theme = "PaperMod"
 
 [markup]
   [markup.highlight]
-    style = "monokai"
+    style = "github-dark"
     noClasses = false
