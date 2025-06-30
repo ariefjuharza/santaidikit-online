@@ -1,0 +1,46 @@
+{{ define "main" }}
+<section
+  class="py-20 px-6 bg-slate-50 dark:bg-[#1b1b1b] text-gray-900 dark:text-gray-100 font-firacode transition-colors duration-500"
+>
+  <div class="max-w-5xl mx-auto text-center animate-fade-in-up">
+    <h2
+      class="text-3xl md:text-4xl font-bold mb-4 text-[#f07f48] dark:text-[#f07f48]"
+    >
+      ✍️ Tulisan Santai Tapi Ngena
+    </h2>
+    <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300 mb-10">
+      Kumpulan tulisan dari Si Dikit. Kadang ringan, kadang ngena banget. Cocok
+      buat yang mau mikir santai, tapi tetap dapet makna.
+    </p>
+
+    <div class="grid md:grid-cols-2 gap-8 text-left">
+      {{ range .Pages.ByDate.Reverse }}
+      <div
+        class="p-6 bg-white dark:bg-[#262626] border border-gray-200 dark:border-gray-700 rounded-lg shadow hover:shadow-md transition animate-fade-in-up"
+      >
+        <h3
+          class="text-xl font-semibold mb-1 text-[#659fb2] dark:text-[#85c9dc]"
+        >
+          <a href="{{ .RelPermalink }}" class="hover:underline">{{ .Title }}</a>
+        </h3>
+        <p class="text-sm text-gray-500 dark:text-gray-400 mb-2">
+          {{ .Date.Format "2 Jan 2006" }}
+        </p>
+        {{ with .Params.description }}
+        <p
+          class="text-sm text-gray-700 dark:text-gray-300 leading-relaxed mb-4"
+        >
+          {{ . }}
+        </p>
+        {{ end }}
+        <a
+          href="{{ .RelPermalink }}"
+          class="text-sm text-[#f07f48] hover:underline"
+          >Baca selengkapnya →</a
+        >
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}

@@ -1,0 +1,41 @@
+{{ define "main" }}
+<section
+  class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-16 font-firacode text-gray-800 dark:text-gray-200 animate-fade-in-up"
+>
+  <article>
+    <!-- Judul -->
+    <h1 class="text-4xl font-bold text-[#f07f48] dark:text-[#f7a678] mb-6">
+      {{ .Title }}
+    </h1>
+
+    <!-- Tanggal -->
+    <p class="text-sm text-gray-500 dark:text-gray-400 mb-8">
+      Ditulis pada {{ .Date.Format "2 January 2006" }}
+    </p>
+
+    <!-- Gambar utama -->
+    {{ with .Params.image }}
+    <img
+      src="{{ . }}"
+      alt="Cover {{ $.Title }}"
+      class="rounded-lg mb-8 shadow-lg"
+    />
+    {{ end }}
+
+    <!-- Konten -->
+    <div class="prose prose-slate dark:prose-invert max-w-none">
+      {{ .Content }}
+    </div>
+
+    <!-- Navigasi kembali -->
+    <div class="mt-12">
+      <a
+        href="/portofolio/"
+        class="text-[#f07f48] dark:text-[#f7a678] hover:underline text-sm"
+      >
+        ← Kembali ke daftar portofolio
+      </a>
+    </div>
+  </article>
+</section>
+{{ end }}

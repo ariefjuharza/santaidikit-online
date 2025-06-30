@@ -1,56 +1,71 @@
 {{ define "main" }}
-<article class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 font-firacode animate-fade-in-up">
-
+<article
+  class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 font-firacode animate-fade-in-up"
+>
   <!-- Judul -->
-  <h1 class="text-3xl sm:text-4xl font-bold text-[#f07f48] dark:text-[#f07f48] mb-4 leading-snug">
+  <h1
+    class="text-3xl sm:text-4xl font-bold text-[#f07f48] dark:text-[#f07f48] mb-4 leading-snug"
+  >
     {{ .Title }}
   </h1>
 
   <!-- Metadata -->
-  <div class="text-sm text-gray-600 dark:text-gray-400 mb-6 flex flex-wrap items-center gap-4">
+  <div
+    class="text-sm text-gray-600 dark:text-gray-400 mb-6 flex flex-wrap items-center gap-4"
+  >
     <span>{{ .Date.Format "02 Jan 2006" }}</span>
     <span>•</span>
     <span>{{ .ReadingTime }} menit baca</span>
     {{ with .Params.categories }}
-      <span>•</span>
-      <span>
-        Kategori:
-        {{ range $index, $cat := . }}
-          {{ if $index }}, {{ end }}
-          <a href="/categories/{{ $cat | urlize }}" class="text-[#659fb2] hover:underline">
-            {{ $cat }}
-          </a>
-        {{ end }}
-      </span>
+    <span>•</span>
+    <span>
+      Kategori: {{ range $index, $cat := . }} {{ if $index }}, {{ end }}
+      <a
+        href="/categories/{{ $cat | urlize }}"
+        class="text-[#659fb2] hover:underline hover:text-[#f07f48] transition"
+      >
+        {{ $cat }}
+      </a>
+      {{ end }}
+    </span>
     {{ end }}
   </div>
 
   <!-- Gambar utama (jika ada) -->
   {{ with .Params.image }}
-    <img src="{{ . | relURL }}" alt="Featured image" class="rounded-lg mb-8 mx-auto shadow-md dark:shadow-none" />
+  <img
+    src="{{ . | relURL }}"
+    alt="Featured image"
+    class="rounded-lg mb-8 mx-auto shadow-md dark:shadow-none"
+  />
   {{ end }}
 
   <!-- Konten markdown -->
-  <div class="prose prose-neutral dark:prose-invert max-w-none prose-headings:font-bold prose-p:leading-relaxed prose-img:rounded
-            prose-a:text-[#659fb2] hover:prose-a:text-[#f07f48]
-            prose-blockquote:border-[#f07f48] prose-blockquote:text-gray-600 dark:prose-blockquote:text-gray-300
-            prose-code:bg-[#f0f0f0] prose-code:text-[#d6336c] prose-code:px-1.5 prose-code:py-0.5 prose-code:rounded
-            dark:prose-code:bg-[#2d2d2d] dark:prose-code:text-[#ffb86c]
-            prose-pre:bg-[#f8f8f8] dark:prose-pre:bg-[#1e1e1e] prose-pre:text-sm prose-pre:rounded-lg prose-pre:p-4
-            prose-ul:marker:text-[#f07f48] prose-ol:marker:text-[#659fb2] prose-table:border prose-table:border-gray-200 dark:prose-table:border-gray-700">
-  {{ .Content }}
-</div>
-
-
-  <!-- Navigasi antar post -->
-  <div class="mt-12 pt-6 border-t border-gray-200 dark:border-gray-700 text-sm flex justify-between text-[#659fb2] dark:text-[#85c9dc]">
-    {{ with .Prev }}
-      <a href="{{ .RelPermalink }}" class="hover:underline transition-all">&larr; {{ .Title }}</a>
-    {{ end }}
-    {{ with .Next }}
-      <a href="{{ .RelPermalink }}" class="hover:underline transition-all ml-auto">{{ .Title }} &rarr;</a>
-    {{ end }}
+  <div
+    class="prose prose-neutral dark:prose-invert max-w-none prose-headings:font-bold prose-headings:text-[#f07f48] prose-p:leading-relaxed prose-a:text-[#659fb2] hover:prose-a:text-[#f07f48] prose-blockquote:border-l-4 prose-blockquote:border-[#f07f48] prose-blockquote:text-gray-600 dark:prose-blockquote:text-gray-300 prose-code:bg-[#f0f0f0] prose-code:text-[#d6336c] prose-code:px-1.5 prose-code:py-0.5 prose-code:rounded dark:prose-code:bg-[#2d2d2d] dark:prose-code:text-[#ffb86c] prose-pre:bg-[#f8f8f8] dark:prose-pre:bg-[#1e1e1e] prose-pre:text-sm prose-pre:rounded-lg prose-pre:p-4 prose-ul:marker:text-[#f07f48] prose-ol:marker:text-[#659fb2] prose-table:border prose-table:border-gray-200 dark:prose-table:border-gray-700"
+  >
+    {{ .Content }}
   </div>
 
+  <!-- Navigasi antar post -->
+  <div
+    class="mt-12 pt-6 border-t border-gray-200 dark:border-gray-700 text-sm flex justify-between items-center text-[#659fb2] dark:text-[#85c9dc]"
+  >
+    {{ with .Prev }}
+    <a
+      href="{{ .RelPermalink }}"
+      class="hover:underline hover:text-[#f07f48] transition-all"
+      >&larr; {{ .Title }}</a
+    >
+    {{ else }}
+    <span></span>
+    {{ end }} {{ with .Next }}
+    <a
+      href="{{ .RelPermalink }}"
+      class="hover:underline hover:text-[#f07f48] transition-all ml-auto"
+      >{{ .Title }} &rarr;</a
+    >
+    {{ end }}
+  </div>
 </article>
 {{ end }}

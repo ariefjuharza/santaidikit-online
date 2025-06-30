@@ -2,13 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/categories/android/</loc>
+    <lastmod>2025-06-30T09:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/android/</loc>
+    <lastmod>2025-06-30T09:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/aplikasi/</loc>
+    <lastmod>2025-06-30T09:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-06-30T09:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/gratis/</loc>
+    <lastmod>2025-06-30T09:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portofolio/</loc>
+    <lastmod>2025-06-30T09:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-06-30T09:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-06-30T09:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/univpn/</loc>
+    <lastmod>2025-06-30T09:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portofolio/univpn/</loc>
+    <lastmod>2025-06-30T09:00:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/vpn/</loc>
+    <lastmod>2025-06-30T09:00:00+07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/jenis-bahasa-pemrograman-bagian-2/</loc>
     <lastmod>2025-06-29T23:45:00+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/bahasa-pemrograman/</loc>
-    <lastmod>2025-06-29T23:45:00+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-06-29T23:45:00+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/coding/</loc>
@@ -26,35 +56,8 @@
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-06-29T23:45:00+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-06-29T23:45:00+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-06-29T23:45:00+07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/jenis-bahasa-pemrograman-bagian-1/</loc>
     <lastmod>2025-06-29T23:30:00+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/contoh-highlight-kode/</loc>
-    <lastmod>2025-06-28T22:00:00+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/darkmode/</loc>
-    <lastmod>2025-06-28T22:00:00+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/highlight/</loc>
-    <lastmod>2025-06-28T22:00:00+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
-    <lastmod>2025-06-28T22:00:00+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/tailwind/</loc>
-    <lastmod>2025-06-28T22:00:00+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/tutorial/</loc>
-    <lastmod>2025-06-28T22:00:00+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/rekomendasi/podcast-untuk-teman-kopi/</loc>
-    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/rekomendasi/buku-ringan-tapi-nendang/</loc>
     <lastmod>2025-06-28T00:00:00+00:00</lastmod>
@@ -62,7 +65,34 @@
     <loc>http://localhost:1313/rekomendasi/channel-youtube-asik/</loc>
     <lastmod>2025-06-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/baca-sambil-rebahan/</loc>
+    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/buku/</loc>
+    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ngopi/</loc>
+    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/podcast/</loc>
+    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/rekomendasi/</loc>
+    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/rekomendasi/</loc>
+    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/santai-dikit/</loc>
+    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/visual/</loc>
+    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/youtube/</loc>
+    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/rekomendasi/podcast-untuk-teman-kopi/</loc>
     <lastmod>2025-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/750ti/</loc>

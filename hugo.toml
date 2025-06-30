@@ -21,3 +21,7 @@ theme = "PaperMod"
     style = 'monokai'
     tabWidth = 4
     wrapperClass = 'highlight'
+
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
