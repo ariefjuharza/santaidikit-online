@@ -7,7 +7,7 @@ tags: ["produktivitas", "perangkat", "motivasi", "santai"]
 description: "Nggak harus alat canggih untuk mulai produktif. Cerita tentang berkarya di tengah keterbatasan, dengan gaya santai tapi tetap mikir."
 slug: "santai-dikit-tapi-jalan-terus"
 ---
-![](/uploads/Nighttime_Coding_Session.png)
+![](/uploads/Nighttime_Coding_Session.webp)
 
 ## ⚡ Nggak Harus Canggih Buat Jadi Produktif
 

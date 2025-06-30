@@ -4,7 +4,7 @@ date: 2025-06-29T23:30:00+07:00
 description: "Penjelasan singkat tentang berbagai bahasa pemrograman yang sering ditemui, dibahas santai plus contoh sintaksnya biar nggak cuma teori doang."
 categories: ["coding", "pengetahuan"]
 tags: ["bahasa pemrograman", "pemula", "coding"]
-image: "/uploads/jenis-bahasa-emrograman.png"
+image: "/uploads/jenis-bahasa-emrograman.webp"
 slug: "jenis-bahasa-pemrograman-bagian-1"
 ---
 

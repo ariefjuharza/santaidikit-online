@@ -5,7 +5,7 @@ description: "Buku yang bisa dibaca sambil rebahan tapi isinya bikin kamu mikir 
 tags: ["rekomendasi", "buku", "santai-dikit", "baca-sambil-rebahan"]
 ---
 
-![Buku ringan tapi nendang](/uploads/buku-rekomendasi-ringan-berkualitas.png)
+![Buku ringan tapi nendang](/uploads/buku-rekomendasi-ringan-berkualitas.webp)
 
 Kamu tahu nggak, kadang buku yang kelihatan receh justru punya isi yang dalam. Nah, buku-buku di bawah ini contohnya.
 

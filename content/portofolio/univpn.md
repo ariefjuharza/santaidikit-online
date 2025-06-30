@@ -5,7 +5,7 @@ description: "UniVPN adalah aplikasi VPN ringan yang bisa langsung dipakai tanpa
 categories: ["aplikasi", "android"]
 tags: ["vpn", "android", "gratis", "univpn"]
 slug: "univpn"
-image: "/uploads/cover-univpn.png"
+image: "/uploads/cover-univpn.webp"
 ---
 
 ## 🌐 Apa Itu UniVPN?

@@ -4,7 +4,7 @@ date: 2025-06-29T23:45:00+07:00
 description: "Lanjutan penjelasan bahasa pemrograman populer versi santai, lengkap dengan contoh kodenya. Kali ini bahas HTML, Ruby, PHP, Go, Kotlin, dan HTML5."
 categories: ["coding", "pengetahuan"]
 tags: ["bahasa pemrograman", "pemula", "coding"]
-image: "/uploads/jenis-bahasa-emrograman.png"
+image: "/uploads/jenis-bahasa-emrograman.webp"
 slug: "jenis-bahasa-pemrograman-bagian-2"
 ---
 
