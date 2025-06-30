@@ -6,8 +6,9 @@ categories: ["perangkat"]
 tags: ["gpu", "nostalgia", "750ti"]
 description: "Cerita soal GPU jadul yang tetap setia menemani coding sehari-hari. Nggak harus canggih buat jadi produktif."
 slug: "cerita-tentang-gtx-750-ti"
+image: "/uploads/Graphics-Card-GTX-750-Ti-Close-Up.webp"
 ---
-![](/uploads/Graphics-Card-GTX-750-Ti-Close-Up.webp)
+<!-- ![](/uploads/Graphics-Card-GTX-750-Ti-Close-Up.webp) -->
 
 **Kadang, yang nggak terlalu canggih justru yang paling setia.**  
 Begitu juga dengan satu benda kecil yang sudah nemenin hari-hari di depan layar: **NVIDIA GTX 750 Ti.**
