@@ -1,11 +1,14 @@
 ---
-title: "📚 Buku Ringan Tapi Nendang"
+title: 📚 Buku Ringan Tapi Nendang
+image: /uploads/cover-buku-ringan-tapi-nendang-1.webp
+description: Buku yang bisa dibaca sambil rebahan tapi isinya bikin kamu mikir dua kali soal hidup.
 date: 2025-06-28
-description: "Buku yang bisa dibaca sambil rebahan tapi isinya bikin kamu mikir dua kali soal hidup."
-tags: ["rekomendasi", "buku", "santai-dikit", "baca-sambil-rebahan"]
-image: "/uploads/cover-buku-ringan-tapi-nendang-1.webp"
+tags:
+  - rekomendasi
+  - buku
+  - santai-dikit
+  - baca-sambil-rebahan
 ---
-
 <!-- ![Buku ringan tapi nendang](/uploads/buku-rekomendasi-ringan-berkualitas.webp) -->
 
 Kamu tahu nggak, kadang buku yang kelihatan receh justru punya isi yang dalam. Nah, buku-buku di bawah ini contohnya.
@@ -16,7 +19,8 @@ Pas banget buat kamu yang pengen mikir, tapi nggak pengen stres. Baca sambil tid
 
 ---
 
-## 🧠 1. *Filosofi Teras* – Henry Manampiring  
+## 🧠 1. _Filosofi Teras_ – Henry Manampiring  
+
 **Tema:** Filosofi Stoikisme dengan gaya ngobrol  
 Buku ini ngebahas gimana caranya tetap tenang di tengah hidup yang sering bikin emosi naik turun. Disajikan dengan bahasa yang renyah dan relate banget sama kehidupan sehari-hari anak zaman sekarang.
 
@@ -24,7 +28,8 @@ Buku ini ngebahas gimana caranya tetap tenang di tengah hidup yang sering bikin 
 
 ---
 
-## 😌 2. *Sebuah Seni untuk Bersikap Bodo Amat* – Mark Manson  
+## 😌 2. _Sebuah Seni untuk Bersikap Bodo Amat_ – Mark Manson  
+
 **Tema:** Self-help tanpa drama motivasi  
 Daripada nyuruh kamu jadi “lebih positif,” buku ini malah ngajarin buat milih masalah mana yang layak dipikirin. Gaya bahasanya santai, kadang sarkas, tapi jleb di hati.
 
@@ -32,24 +37,29 @@ Daripada nyuruh kamu jadi “lebih positif,” buku ini malah ngajarin buat mili
 
 ---
 
-## 🌀 3. *The Subtle Art of Not Giving a F*ck* – Versi Inggris dari buku Mark Manson  
+## 🌀 3. _The Subtle Art of Not Giving a F_ck\* – Versi Inggris dari buku Mark Manson  
+
 Kalau kamu nyaman baca dalam bahasa Inggris, versi aslinya juga bisa dinikmati. Intinya sama, tapi kadang lebih "nendang" karena ekspresi aslinya nggak disensor.
 
 ---
 
-## 🍜 4. *Komik Strip “Si Juki”* – Faza Meonk  
+## 🍜 4. _Komik Strip “Si Juki”_ – Faza Meonk  
+
 **Tema:** Humor + kritik sosial  
 Meskipun komik, Si Juki sering nyentil realita hidup di Indonesia dengan cara yang jenaka dan nggak menggurui. Pas buat ngilangin suntuk sambil dapet sedikit “aha moment”.
 
 ---
 
-## 💡 5. *The Little Prince (Pangeran Kecil)* – Antoine de Saint-Exupéry  
+## 💡 5. _The Little Prince (Pangeran Kecil)_ – Antoine de Saint-Exupéry  
+
 **Tema:** Filosofis ala anak kecil  
 Kelihatannya buku anak-anak, tapi pesannya kadang lebih kena ke orang dewasa. Tentang kehilangan, makna hidup, dan hal-hal yang sering kita lupa karena kebanyakan mikir “dewasa”.
 
 > Baca ini kalau kamu butuh pelan-pelan ngerasain hidup lagi.
 
 ---
+
+![Ilustrasi buku ringan tapi nendang](/uploads/ilustrasi-buku-ringan-tapi-nendang.webp "Ilustrasi buku ringan tapi nendang")
 
 ✨ Punya buku versi kamu sendiri yang ringan tapi nendang?
 
