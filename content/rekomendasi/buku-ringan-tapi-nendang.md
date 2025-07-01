@@ -3,9 +3,10 @@ title: "📚 Buku Ringan Tapi Nendang"
 date: 2025-06-28
 description: "Buku yang bisa dibaca sambil rebahan tapi isinya bikin kamu mikir dua kali soal hidup."
 tags: ["rekomendasi", "buku", "santai-dikit", "baca-sambil-rebahan"]
+image: "/uploads/cover-buku-ringan-tapi-nendang-1.webp"
 ---
 
-![Buku ringan tapi nendang](/uploads/buku-rekomendasi-ringan-berkualitas.webp)
+<!-- ![Buku ringan tapi nendang](/uploads/buku-rekomendasi-ringan-berkualitas.webp) -->
 
 Kamu tahu nggak, kadang buku yang kelihatan receh justru punya isi yang dalam. Nah, buku-buku di bawah ini contohnya.
 

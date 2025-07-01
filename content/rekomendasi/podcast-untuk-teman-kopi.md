@@ -3,10 +3,10 @@ title: "🎙️ Podcast untuk Teman Kopi"
 date: 2025-06-28
 description: "Obrolan santai, topik yang dalem, pas banget buat nemenin kopi sore kamu."
 tags: ["rekomendasi", "podcast", "santai-dikit", "ngopi"]
-image: "/images/rekomendasi/podcast-kopi.jpg"
+image: "/uploads/cover-podcast-untuk-teman-kopi-1.jpg"
 ---
 
-![Podcast dan kopi](/images/rekomendasi/podcast-kopi.jpg)
+<!-- ![Podcast dan kopi](/images/rekomendasi/podcast-kopi.jpg) -->
 
 Kalau kamu tipe yang suka dengerin sesuatu sambil ngopi atau kerja ringan, podcast ini bisa jadi temen baru kamu.
 

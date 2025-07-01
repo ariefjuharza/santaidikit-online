@@ -3,10 +3,10 @@ title: "📺 Channel YouTube Asik"
 date: 2025-06-28
 description: "Visual santai, suara adem, tapi bahasannya kadang bikin “oh, iya ya...”"
 tags: ["rekomendasi", "youtube", "visual", "santai-dikit"]
-image: "/images/rekomendasi/youtube-visual.jpg"
+image: "/uploads/cover-channel-youtube-asik-1.jpg"
 ---
 
-![Channel YouTube asik dan adem](/images/rekomendasi/youtube-visual.jpg)
+<!-- ![Channel YouTube asik dan adem](/images/rekomendasi/youtube-visual.jpg) -->
 
 Kalau kamu tipe visual—yang suka cari video buat ngademin kepala—channel ini bisa banget jadi andalan.
 
