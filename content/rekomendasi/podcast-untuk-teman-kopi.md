@@ -6,8 +6,6 @@ tags: ["rekomendasi", "podcast", "santai-dikit", "ngopi"]
 image: "/uploads/cover-podcast-untuk-teman-kopi-1.jpg"
 ---
 
-<!-- ![Podcast dan kopi](/images/rekomendasi/podcast-kopi.jpg) -->
-
 Kalau kamu tipe yang suka dengerin sesuatu sambil ngopi atau kerja ringan, podcast ini bisa jadi temen baru kamu.
 
 Topiknya beragam—dari yang filosofis, psikologis, sampe yang receh tapi dalem. Gaya bahasanya nggak bikin tegang, tapi bisa bikin kamu angguk-angguk sendiri.

@@ -6,8 +6,6 @@ tags: ["rekomendasi", "youtube", "visual", "santai-dikit"]
 image: "/uploads/cover-channel-youtube-asik-1.jpg"
 ---
 
-<!-- ![Channel YouTube asik dan adem](/images/rekomendasi/youtube-visual.jpg) -->
-
 Kalau kamu tipe visual—yang suka cari video buat ngademin kepala—channel ini bisa banget jadi andalan.
 
 Penyajiannya kalem, gak norak. Musiknya enak, narasinya adem, dan yang paling penting: topiknya relatable.

@@ -17,7 +17,11 @@
     <link rel="canonical" href="{{ .Permalink }}" />
 
     <!-- Open Graph -->
-    <meta property="og:title" content="{{ .Title }} | santai dikit online" />
+    <meta
+      property="og:title"
+      content="{{ if .IsHome }}santai dikit online — mikir santai, tapi tetap jalan{{ else }}{{ .Title }} | santai dikit online{{ end }}"
+    />
+
     <meta
       property="og:description"
       content="{{ with .Params.description }}{{ . }}{{ else }}santai dikit online adalah tempat mikir ringan tapi tetap nyangkut.{{ end }}"
@@ -26,19 +30,23 @@
     <meta property="og:url" content="{{ .Permalink }}" />
     <meta
       property="og:image"
-      content="{{ site.BaseURL }}uploads/og-default.png"
+      content="{{ site.BaseURL }}uploads/og-default.webp"
     />
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="{{ .Title }} | santai dikit online" />
+    <meta
+      name="twitter:title"
+      content="{{ with .Title }}{{ . }} | {{ end }}santai dikit online"
+    />
+
     <meta
       name="twitter:description"
       content="{{ with .Params.description }}{{ . }}{{ else }}santai dikit online adalah tempat mikir ringan tapi tetap nyangkut.{{ end }}"
     />
     <meta
       name="twitter:image"
-      content="{{ site.BaseURL }}uploads/og-default.png"
+      content="{{ site.BaseURL }}uploads/og-default.webp"
     />
 
     <!-- Styles -->
