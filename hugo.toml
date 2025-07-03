@@ -32,3 +32,19 @@ enableRobotsTXT = true
     section = ['html', 'rss']
     taxonomy = ['html']
     term = ['html']
+
+defaultContentLanguage = "id"
+defaultContentLanguageInSubdir = true
+[languages]
+
+[languages.id]
+languageName = "Bahasa Indonesia"
+weight = 1
+title = "santai dikit online"
+languageCode = "id"
+
+[languages.en]
+languageName = "English"
+weight = 2
+title = "santai dikit online"
+languageCode = "en"
