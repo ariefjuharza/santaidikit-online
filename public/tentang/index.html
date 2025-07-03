@@ -63,6 +63,9 @@
     <link rel="alternate icon" type="image/png" href="/favicon.ico" />
 
     
+    <link rel="alternate" type="application/rss+xml" title="santai dikit online RSS Feed" href="http://localhost:1313/index.xml" />
+
+    
     <script
       async
       src="https://www.googletagmanager.com/gtag/js?id=G-6N9MTYL3BG"
@@ -76,6 +79,37 @@
 
       gtag("config", "G-6N9MTYL3BG");
     </script>
+
+    
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "santai dikit online",
+        "url": "https://santaidikit.online",
+        "logo": "https://santaidikit.online/uploads/si-dikit-no-bg.png",
+        "sameAs": []
+      }
+    </script>
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "url": "https://santaidikit.online",
+        "name": "santai dikit online",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://santaidikit.online/search?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      }
+    </script>
+
+    
+    
+
+
   </head>
 
   <body
@@ -357,14 +391,19 @@
             >Tentang</a
           >
           <a
-            href="/portofolio/"
-            class="hover:text-[#f07f48] dark:hover:text-[#f7a678] transition"
-            >Proyek</a
-          >
-          <a
             href="/privacy-policy/"
             class="hover:text-[#f07f48] dark:hover:text-[#f7a678] transition"
             >Privasi</a
+          >
+          <a
+            href="/terms/"
+            class="hover:text-[#f07f48] dark:hover:text-[#f7a678] transition"
+            >Ketentuan</a
+          >
+          <a
+            href="/index.xml"
+            class="hover:text-[#f07f48] dark:hover:text-[#f7a678] transition"
+            >RSS Feed</a
           >
         </div>
 
