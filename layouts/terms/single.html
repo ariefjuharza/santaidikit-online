@@ -1,0 +1,11 @@
+{{ define "main" }}
+<section class="prose dark:prose-invert max-w-3xl mx-auto px-6 py-16">
+  <h1 class="text-2xl font-bold text-[#f07f48] mb-4">{{ .Title }}</h1>
+  <div class="text-sm text-gray-500 dark:text-gray-400 italic mb-8">
+    Diperbarui terakhir: {{ .Date.Format "2 January 2006" }}
+  </div>
+  <div class="content">
+    {{ .Content }}
+  </div>
+</section>
+{{ end }}
