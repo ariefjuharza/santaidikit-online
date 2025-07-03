@@ -78,6 +78,36 @@
 
       gtag("config", "G-6N9MTYL3BG");
     </script>
+
+    <!-- JSON-LD untuk homepage -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "santai dikit online",
+        "url": "https://santaidikit.online",
+        "logo": "https://santaidikit.online/uploads/si-dikit-no-bg.png",
+        "sameAs": []
+      }
+    </script>
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "url": "https://santaidikit.online",
+        "name": "santai dikit online",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://santaidikit.online/search?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      }
+    </script>
+
+    <!-- JSON-LD untuk artikel (jika applicable) -->
+    {{ partial "structured-article.html" . }}
+
   </head>
 
   <body
