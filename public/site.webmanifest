@@ -1,6 +1,11 @@
 {
   "name": "santaidikit.online",
   "short_name": "Santai Dikit",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#f07f48",
+  "background_color": "#fafafa",
+  "orientation": "portrait",
   "icons": [
     {
       "src": "/web-app-manifest-192x192.png",
@@ -14,8 +19,5 @@
       "type": "image/png",
       "purpose": "maskable"
     }
-  ],
-  "theme_color": "#f18643",
-  "background_color": "#fafafa",
-  "display": "standalone"
+  ]  
 }

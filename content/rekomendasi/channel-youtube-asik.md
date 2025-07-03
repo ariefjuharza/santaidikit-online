@@ -1,9 +1,13 @@
 ---
 title: "📺 Channel YouTube Asik"
-date: 2025-06-28
+image: "/uploads/cover-channel-youtube-asik-1.webp"
 description: "Visual santai, suara adem, tapi bahasannya kadang bikin “oh, iya ya...”"
-tags: ["rekomendasi", "youtube", "visual", "santai-dikit"]
-image: "/uploads/cover-channel-youtube-asik-1.jpg"
+date: 2025-06-28
+tags:
+  - rekomendasi
+  - youtube
+  - visual
+  - santai-dikit
 ---
 
 Kalau kamu tipe visual—yang suka cari video buat ngademin kepala—channel ini bisa banget jadi andalan.
@@ -14,35 +18,40 @@ Kadang nonton satu video malah jadi keterusan. Tapi nggak apa-apa, ini yang biki
 
 ---
 
-## 🌱 1. *Tangan di Atas Meja*  
+## 🌱 1. _Tangan di Atas Meja_
+
 Channel lokal yang bahas topik sehari-hari dengan visual minimalis dan narasi yang hangat. Kayak dengerin temen cerita sambil ngopi sore.
 
 > Ada bahasan soal overthinking, quarter-life crisis, sampai hal-hal receh yang ternyata dalem juga.
 
 ---
 
-## 🌌 2. *Kurzgesagt – In a Nutshell*  
+## 🌌 2. _Kurzgesagt – In a Nutshell_
+
 Visualnya keren banget, penuh warna dan animasi lucu. Tapi isinya? Berat kalau dibaca, tapi jadi ringan kalau ditonton di sini. Bahas sains, eksistensi manusia, bahkan filosofi dengan cara yang bikin ketagihan.
 
 > Cocok buat kamu yang pengen ngerasa kecil di tengah semesta, tapi tetap chill.
 
 ---
 
-## 🎧 3. *Yoga Arizona*  
+## 🎧 3. _Yoga Arizona_
+
 Channel pribadi yang mirip vlog, tapi bukan vlog yang pamer-pamer. Isinya reflektif, tentang hidup, relasi, dan perjalanan berpikir. Kamera diam, suara tenang, cocok buat kamu yang suka nonton sambil merenung.
 
 > Bisa bikin kamu diem sebentar dan nanya ke diri sendiri: “gue udah hidup bener belum ya?”
 
 ---
 
-## 📘 4. *The School of Life*  
+## 📘 4. _The School of Life_
+
 Narasi filosofis, visual simpel, tapi langsung ke inti. Banyak bahasan soal cinta, pekerjaan, emosi, sampai trauma masa kecil. Tapi disampaikan dengan elegan dan empati.
 
 > Kalau kamu suka konten yang "deep" tapi nggak menggurui, ini tempatnya.
 
 ---
 
-## 🐚 5. *Kok Bisa?*  
+## 🐚 5. _Kok Bisa?_
+
 Versi lokal yang edukatif tapi tetap fun. Banyak bahas soal fenomena sosial, politik, sejarah, dan sains—semuanya dibungkus ringan.
 
 > Belajar sambil rebahan? Bisa banget.

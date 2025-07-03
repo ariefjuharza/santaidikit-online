@@ -25,9 +25,9 @@
           {{ .Title }}
         </h3>
         <p
-          class="text-sm text-gray-700 dark:text-gray-300 leading-relaxed mb-4"
+          class="text-sm text-gray-700 dark:text-gray-300 leading-relaxed mb-4 line-clamp-4"
         >
-          {{ .Params.description }}
+          {{ .Summary | truncate 160 | plainify }}
         </p>
         <a
           href="{{ .RelPermalink }}"

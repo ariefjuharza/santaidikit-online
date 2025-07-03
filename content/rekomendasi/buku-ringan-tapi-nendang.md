@@ -18,7 +18,7 @@ Pas banget buat kamu yang pengen mikir, tapi nggak pengen stres. Baca sambil tid
 
 ---
 
-## 🧠 1. _Filosofi Teras_ – Henry Manampiring  
+## 🧠 1. _Filosofi Teras_ – Henry Manampiring
 
 **Tema:** Filosofi Stoikisme dengan gaya ngobrol  
 Buku ini ngebahas gimana caranya tetap tenang di tengah hidup yang sering bikin emosi naik turun. Disajikan dengan bahasa yang renyah dan relate banget sama kehidupan sehari-hari anak zaman sekarang.
@@ -27,7 +27,7 @@ Buku ini ngebahas gimana caranya tetap tenang di tengah hidup yang sering bikin 
 
 ---
 
-## 😌 2. _Sebuah Seni untuk Bersikap Bodo Amat_ – Mark Manson  
+## 😌 2. _Sebuah Seni untuk Bersikap Bodo Amat_ – Mark Manson
 
 **Tema:** Self-help tanpa drama motivasi  
 Daripada nyuruh kamu jadi “lebih positif,” buku ini malah ngajarin buat milih masalah mana yang layak dipikirin. Gaya bahasanya santai, kadang sarkas, tapi jleb di hati.
@@ -36,20 +36,20 @@ Daripada nyuruh kamu jadi “lebih positif,” buku ini malah ngajarin buat mili
 
 ---
 
-## 🌀 3. _The Subtle Art of Not Giving a F_ck\* – Versi Inggris dari buku Mark Manson  
+## 🌀 3. \_The Subtle Art of Not Giving a F_ck\* – Versi Inggris dari buku Mark Manson
 
 Kalau kamu nyaman baca dalam bahasa Inggris, versi aslinya juga bisa dinikmati. Intinya sama, tapi kadang lebih "nendang" karena ekspresi aslinya nggak disensor.
 
 ---
 
-## 🍜 4. _Komik Strip “Si Juki”_ – Faza Meonk  
+## 🍜 4. _Komik Strip “Si Juki”_ – Faza Meonk
 
 **Tema:** Humor + kritik sosial  
 Meskipun komik, Si Juki sering nyentil realita hidup di Indonesia dengan cara yang jenaka dan nggak menggurui. Pas buat ngilangin suntuk sambil dapet sedikit “aha moment”.
 
 ---
 
-## 💡 5. _The Little Prince (Pangeran Kecil)_ – Antoine de Saint-Exupéry  
+## 💡 5. _The Little Prince (Pangeran Kecil)_ – Antoine de Saint-Exupéry
 
 **Tema:** Filosofis ala anak kecil  
 Kelihatannya buku anak-anak, tapi pesannya kadang lebih kena ke orang dewasa. Tentang kehilangan, makna hidup, dan hal-hal yang sering kita lupa karena kebanyakan mikir “dewasa”.
