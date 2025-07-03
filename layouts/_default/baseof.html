@@ -65,7 +65,9 @@
     <link rel="alternate icon" type="image/png" href="/favicon.ico" />
 
     <!-- RSS Feed -->
-    <link rel="alternate" type="application/rss+xml" title="santai dikit online RSS Feed" href="{{ "index.xml" | absURL }}" />
+    {{ with .OutputFormats.Get "rss" }} {{ printf `
+    <link rel="%q" type="%q" href="%q" title="%q" />
+    ` .Rel .MediaType.Type .Permalink site.Title | safeHTML }} {{ end }}
 
     <!-- Google tag (gtag.js) -->
     <script
@@ -110,7 +112,6 @@
 
     <!-- JSON-LD untuk artikel (jika applicable) -->
     {{ partial "structured-article.html" . }}
-
   </head>
 
   <body
