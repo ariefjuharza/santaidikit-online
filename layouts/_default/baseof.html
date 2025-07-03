@@ -188,6 +188,13 @@
             >Tulisan
           </a>
 
+          {{ $isActive := strings.HasPrefix $current "/portofolio" }}
+          <a
+            href="/portofolio/"
+            class="block py-2 lg:py-0 hover:text-[#f07f48] transition {{ if $isActive }}text-[#f07f48] font-semibold{{ else }}hover:text-[#f07f48]{{ end }}"
+            >Karya
+          </a>
+
           {{ $isActive := strings.HasPrefix $current "/tentang" }}
           <a
             href="/tentang/"
@@ -195,11 +202,11 @@
             >Kenalan
           </a>
 
-          {{ $isActive := strings.HasPrefix $current "/portofolio" }}
+          {{ $isActive := strings.HasPrefix $current "/kontak" }}
           <a
-            href="/portofolio/"
+            href="/kontak/"
             class="block py-2 lg:py-0 hover:text-[#f07f48] transition {{ if $isActive }}text-[#f07f48] font-semibold{{ else }}hover:text-[#f07f48]{{ end }}"
-            >Karya
+            >Ngobrol
           </a>
 
           <!-- Dark mode toggle -->

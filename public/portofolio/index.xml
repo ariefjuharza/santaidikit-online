@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Portofolio on santaidikit</title><link>https://santaidikit.online/portofolio/</link><description>Recent content in Portofolio on santaidikit</description><generator>Hugo -- 0.147.8</generator><language>id</language><lastBuildDate>Mon, 30 Jun 2025 09:00:00 +0700</lastBuildDate><atom:link href="https://santaidikit.online/portofolio/index.xml" rel="self" type="application/rss+xml"/><item><title>UniVPN – Aplikasi VPN Gratis, Stabil, dan Nggak Bikin Ribet</title><link>https://santaidikit.online/portofolio/univpn/</link><pubDate>Mon, 30 Jun 2025 09:00:00 +0700</pubDate><guid>https://santaidikit.online/portofolio/univpn/</guid><description>UniVPN adalah aplikasi VPN ringan yang bisa langsung dipakai tanpa akun, tanpa batasan bandwidth, dan cukup satu klik buat langsung terhubung.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Portofolio on santaidikit</title>
+    <link>http://localhost:1313/portofolio/</link>
+    <description>Recent content in Portofolio on santaidikit</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>id</language>
+    <lastBuildDate>Mon, 30 Jun 2025 09:00:00 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/portofolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UniVPN – Aplikasi VPN Gratis, Stabil, dan Nggak Bikin Ribet</title>
+      <link>http://localhost:1313/portofolio/univpn/</link>
+      <pubDate>Mon, 30 Jun 2025 09:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/portofolio/univpn/</guid>
+      <description>UniVPN adalah aplikasi VPN ringan yang bisa langsung dipakai tanpa akun, tanpa batasan bandwidth, dan cukup satu klik buat langsung terhubung.</description>
+    </item>
+  </channel>
+</rss>
