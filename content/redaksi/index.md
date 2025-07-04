@@ -1,14 +1,13 @@
 ---
 title: "✍️ Tentang Redaksi"
 description: "Sedikit cerita soal siapa yang ngetik, mikir, dan ngopi sambil nulis konten di santai dikit online."
-url: /redaksi/
 ---
 
 > Di balik semua tulisan yang kelihatan santai ini, ada juga proses mikir yang cukup ribet — walaupun sambil duduk lesehan.
 
 ### Siapa yang nulis di sini?
 
-Hampir semua konten di `santai dikit online` ditulis oleh satu sosok: **Si Dikit**. Bukan nama asli, tapi persona yang mewakili cara pandang: ringan tapi tetap dalem, nggak buru-buru tapi tetap jalan terus.
+Hampir semua konten di `santaidikit.online` ditulis oleh satu sosok: **Si Dikit**. Bukan nama asli, tapi persona yang mewakili cara pandang: ringan tapi tetap dalem, nggak buru-buru tapi tetap jalan terus.
 
 Si Dikit suka nulis tentang hal-hal kecil yang sering terlewat, tapi sebenarnya penting. Kadang pakai pengalaman pribadi, kadang cuma hasil ngelamun di warung kopi.
 

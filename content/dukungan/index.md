@@ -5,15 +5,13 @@ date: 2025-07-04
 ---
 
 Terima kasih udah nyempetin mampir ke halaman ini 🙏  
-santaidikit.online dibuat buat yang suka mikir pelan-pelan, yang nggak buru-buru, dan yang percaya bahwa kata-kata punya kekuatan—asal dibikin dengan hati.
+`santaidikit.online` dibuat untuk yang suka mikir pelan-pelan, yang nggak buru-buru, dan yang percaya bahwa kata-kata punya kekuatan — asal dibikin dengan hati.
 
 Kalau merasa konten di sini pernah nyentuh, bikin senyum kecil, atau bantu ngelurusin pikiran, mungkin bisa bantu balik.
 
-Bukan karena wajib, tapi karena mau.
+> Bukan karena wajib, tapi karena mau.
 
-**santai dikit online** nggak pakai paywall, nggak nyuruh klik-klik berlebihan, dan nggak ngejar view dengan clickbait. Tapi kalau kamu ngerasa kontennya bermanfaat, kamu bisa bantu biar semua ini tetap berjalan.
-
----
+`santaidikit.online` nggak pakai paywall, nggak nyuruh klik-klik berlebihan, dan nggak ngejar view dengan clickbait. Tapi kalau kamu ngerasa kontennya bermanfaat, kamu bisa bantu biar semua ini tetap berjalan.
 
 #### Pilihan Dukungan:
 
@@ -48,13 +46,6 @@ Baca tetap bebas. Tapi kalau mau bantu, ya... kami senang banget.
 ## 💛 Dukung Sekarang
 
 Klik tombol di bawah dan pilih dukungan yang paling cocok. Terima kasih udah nemenin kami mikir bareng 🙌
-
----
-
-## 📬 Ada pertanyaan?
-
-Langsung aja ke halaman [Kontak](/kontak/)  
-Atau kirim email ke: `hai@santaidikit.online`
 
 ---
 

@@ -4,13 +4,13 @@ description: "Kita hargai privasi kamu. Berikut penjelasan singkat dan jujur soa
 date: 2025-07-03
 ---
 
-# 🔒 Kebijakan Privasi
+## 🔒 Kebijakan Privasi
 
 Kami sadar, privasi itu penting. Makanya, di halaman ini kami jelasin apa aja yang terjadi dengan data kamu pas mampir ke **santaidikit.online**.
 
 ---
 
-## 1. Data Apa yang Dikumpulkan?
+### 1. Data Apa yang Dikumpulkan?
 
 Kami nggak minta data pribadi secara langsung, kecuali kamu isi formulir kontak. Beberapa layanan pihak ketiga mungkin otomatis nyimpen data standar seperti:
 
@@ -21,7 +21,7 @@ Kami nggak minta data pribadi secara langsung, kecuali kamu isi formulir kontak.
 
 ---
 
-## 2. Alat Pihak Ketiga
+### 2. Alat Pihak Ketiga
 
 Kami pakai beberapa layanan pihak ketiga, seperti:
 
@@ -32,24 +32,24 @@ Layanan ini mungkin pakai **cookie** untuk bantu mereka bekerja.
 
 ---
 
-## 3. Kami Nggak Jual Data
+### 3. Kami Nggak Jual Data
 
 Tenang. Data kamu nggak bakal kami jual atau sebar ke pihak lain. Semua dipakai buat keperluan analisis dan peningkatan situs.
 
 ---
 
-## 4. Hak Kamu
+### 4. Hak Kamu
 
 Kalau kamu mau tahu data apa aja yang terekam, atau minta dihapus, tinggal hubungi kami. Kami akan bantu sebisa mungkin.
 
 ---
 
-## 5. Perubahan Kebijakan
+### 5. Perubahan Kebijakan
 
 Kebijakan ini bisa berubah sewaktu-waktu. Tapi versi terbaru selalu bisa kamu lihat di halaman ini.
 
 ---
 
-## 6. Kontak
+### 6. Kontak
 
 Ada hal yang bikin penasaran soal privasi? Silakan mampir ke halaman [Kontak](/kontak/) dan ngobrol langsung.
