@@ -21,6 +21,23 @@
       });
     </script>
 
+    <!-- Reader Revenue Subscriptions -->
+    <script
+      async
+      type="application/javascript"
+      src="https://news.google.com/swg/js/v1/swg-basic.js"
+    ></script>
+    <script>
+      (self.SWG_BASIC = self.SWG_BASIC || []).push((basicSubscriptions) => {
+        basicSubscriptions.init({
+          type: "NewsArticle",
+          isPartOfType: ["Product"],
+          isPartOfProductId: "CAowiOq8DA:openaccess",
+          clientOptions: { theme: "light", lang: "id" },
+        });
+      });
+    </script>
+
     <title>
       {{ if .IsHome }} santai dikit online — mikir santai, tapi tetap jalan {{
       else if .Title }} {{ .Title }} | santai dikit online {{ else }} santai

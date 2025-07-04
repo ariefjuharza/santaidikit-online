@@ -1,27 +1,55 @@
 ---
 title: "Kebijakan Privasi"
-description: "Penjelasan tentang data apa yang dikumpulkan dan bagaimana cara penggunaannya."
+description: "Kita hargai privasi kamu. Berikut penjelasan singkat dan jujur soal data di situs ini."
 date: 2025-07-03
 ---
 
-### Data yang Dikumpulkan
+# 🔒 Kebijakan Privasi
 
-Website ini menggunakan layanan pihak ketiga seperti **Google Analytics** untuk mengetahui statistik kunjungan. Data yang dikumpulkan mencakup:
+Kami sadar, privasi itu penting. Makanya, di halaman ini kami jelasin apa aja yang terjadi dengan data kamu pas mampir ke **santaidikit.online**.
 
-- Informasi browser dan perangkat
-- Perilaku pengguna secara anonim (misalnya halaman yang dikunjungi)
-- Lokasi umum berdasarkan IP (tanpa menyimpan IP)
+---
 
-Kami tidak mengumpulkan informasi pribadi seperti nama, email, atau nomor telepon.
+## 1. Data Apa yang Dikumpulkan?
 
-### Penggunaan Data
+Kami nggak minta data pribadi secara langsung, kecuali kamu isi formulir kontak. Beberapa layanan pihak ketiga mungkin otomatis nyimpen data standar seperti:
 
-Data digunakan semata-mata untuk:
+- Alamat IP
+- Jenis browser
+- Waktu akses
+- Halaman yang dikunjungi
 
-- Mengetahui konten apa yang disukai pengunjung
-- Meningkatkan kualitas situs
-- Tidak digunakan untuk iklan atau dibagikan ke pihak ketiga
+---
 
-### Kontak
+## 2. Alat Pihak Ketiga
 
-Kalau ada pertanyaan, bisa kirim email ke: [hai@santaidikit.online](mailto:hai@santaidikit.online)
+Kami pakai beberapa layanan pihak ketiga, seperti:
+
+- **Google Analytics**: Buat tahu halaman mana yang rame.
+- **Google AdSense**: Buat nyoba pasang iklan biar situs tetap jalan.
+
+Layanan ini mungkin pakai **cookie** untuk bantu mereka bekerja.
+
+---
+
+## 3. Kami Nggak Jual Data
+
+Tenang. Data kamu nggak bakal kami jual atau sebar ke pihak lain. Semua dipakai buat keperluan analisis dan peningkatan situs.
+
+---
+
+## 4. Hak Kamu
+
+Kalau kamu mau tahu data apa aja yang terekam, atau minta dihapus, tinggal hubungi kami. Kami akan bantu sebisa mungkin.
+
+---
+
+## 5. Perubahan Kebijakan
+
+Kebijakan ini bisa berubah sewaktu-waktu. Tapi versi terbaru selalu bisa kamu lihat di halaman ini.
+
+---
+
+## 6. Kontak
+
+Ada hal yang bikin penasaran soal privasi? Silakan mampir ke halaman [Kontak](/kontak/) dan ngobrol langsung.
