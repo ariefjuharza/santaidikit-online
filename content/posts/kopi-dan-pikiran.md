@@ -1,7 +1,7 @@
 ---
 title: "Kopi Nggak Bikin Hebat, Tapi Jadi Teman Mikir yang Setia"
 description: "Kadang yang kita butuhin bukan kecepatan, tapi jeda. Dan secangkir kopi bisa bantu itu."
-date: 2025-07-04
+date: 2025-07-01
 categories: ["Tulisan"]
 tags: ["kopi", "menulis", "refleksi"]
 ---
