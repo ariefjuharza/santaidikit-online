@@ -9,18 +9,18 @@
     <lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Internet Lemot Bukan Alasan, Ide Tetap Bisa Jalan</title>
-      <link>http://localhost:1313/posts/internet-lemot-tapi-ide-tetap-jalan/</link>
-      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/internet-lemot-tapi-ide-tetap-jalan/</guid>
-      <description>Kadang yang lambat bukan sinyalnya, tapi niatnya. Kalau udah mau mulai, bahkan loading pun bisa jadi waktu mikir.</description>
-    </item>
-    <item>
       <title>Kopi Nggak Bikin Hebat, Tapi Jadi Teman Mikir yang Setia</title>
       <link>http://localhost:1313/posts/kopi-dan-pikiran/</link>
       <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/kopi-dan-pikiran/</guid>
       <description>Kadang yang kita butuhin bukan kecepatan, tapi jeda. Dan secangkir kopi bisa bantu itu.</description>
+    </item>
+    <item>
+      <title>Internet Lemot Bukan Alasan, Ide Tetap Bisa Jalan</title>
+      <link>http://localhost:1313/posts/internet-lemot-tapi-ide-tetap-jalan/</link>
+      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/internet-lemot-tapi-ide-tetap-jalan/</guid>
+      <description>Kadang yang lambat bukan sinyalnya, tapi niatnya. Kalau udah mau mulai, bahkan loading pun bisa jadi waktu mikir.</description>
     </item>
     <item>
       <title>12 Bahasa Pemrograman Populer &#43; Contoh Kode (Bagian 2 – Versi Santai Dikit)</title>

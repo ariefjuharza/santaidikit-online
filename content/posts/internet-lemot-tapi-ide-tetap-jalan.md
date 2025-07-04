@@ -1,7 +1,7 @@
 ---
 title: "Internet Lemot Bukan Alasan, Ide Tetap Bisa Jalan"
 description: "Kadang yang lambat bukan sinyalnya, tapi niatnya. Kalau udah mau mulai, bahkan loading pun bisa jadi waktu mikir."
-date: 2025-07-04
+date: 2025-07-03
 categories: ["Tulisan"]
 tags: ["internet", "produktivitas", "refleksi"]
 ---
