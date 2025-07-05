@@ -36,7 +36,7 @@ Santai, lucu, tapi sering bahas topik yang surprisingly insightful—dari dunia 
 
 Obrolannya lebih serius, tapi tetap dibawain dengan santai. Ngehadirin banyak narasumber dari berbagai bidang—aktivis, musisi, penulis, entrepreneur. Suka banget karena kamu bisa dapet banyak perspektif tanpa kerasa digurui.
 
-> Buat yang suka mikir soal “hidup gue mau ke mana”, ini cocok.
+> Buat yang suka mikir soal “hidup ini mau ke mana”, ini cocok.
 
 ---
 

@@ -2,122 +2,143 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>santai dikit online</title>
-    <link>http://localhost:1313/</link>
+    <link>https://santaidikit.online/</link>
     <description>Recent content on santai dikit online</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en</language>
     <lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://santaidikit.online/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>💛 Dukung Situs Ini</title>
-      <link>http://localhost:1313/dukungan/</link>
+      <link>https://santaidikit.online/dukungan/</link>
       <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/dukungan/</guid>
+      <guid>https://santaidikit.online/dukungan/</guid>
       <description>Kalau suka dengan yang ditulis di sini, yuk bantu biar tetap jalan. Pelan nggak apa-apa, yang penting nggak berhenti.</description>
     </item>
     <item>
       <title>Syarat dan Ketentuan</title>
-      <link>http://localhost:1313/terms/</link>
+      <link>https://santaidikit.online/terms/</link>
       <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/terms/</guid>
+      <guid>https://santaidikit.online/terms/</guid>
       <description>Beberapa hal penting biar kita semua enak dan tahu aturan mainnya di situs ini.</description>
     </item>
     <item>
       <title>Kebijakan Privasi</title>
-      <link>http://localhost:1313/privacy-policy/</link>
+      <link>https://santaidikit.online/privacy-policy/</link>
       <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/privacy-policy/</guid>
+      <guid>https://santaidikit.online/privacy-policy/</guid>
       <description>Kita hargai privasi kamu. Berikut penjelasan singkat dan jujur soal data di situs ini.</description>
     </item>
     <item>
+      <title>Kesepian: Epidemi Sunyi di Era Digital?</title>
+      <link>https://santaidikit.online/posts/kesepian-epidemi-sunyi/</link>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://santaidikit.online/posts/kesepian-epidemi-sunyi/</guid>
+      <description>Bukan cuma soal sepi, tapi soal kesehatan mental dan sosial yang makin terkikis di tengah keramaian online.</description>
+    </item>
+    <item>
+      <title>Kopi Nggak Bikin Hebat, Tapi Jadi Teman Mikir yang Setia</title>
+      <link>https://santaidikit.online/posts/kopi-dan-pikiran/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://santaidikit.online/posts/kopi-dan-pikiran/</guid>
+      <description>Kadang yang kita butuhin bukan kecepatan, tapi jeda. Dan secangkir kopi bisa bantu itu.</description>
+    </item>
+    <item>
       <title>UniVPN – Aplikasi VPN Gratis, Stabil, dan Nggak Bikin Ribet</title>
-      <link>http://localhost:1313/portofolio/univpn/</link>
+      <link>https://santaidikit.online/portofolio/univpn/</link>
       <pubDate>Mon, 30 Jun 2025 09:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/portofolio/univpn/</guid>
+      <guid>https://santaidikit.online/portofolio/univpn/</guid>
       <description>UniVPN adalah aplikasi VPN ringan yang bisa langsung dipakai tanpa akun, tanpa batasan bandwidth, dan cukup satu klik buat langsung terhubung.</description>
     </item>
     <item>
+      <title>Internet Lemot Bukan Alasan, Ide Tetap Bisa Jalan</title>
+      <link>https://santaidikit.online/posts/internet-lemot-tapi-ide-tetap-jalan/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://santaidikit.online/posts/internet-lemot-tapi-ide-tetap-jalan/</guid>
+      <description>Kadang yang lambat bukan sinyalnya, tapi niatnya. Kalau udah mau mulai, bahkan loading pun bisa jadi waktu mikir.</description>
+    </item>
+    <item>
       <title>12 Bahasa Pemrograman Populer &#43; Contoh Kode (Bagian 2 – Versi Santai Dikit)</title>
-      <link>http://localhost:1313/posts/jenis-bahasa-pemrograman-bagian-2/</link>
+      <link>https://santaidikit.online/posts/jenis-bahasa-pemrograman-bagian-2/</link>
       <pubDate>Sun, 29 Jun 2025 23:45:00 +0700</pubDate>
-      <guid>http://localhost:1313/posts/jenis-bahasa-pemrograman-bagian-2/</guid>
+      <guid>https://santaidikit.online/posts/jenis-bahasa-pemrograman-bagian-2/</guid>
       <description>Lanjutan penjelasan bahasa pemrograman populer versi santai, lengkap dengan contoh kodenya. Kali ini bahas HTML, Ruby, PHP, Go, Kotlin, dan HTML5.</description>
     </item>
     <item>
       <title>12 Bahasa Pemrograman Populer &#43; Contoh Kode (Bagian 1 – Versi Santai Dikit)</title>
-      <link>http://localhost:1313/posts/jenis-bahasa-pemrograman-bagian-1/</link>
+      <link>https://santaidikit.online/posts/jenis-bahasa-pemrograman-bagian-1/</link>
       <pubDate>Sun, 29 Jun 2025 23:30:00 +0700</pubDate>
-      <guid>http://localhost:1313/posts/jenis-bahasa-pemrograman-bagian-1/</guid>
+      <guid>https://santaidikit.online/posts/jenis-bahasa-pemrograman-bagian-1/</guid>
       <description>Penjelasan singkat tentang berbagai bahasa pemrograman yang sering ditemui, dibahas santai plus contoh sintaksnya biar nggak cuma teori doang.</description>
     </item>
     <item>
       <title>📚 Buku Ringan Tapi Nendang</title>
-      <link>http://localhost:1313/rekomendasi/buku-ringan-tapi-nendang/</link>
+      <link>https://santaidikit.online/rekomendasi/buku-ringan-tapi-nendang/</link>
       <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/rekomendasi/buku-ringan-tapi-nendang/</guid>
+      <guid>https://santaidikit.online/rekomendasi/buku-ringan-tapi-nendang/</guid>
       <description>Buku yang bisa dibaca sambil rebahan tapi isinya bikin kamu mikir dua kali soal hidup.</description>
     </item>
     <item>
       <title>📺 Channel YouTube Asik</title>
-      <link>http://localhost:1313/rekomendasi/channel-youtube-asik/</link>
+      <link>https://santaidikit.online/rekomendasi/channel-youtube-asik/</link>
       <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/rekomendasi/channel-youtube-asik/</guid>
+      <guid>https://santaidikit.online/rekomendasi/channel-youtube-asik/</guid>
       <description>Visual santai, suara adem, tapi bahasannya kadang bikin “oh, iya ya...”</description>
     </item>
     <item>
       <title>🎙️ Podcast untuk Teman Kopi</title>
-      <link>http://localhost:1313/rekomendasi/podcast-untuk-teman-kopi/</link>
+      <link>https://santaidikit.online/rekomendasi/podcast-untuk-teman-kopi/</link>
       <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/rekomendasi/podcast-untuk-teman-kopi/</guid>
+      <guid>https://santaidikit.online/rekomendasi/podcast-untuk-teman-kopi/</guid>
       <description>Obrolan santai, topik yang dalem, pas banget buat nemenin kopi sore kamu.</description>
     </item>
     <item>
       <title>GTX 750 Ti dan Meja Coding: Teman Setia di Era Digital</title>
-      <link>http://localhost:1313/posts/cerita-tentang-gtx-750-ti/</link>
+      <link>https://santaidikit.online/posts/cerita-tentang-gtx-750-ti/</link>
       <pubDate>Fri, 27 Jun 2025 21:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/posts/cerita-tentang-gtx-750-ti/</guid>
+      <guid>https://santaidikit.online/posts/cerita-tentang-gtx-750-ti/</guid>
       <description>Cerita soal GPU jadul yang tetap setia menemani coding sehari-hari. Nggak harus canggih buat jadi produktif.</description>
     </item>
     <item>
       <title>Santai Dikit, Tapi Jalan Terus</title>
-      <link>http://localhost:1313/posts/santai-dikit-tapi-jalan-terus/</link>
+      <link>https://santaidikit.online/posts/santai-dikit-tapi-jalan-terus/</link>
       <pubDate>Thu, 26 Jun 2025 05:26:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/santai-dikit-tapi-jalan-terus/</guid>
+      <guid>https://santaidikit.online/posts/santai-dikit-tapi-jalan-terus/</guid>
       <description>Nggak harus alat canggih untuk mulai produktif. Cerita tentang berkarya di tengah keterbatasan, dengan gaya santai tapi tetap mikir.</description>
     </item>
     <item>
       <title>☕ Santai Bukan Berarti Nggak Serius</title>
-      <link>http://localhost:1313/cara-pikir/santai-bukan-berarti-nggak-serius/</link>
+      <link>https://santaidikit.online/cara-pikir/santai-bukan-berarti-nggak-serius/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cara-pikir/santai-bukan-berarti-nggak-serius/</guid>
+      <guid>https://santaidikit.online/cara-pikir/santai-bukan-berarti-nggak-serius/</guid>
       <description>Justru dengan pikiran yang tenang, kita bisa lebih jernih mikir dan ambil keputusan.</description>
     </item>
     <item>
       <title>🌀 Berpikir Boleh, Panik Jangan</title>
-      <link>http://localhost:1313/cara-pikir/berpikir-boleh-panik-jangan/</link>
+      <link>https://santaidikit.online/cara-pikir/berpikir-boleh-panik-jangan/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cara-pikir/berpikir-boleh-panik-jangan/</guid>
+      <guid>https://santaidikit.online/cara-pikir/berpikir-boleh-panik-jangan/</guid>
       <description>Dunia ini memang aneh. Tapi kita masih bisa memilih bagaimana merespons semuanya.</description>
     </item>
     <item>
       <title>🧘‍♂️ Nggak Semua Harus Heboh</title>
-      <link>http://localhost:1313/cara-pikir/nggak-semua-harus-heboh/</link>
+      <link>https://santaidikit.online/cara-pikir/nggak-semua-harus-heboh/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cara-pikir/nggak-semua-harus-heboh/</guid>
+      <guid>https://santaidikit.online/cara-pikir/nggak-semua-harus-heboh/</guid>
       <description>Kadang diam itu solusi. Nggak semua hal harus dikomentari atau ditanggapi buru-buru.</description>
     </item>
     <item>
       <title>✍️ Tentang Redaksi</title>
-      <link>http://localhost:1313/redaksi/</link>
+      <link>https://santaidikit.online/redaksi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/redaksi/</guid>
+      <guid>https://santaidikit.online/redaksi/</guid>
       <description>Sedikit cerita soal siapa yang ngetik, mikir, dan ngopi sambil nulis konten di santai dikit online.</description>
     </item>
     <item>
       <title>Ngobrol Santai</title>
-      <link>http://localhost:1313/kontak/</link>
+      <link>https://santaidikit.online/kontak/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kontak/</guid>
+      <guid>https://santaidikit.online/kontak/</guid>
       <description>Punya pertanyaan, ide, atau cuma mau say hi? Kirim aja lewat sini.</description>
     </item>
   </channel>

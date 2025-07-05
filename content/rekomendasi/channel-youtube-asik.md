@@ -38,7 +38,7 @@ Visualnya keren banget, penuh warna dan animasi lucu. Tapi isinya? Berat kalau d
 
 Channel pribadi yang mirip vlog, tapi bukan vlog yang pamer-pamer. Isinya reflektif, tentang hidup, relasi, dan perjalanan berpikir. Kamera diam, suara tenang, cocok buat kamu yang suka nonton sambil merenung.
 
-> Bisa bikin kamu diem sebentar dan nanya ke diri sendiri: “gue udah hidup bener belum ya?”
+> Bisa bikin kamu diem sebentar dan nanya ke diri sendiri: “ini kita udah hidup bener belum ya?”
 
 ---
 
