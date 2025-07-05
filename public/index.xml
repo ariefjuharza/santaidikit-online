@@ -16,6 +16,13 @@
       <description>Kalau suka dengan yang ditulis di sini, yuk bantu biar tetap jalan. Pelan nggak apa-apa, yang penting nggak berhenti.</description>
     </item>
     <item>
+      <title>Buletin Santai Dikit</title>
+      <link>http://localhost:1313/newsletter/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/newsletter/</guid>
+      <description>Langganan buletin yang isinya santai tapi tetap mikir. Kirimannya nggak sering-sering banget, tapi selalu berisi.</description>
+    </item>
+    <item>
       <title>Syarat dan Ketentuan</title>
       <link>http://localhost:1313/terms/</link>
       <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
