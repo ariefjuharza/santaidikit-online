@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tulisan on santai dikit online</title>
-    <link>https://santaidikit.online/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Tulisan on santai dikit online</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en</language>
     <lastBuildDate>Wed, 02 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://santaidikit.online/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kesepian: Epidemi Sunyi di Era Digital?</title>
-      <link>https://santaidikit.online/posts/kesepian-epidemi-sunyi/</link>
+      <link>http://localhost:1313/posts/kesepian-epidemi-sunyi/</link>
       <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://santaidikit.online/posts/kesepian-epidemi-sunyi/</guid>
+      <guid>http://localhost:1313/posts/kesepian-epidemi-sunyi/</guid>
       <description>Bukan cuma soal sepi, tapi soal kesehatan mental dan sosial yang makin terkikis di tengah keramaian online.</description>
     </item>
     <item>
       <title>Kopi Nggak Bikin Hebat, Tapi Jadi Teman Mikir yang Setia</title>
-      <link>https://santaidikit.online/posts/kopi-dan-pikiran/</link>
+      <link>http://localhost:1313/posts/kopi-dan-pikiran/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://santaidikit.online/posts/kopi-dan-pikiran/</guid>
+      <guid>http://localhost:1313/posts/kopi-dan-pikiran/</guid>
       <description>Kadang yang kita butuhin bukan kecepatan, tapi jeda. Dan secangkir kopi bisa bantu itu.</description>
     </item>
     <item>
       <title>Internet Lemot Bukan Alasan, Ide Tetap Bisa Jalan</title>
-      <link>https://santaidikit.online/posts/internet-lemot-tapi-ide-tetap-jalan/</link>
+      <link>http://localhost:1313/posts/internet-lemot-tapi-ide-tetap-jalan/</link>
       <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://santaidikit.online/posts/internet-lemot-tapi-ide-tetap-jalan/</guid>
+      <guid>http://localhost:1313/posts/internet-lemot-tapi-ide-tetap-jalan/</guid>
       <description>Kadang yang lambat bukan sinyalnya, tapi niatnya. Kalau udah mau mulai, bahkan loading pun bisa jadi waktu mikir.</description>
     </item>
     <item>
       <title>12 Bahasa Pemrograman Populer &#43; Contoh Kode (Bagian 2 – Versi Santai Dikit)</title>
-      <link>https://santaidikit.online/posts/jenis-bahasa-pemrograman-bagian-2/</link>
+      <link>http://localhost:1313/posts/jenis-bahasa-pemrograman-bagian-2/</link>
       <pubDate>Sun, 29 Jun 2025 23:45:00 +0700</pubDate>
-      <guid>https://santaidikit.online/posts/jenis-bahasa-pemrograman-bagian-2/</guid>
+      <guid>http://localhost:1313/posts/jenis-bahasa-pemrograman-bagian-2/</guid>
       <description>Lanjutan penjelasan bahasa pemrograman populer versi santai, lengkap dengan contoh kodenya. Kali ini bahas HTML, Ruby, PHP, Go, Kotlin, dan HTML5.</description>
     </item>
     <item>
       <title>12 Bahasa Pemrograman Populer &#43; Contoh Kode (Bagian 1 – Versi Santai Dikit)</title>
-      <link>https://santaidikit.online/posts/jenis-bahasa-pemrograman-bagian-1/</link>
+      <link>http://localhost:1313/posts/jenis-bahasa-pemrograman-bagian-1/</link>
       <pubDate>Sun, 29 Jun 2025 23:30:00 +0700</pubDate>
-      <guid>https://santaidikit.online/posts/jenis-bahasa-pemrograman-bagian-1/</guid>
+      <guid>http://localhost:1313/posts/jenis-bahasa-pemrograman-bagian-1/</guid>
       <description>Penjelasan singkat tentang berbagai bahasa pemrograman yang sering ditemui, dibahas santai plus contoh sintaksnya biar nggak cuma teori doang.</description>
     </item>
     <item>
       <title>GTX 750 Ti dan Meja Coding: Teman Setia di Era Digital</title>
-      <link>https://santaidikit.online/posts/cerita-tentang-gtx-750-ti/</link>
+      <link>http://localhost:1313/posts/cerita-tentang-gtx-750-ti/</link>
       <pubDate>Fri, 27 Jun 2025 21:00:00 +0700</pubDate>
-      <guid>https://santaidikit.online/posts/cerita-tentang-gtx-750-ti/</guid>
+      <guid>http://localhost:1313/posts/cerita-tentang-gtx-750-ti/</guid>
       <description>Cerita soal GPU jadul yang tetap setia menemani coding sehari-hari. Nggak harus canggih buat jadi produktif.</description>
     </item>
     <item>
       <title>Santai Dikit, Tapi Jalan Terus</title>
-      <link>https://santaidikit.online/posts/santai-dikit-tapi-jalan-terus/</link>
+      <link>http://localhost:1313/posts/santai-dikit-tapi-jalan-terus/</link>
       <pubDate>Thu, 26 Jun 2025 05:26:00 +0000</pubDate>
-      <guid>https://santaidikit.online/posts/santai-dikit-tapi-jalan-terus/</guid>
+      <guid>http://localhost:1313/posts/santai-dikit-tapi-jalan-terus/</guid>
       <description>Nggak harus alat canggih untuk mulai produktif. Cerita tentang berkarya di tengah keterbatasan, dengan gaya santai tapi tetap mikir.</description>
     </item>
   </channel>
