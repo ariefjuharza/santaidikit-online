@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/id/categories/</loc>
+    <loc>https://santaidikit.online/id/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://santaidikit.online/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/id/categories/"
+                href="https://santaidikit.online/id/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/id/</loc>
+    <loc>https://santaidikit.online/id/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://santaidikit.online/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/id/"
+                href="https://santaidikit.online/id/"
                 />
   </url><url>
-    <loc>http://localhost:1313/id/tags/</loc>
+    <loc>https://santaidikit.online/id/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://santaidikit.online/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://localhost:1313/id/tags/"
+                href="https://santaidikit.online/id/tags/"
                 />
   </url>
 </urlset>

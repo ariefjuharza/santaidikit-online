@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Rekomendasi on santai dikit online</title>
-    <link>http://localhost:1313/rekomendasi/</link>
+    <link>https://santaidikit.online/rekomendasi/</link>
     <description>Recent content in Rekomendasi on santai dikit online</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en</language>
     <lastBuildDate>Sat, 28 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/rekomendasi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://santaidikit.online/rekomendasi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>📚 Buku Ringan Tapi Nendang</title>
-      <link>http://localhost:1313/rekomendasi/buku-ringan-tapi-nendang/</link>
+      <link>https://santaidikit.online/rekomendasi/buku-ringan-tapi-nendang/</link>
       <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/rekomendasi/buku-ringan-tapi-nendang/</guid>
+      <guid>https://santaidikit.online/rekomendasi/buku-ringan-tapi-nendang/</guid>
       <description>Buku yang bisa dibaca sambil rebahan tapi isinya bikin kamu mikir dua kali soal hidup.</description>
     </item>
     <item>
       <title>📺 Channel YouTube Asik</title>
-      <link>http://localhost:1313/rekomendasi/channel-youtube-asik/</link>
+      <link>https://santaidikit.online/rekomendasi/channel-youtube-asik/</link>
       <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/rekomendasi/channel-youtube-asik/</guid>
+      <guid>https://santaidikit.online/rekomendasi/channel-youtube-asik/</guid>
       <description>Visual santai, suara adem, tapi bahasannya kadang bikin “oh, iya ya...”</description>
     </item>
     <item>
       <title>🎙️ Podcast untuk Teman Kopi</title>
-      <link>http://localhost:1313/rekomendasi/podcast-untuk-teman-kopi/</link>
+      <link>https://santaidikit.online/rekomendasi/podcast-untuk-teman-kopi/</link>
       <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/rekomendasi/podcast-untuk-teman-kopi/</guid>
+      <guid>https://santaidikit.online/rekomendasi/podcast-untuk-teman-kopi/</guid>
       <description>Obrolan santai, topik yang dalem, pas banget buat nemenin kopi sore kamu.</description>
     </item>
   </channel>

@@ -48,6 +48,3 @@ Baca tetap bebas. Tapi kalau mau bantu, ya... kami senang banget.
 Klik tombol di bawah dan pilih dukungan yang paling cocok. Terima kasih udah nemenin kami mikir bareng 🙌
 
 ---
-
-**Terima kasih udah baca sampai sini.  
-Semoga yang dibaca di sini nyangkutnya lama.** ☁️
