@@ -5,9 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <!-- DNS Prefetch & Preconnect -->
-    {{/*  <link rel="dns-prefetch" href="//fonts.googleapis.com" />
+    {{/*
+    <link rel="dns-prefetch" href="//fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />  */}}
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    */}}
 
     <link
       rel="preload"
@@ -25,7 +27,7 @@
     />
 
     <link rel="preconnect" href="https://cdn.brevo.com" crossorigin />
-    <link rel="preconnect" href="https://cdn.wonderpush.com" crossorigin />
+    {{/*  <link rel="preconnect" href="https://cdn.wonderpush.com" crossorigin />  */}}
     <link rel="preconnect" href="https://news.google.com" crossorigin />
     <link
       rel="preconnect"
@@ -117,65 +119,6 @@
 
     <!-- Google AdSense -->
     <meta name="google-adsense-account" content="ca-pub-8527144637859921" />
-
-    <!-- AdSense Auto Ads -->
-    <script
-      async
-      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8527144637859921"
-      crossorigin="anonymous"
-    ></script>
-
-    <script>
-      (adsbygoogle = window.adsbygoogle || []).push({
-        google_ad_client: "ca-pub-8527144637859921",
-        enable_page_level_ads: true,
-      });
-    </script>
-
-    <!-- Google Analytics -->
-    <script
-      async
-      src="https://www.googletagmanager.com/gtag/js?id=G-6N9MTYL3BG"
-    ></script>
-
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag() {
-        dataLayer.push(arguments);
-      }
-      gtag("js", new Date());
-
-      gtag("config", "G-6N9MTYL3BG");
-    </script>
-
-    <!-- Lazy Script Loader -->
-    <script>
-      window.addEventListener("DOMContentLoaded", function () {
-        const loadScript = (src) => {
-          const s = document.createElement("script");
-          s.src = src;
-          s.async = true;
-          document.body.appendChild(s);
-        };
-
-        // Load Brevo SDK
-        loadScript("https://cdn.brevo.com/js/sdk-loader.js");
-        window.Brevo = window.Brevo || [];
-        Brevo.push(["init", { client_key: "o1mymh2cedwgdk0anrg26jch" }]);
-
-        // Load Google Reader Revenue
-        loadScript("https://news.google.com/swg/js/v1/swg-basic.js");
-        window.SWG_BASIC = window.SWG_BASIC || [];
-        SWG_BASIC.push((basicSubscriptions) => {
-          basicSubscriptions.init({
-            type: "NewsArticle",
-            isPartOfType: ["Product"],
-            isPartOfProductId: "CAowiOq8DA:openaccess",
-            clientOptions: { theme: "light", lang: "id" },
-          });
-        });
-      });
-    </script>
 
     <!-- JSON-LD untuk homepage -->
     <script type="application/ld+json">
@@ -455,6 +398,66 @@
               console.warn("Service Worker failed:", err);
             });
         });
+      }
+    </script>
+
+    <script>
+      function lazyLoadScripts() {
+        if (window.lazyScriptsLoaded) return;
+        window.lazyScriptsLoaded = true;
+
+        const load = (src) => {
+          const s = document.createElement("script");
+          s.src = src;
+          s.async = true;
+          document.body.appendChild(s);
+        };
+
+        // Google AdSense
+        load(
+          "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8527144637859921"
+        );
+
+        window.adsbygoogle = window.adsbygoogle || [];
+        window.adsbygoogle.push({
+          google_ad_client: "ca-pub-8527144637859921",
+          enable_page_level_ads: true,
+        });
+
+        // Google Analytics
+        load("https://www.googletagmanager.com/gtag/js?id=G-6N9MTYL3BG");
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+          dataLayer.push(arguments);
+        }
+        gtag("js", new Date());
+        gtag("config", "G-6N9MTYL3BG");
+
+        // Brevo
+        load("https://cdn.brevo.com/js/sdk-loader.js");
+        window.Brevo = window.Brevo || [];
+        Brevo.push(["init", { client_key: "o1mymh2cedwgdk0anrg26jch" }]);
+
+        // Google Reader Revenue
+        load("https://news.google.com/swg/js/v1/swg-basic.js");
+        window.SWG_BASIC = window.SWG_BASIC || [];
+        SWG_BASIC.push((basicSubscriptions) => {
+          basicSubscriptions.init({
+            type: "NewsArticle",
+            isPartOfType: ["Product"],
+            isPartOfProductId: "CAowiOq8DA:openaccess",
+            clientOptions: { theme: "light", lang: "id" },
+          });
+        });
+
+        // WonderPush (optional)
+        // load("https://cdn.by.wonderpush.com/js/wonderpush-loader.min.js");
+      }
+
+      window.addEventListener("scroll", lazyLoadScripts, { once: true });
+      setTimeout(lazyLoadScripts, 3000);
+      if ("requestIdleCallback" in window) {
+        requestIdleCallback(lazyLoadScripts);
       }
     </script>
   </body>
