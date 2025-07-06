@@ -2,7 +2,15 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/675a6ea3-33c0-48d1-871a-958dd4738c1a/deploy-status)](https://app.netlify.com/projects/santaidikit-online/deploys)
 ![Netlify Status](https://api.netlify.com/api/v1/badges/675a6ea3-33c0-48d1-871a-958dd4738c1a/deploy-status?branch=master)
+![Hugo](https://img.shields.io/badge/Built_with-Hugo-blue?logo=hugo)
+![Tailwind CSS](https://img.shields.io/badge/Styling-Tailwind_CSS-38bdf8?logo=tailwindcss&logoColor=white)
+![CMS: Sveltia](https://img.shields.io/badge/CMS-Sveltia_%7C_Svelte-orange?logo=svelte)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Last Commit](https://img.shields.io/github/last-commit/ariefjuharza/santaidikit-online)
+![Repo Size](https://img.shields.io/github/repo-size/ariefjuharza/santaidikit-online)
+![Top Language](https://img.shields.io/github/languages/top/ariefjuharza/santaidikit-online)
+![Stars](https://img.shields.io/github/stars/ariefjuharza/santaidikit-online?style=social)
 
 **Tempat mikir ringan tapi tetap jalan terus.**  
 Situs ini dibuat untuk siapa aja yang pengen nyantai tapi tetap produktif. Ada rekomendasi bacaan, podcast, cara mikir, sampai cerita santai dari dunia digital.
