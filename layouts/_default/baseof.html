@@ -4,6 +4,10 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
+    <!-- Preconnect fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
     <!-- Google AdSense -->
     <meta name="google-adsense-account" content="ca-pub-8527144637859921" />
 
@@ -84,7 +88,21 @@
     />
 
     <!-- Styles -->
+    {{/*
     <link href="/assets/css/bundle.css" rel="stylesheet" />
+    */}}
+
+    <!-- Optimized CSS loading -->
+    <link rel="preload" href="/assets/css/bundle.css" as="style" />
+    <link
+      rel="stylesheet"
+      href="/assets/css/bundle.css"
+      media="print"
+      onload="this.media='all'"
+    />
+    <noscript><link rel="stylesheet" href="/assets/css/bundle.css" /></noscript>
+
+    <!-- Google Fonts (keep or remove if switching to self-hosted) -->
     <link
       href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700&display=swap"
       rel="stylesheet"
