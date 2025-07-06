@@ -6,11 +6,15 @@
 
   <div class="prose dark:prose-invert max-w-none mb-8">{{ .Content }}</div>
 
-  <form
+  {{/*  <form
     action="https://formspree.io/f/mwpbzrob"
     method="POST"
     class="space-y-4"
-  >
+  >  */}}
+
+  <form 
+  name="contact" 
+  method="POST" data-netlify="true">
     <div>
       <label class="block text-sm font-medium mb-1">Nama</label>
       <input
