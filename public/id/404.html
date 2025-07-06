@@ -5,43 +5,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     
+    <link rel="dns-prefetch" href="//fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 
-    
-    <meta name="google-adsense-account" content="ca-pub-8527144637859921" />
+    <link rel="preconnect" href="https://cdn.brevo.com" crossorigin />
+    <link rel="preconnect" href="https://cdn.wonderpush.com" crossorigin />
+    <link rel="preconnect" href="https://news.google.com" crossorigin />
+    <link
+      rel="preconnect"
+      href="https://www.googletagmanager.com"
+      crossorigin
+    />
 
     
-    <script
-      async
-      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8527144637859921"
-      crossorigin="anonymous"
-    ></script>
-
-    <script>
-      (adsbygoogle = window.adsbygoogle || []).push({
-        google_ad_client: "ca-pub-8527144637859921",
-        enable_page_level_ads: true,
-      });
-    </script>
-
-    
-    <script
-      async
-      type="application/javascript"
-      src="https://news.google.com/swg/js/v1/swg-basic.js"
-    ></script>
-    <script>
-      (self.SWG_BASIC = self.SWG_BASIC || []).push((basicSubscriptions) => {
-        basicSubscriptions.init({
-          type: "NewsArticle",
-          isPartOfType: ["Product"],
-          isPartOfProductId: "CAowiOq8DA:openaccess",
-          clientOptions: { theme: "light", lang: "id" },
-        });
-      });
-    </script>
-
     <title>
        404 Page not found | santai dikit online 
     </title>
@@ -87,8 +64,6 @@
 
     
     
-
-    
     <link rel="preload" href="/assets/css/bundle.css" as="style" />
     <link
       rel="stylesheet"
@@ -120,10 +95,28 @@
     
 
     
+    <meta name="google-adsense-account" content="ca-pub-8527144637859921" />
+
+    
+    <script
+      async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8527144637859921"
+      crossorigin="anonymous"
+    ></script>
+
+    <script>
+      (adsbygoogle = window.adsbygoogle || []).push({
+        google_ad_client: "ca-pub-8527144637859921",
+        enable_page_level_ads: true,
+      });
+    </script>
+
+    
     <script
       async
       src="https://www.googletagmanager.com/gtag/js?id=G-6N9MTYL3BG"
     ></script>
+
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag() {
@@ -132,6 +125,35 @@
       gtag("js", new Date());
 
       gtag("config", "G-6N9MTYL3BG");
+    </script>
+
+    
+    <script>
+      window.addEventListener("DOMContentLoaded", function () {
+        const loadScript = (src) => {
+          const s = document.createElement("script");
+          s.src = src;
+          s.async = true;
+          document.body.appendChild(s);
+        };
+
+        
+        loadScript("https://cdn.brevo.com/js/sdk-loader.js");
+        window.Brevo = window.Brevo || [];
+        Brevo.push(["init", { client_key: "o1mymh2cedwgdk0anrg26jch" }]);
+
+        
+        loadScript("https://news.google.com/swg/js/v1/swg-basic.js");
+        window.SWG_BASIC = window.SWG_BASIC || [];
+        SWG_BASIC.push((basicSubscriptions) => {
+          basicSubscriptions.init({
+            type: "NewsArticle",
+            isPartOfType: ["Product"],
+            isPartOfProductId: "CAowiOq8DA:openaccess",
+            clientOptions: { theme: "light", lang: "id" },
+          });
+        });
+      });
     </script>
 
     
@@ -163,19 +185,6 @@
     
     
 
-
-    
-    <script src="https://cdn.brevo.com/js/sdk-loader.js" async></script>
-    <script>
-      
-      window.Brevo = window.Brevo || [];
-      Brevo.push([
-        "init",
-        {
-          client_key: "o1mymh2cedwgdk0anrg26jch",
-        },
-      ]);
-    </script>
   </head>
 
   <body

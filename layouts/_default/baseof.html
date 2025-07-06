@@ -4,44 +4,21 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <!-- Preconnect fonts -->
+    <!-- DNS Prefetch & Preconnect -->
+    <link rel="dns-prefetch" href="//fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 
-    <!-- Google AdSense -->
-    <meta name="google-adsense-account" content="ca-pub-8527144637859921" />
+    <link rel="preconnect" href="https://cdn.brevo.com" crossorigin />
+    <link rel="preconnect" href="https://cdn.wonderpush.com" crossorigin />
+    <link rel="preconnect" href="https://news.google.com" crossorigin />
+    <link
+      rel="preconnect"
+      href="https://www.googletagmanager.com"
+      crossorigin
+    />
 
-    <!-- AdSense Auto Ads -->
-    <script
-      async
-      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8527144637859921"
-      crossorigin="anonymous"
-    ></script>
-
-    <script>
-      (adsbygoogle = window.adsbygoogle || []).push({
-        google_ad_client: "ca-pub-8527144637859921",
-        enable_page_level_ads: true,
-      });
-    </script>
-
-    <!-- Reader Revenue Subscriptions -->
-    <script
-      async
-      type="application/javascript"
-      src="https://news.google.com/swg/js/v1/swg-basic.js"
-    ></script>
-    <script>
-      (self.SWG_BASIC = self.SWG_BASIC || []).push((basicSubscriptions) => {
-        basicSubscriptions.init({
-          type: "NewsArticle",
-          isPartOfType: ["Product"],
-          isPartOfProductId: "CAowiOq8DA:openaccess",
-          clientOptions: { theme: "light", lang: "id" },
-        });
-      });
-    </script>
-
+    <!-- Title -->
     <title>
       {{ if .IsHome }} santai dikit online — mikir santai, tapi tetap jalan {{
       else if .Title }} {{ .Title }} | santai dikit online {{ else }} santai
@@ -88,10 +65,6 @@
     />
 
     <!-- Styles -->
-    {{/*
-    <link href="/assets/css/bundle.css" rel="stylesheet" />
-    */}}
-
     <!-- Optimized CSS loading -->
     <link rel="preload" href="/assets/css/bundle.css" as="style" />
     <link
@@ -102,7 +75,7 @@
     />
     <noscript><link rel="stylesheet" href="/assets/css/bundle.css" /></noscript>
 
-    <!-- Google Fonts (keep or remove if switching to self-hosted) -->
+    <!-- Google Fonts -->
     <link
       href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700&display=swap"
       rel="stylesheet"
@@ -125,11 +98,29 @@
     <link rel="%q" type="%q" href="%q" title="%q" />
     ` .Rel .MediaType.Type .Permalink site.Title | safeHTML }} {{ end }}
 
-    <!-- Google tag (gtag.js) -->
+    <!-- Google AdSense -->
+    <meta name="google-adsense-account" content="ca-pub-8527144637859921" />
+
+    <!-- AdSense Auto Ads -->
+    <script
+      async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8527144637859921"
+      crossorigin="anonymous"
+    ></script>
+
+    <script>
+      (adsbygoogle = window.adsbygoogle || []).push({
+        google_ad_client: "ca-pub-8527144637859921",
+        enable_page_level_ads: true,
+      });
+    </script>
+
+    <!-- Google Analytics -->
     <script
       async
       src="https://www.googletagmanager.com/gtag/js?id=G-6N9MTYL3BG"
     ></script>
+
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag() {
@@ -138,6 +129,35 @@
       gtag("js", new Date());
 
       gtag("config", "G-6N9MTYL3BG");
+    </script>
+
+    <!-- Lazy Script Loader -->
+    <script>
+      window.addEventListener("DOMContentLoaded", function () {
+        const loadScript = (src) => {
+          const s = document.createElement("script");
+          s.src = src;
+          s.async = true;
+          document.body.appendChild(s);
+        };
+
+        // Load Brevo SDK
+        loadScript("https://cdn.brevo.com/js/sdk-loader.js");
+        window.Brevo = window.Brevo || [];
+        Brevo.push(["init", { client_key: "o1mymh2cedwgdk0anrg26jch" }]);
+
+        // Load Google Reader Revenue
+        loadScript("https://news.google.com/swg/js/v1/swg-basic.js");
+        window.SWG_BASIC = window.SWG_BASIC || [];
+        SWG_BASIC.push((basicSubscriptions) => {
+          basicSubscriptions.init({
+            type: "NewsArticle",
+            isPartOfType: ["Product"],
+            isPartOfProductId: "CAowiOq8DA:openaccess",
+            clientOptions: { theme: "light", lang: "id" },
+          });
+        });
+      });
     </script>
 
     <!-- JSON-LD untuk homepage -->
@@ -168,19 +188,6 @@
 
     <!-- JSON-LD untuk artikel (jika applicable) -->
     {{ partial "structured-article.html" . }}
-
-    <!-- Brevo Script untuk buletin -->
-    <script src="https://cdn.brevo.com/js/sdk-loader.js" async></script>
-    <script>
-      // Version: 2.0
-      window.Brevo = window.Brevo || [];
-      Brevo.push([
-        "init",
-        {
-          client_key: "o1mymh2cedwgdk0anrg26jch",
-        },
-      ]);
-    </script>
   </head>
 
   <body
