@@ -48,3 +48,9 @@ languageName = "English"
 weight = 2
 title = "santai dikit online"
 languageCode = "en"
+
+[[headers]]
+for = "/index.html"
+[headers.values]
+Cache-Control = "no-cache"
+
