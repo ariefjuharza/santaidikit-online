@@ -15,7 +15,7 @@ Situs ini dibuat untuk siapa aja yang pengen nyantai tapi tetap produktif. Ada r
 
 - ⚡ **[Hugo](https://gohugo.io/)** – Static site generator yang cepat banget.
 - 🎨 **[Tailwind CSS](https://tailwindcss.com/)** – Utility-first CSS biar desain gak ribet.
-- 🧠 **[Sveltia CMS](https://github.com/dirkfabisch/sveltia-cms)** – CMS ringan berbasis Svelte.
+- 🧠 **[Sveltia CMS](https://github.com/sveltia/sveltia-cms)** – CMS ringan berbasis Svelte.
 - 🌍 **[Netlify](https://www.netlify.com/)** – Hosting dan CI/CD gratis + cepat.
 - 📬 **Brevo** (ex Sendinblue) – Buat pop-up & newsletter.
 
