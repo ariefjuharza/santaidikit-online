@@ -1,7 +1,7 @@
 # 🌐 santai dikit online
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/675a6ea3-33c0-48d1-871a-958dd4738c1a/deploy-status)](https://app.netlify.com/projects/santaidikit-online/deploys)
-![Netlify Status](https://api.netlify.com/api/v1/badges/675a6ea3-33c0-48d1-871a-958dd4738c1a/deploy-status?branch=dev)
+![Netlify Status](https://api.netlify.com/api/v1/badges/675a6ea3-33c0-48d1-871a-958dd4738c1a/deploy-status?branch=master)
 
 
 **Tempat mikir ringan tapi tetap jalan terus.**  
