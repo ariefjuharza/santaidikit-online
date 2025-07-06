@@ -6,9 +6,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     
-    <link rel="dns-prefetch" href="//fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    
+
+    <link
+      rel="preload"
+      href="/fonts/plus-jakarta-sans-v11-latin-regular.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+    <link
+      rel="preload"
+      href="/fonts/fira-code-v26-latin-regular.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
 
     <link rel="preconnect" href="https://cdn.brevo.com" crossorigin />
     <link rel="preconnect" href="https://cdn.wonderpush.com" crossorigin />
@@ -75,14 +88,7 @@
     <noscript><link rel="stylesheet" href="/assets/css/bundle.css" /></noscript>
 
     
-    <link
-      href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700&display=swap"
-      rel="stylesheet"
-    />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;700&display=swap"
-      rel="stylesheet"
-    />
+    
 
     
     <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
@@ -302,9 +308,9 @@
       class="px-4 sm:px-6 lg:px-8 py-12 max-w-5xl mx-auto animate-fade-in-up"
     >
       
-  <section class="bg-gradient-to-br from-[#fefcfb] via-[#f6fafa] to-[#e8eff1] dark:from-[#1b1b1b] dark:via-[#1f2b30] dark:to-[#192023] py-20 transition-colors duration-500">
+  <section class="bg-gradient-to-br from-[#fefcfb] via-[#f6fafa] to-[#e8eff1] dark:from-[#1b1b1b] dark:via-[#1f2b30] dark:to-[#192023] py-20 min-h-[60vh] transition-colors duration-500">
   <div class="container mx-auto px-6 text-center animate-fade-in-up">
-    <h1 class="text-4xl md:text-6xl font-extrabold text-[#f07f48] dark:text-[#f07f48] leading-tight mb-4">
+    <h1 class="text-4xl md:text-6xl font-extrabold text-[#f07f48] dark:text-[#f07f48] leading-[1.2] tracking-tight mb-4">
       santai dikit online
     </h1>
     <p class="text-lg md:text-xl text-gray-700 dark:text-gray-300 max-w-2xl mx-auto mb-8 leading-relaxed">
