@@ -633,11 +633,10 @@
       window.addEventListener("DOMContentLoaded", () => {
         setTimeout(lazyLoadScripts, 800);
       });
+      setTimeout(lazyLoadScripts, 3000);
       if ("requestIdleCallback" in window) {
         requestIdleCallback(lazyLoadScripts, { timeout: 1000 });
-      } else {
-        setTimeout(lazyLoadScripts, 1000);
-      }
+      } 
     </script>
   </body>
 </html>
