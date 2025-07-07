@@ -1,12 +1,9 @@
 <!DOCTYPE html>
 <html lang="id" class="scroll-smooth">
   <head>
-	<meta name="generator" content="Hugo 0.147.8"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+	<meta name="generator" content="Hugo 0.147.8">
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-    
-    
 
     <link
       rel="preload"
@@ -24,7 +21,6 @@
     />
 
     <link rel="preconnect" href="https://cdn.brevo.com" crossorigin />
-    <link rel="preconnect" href="https://cdn.wonderpush.com" crossorigin />
     <link rel="preconnect" href="https://news.google.com" crossorigin />
     <link
       rel="preconnect"
@@ -41,7 +37,7 @@
       name="description"
       content="santai dikit online adalah tempat mikir ringan tapi tetap nyangkut. Buat yang suka ngebahas hal-hal receh tapi dalem."
     />
-    <link rel="canonical" href="http://localhost:1313/id/" />
+    <link rel="canonical" href="https://santaidikit.online/id/" />
 
     
     <meta
@@ -54,10 +50,10 @@
       content="santai dikit online adalah tempat mikir ringan tapi tetap nyangkut."
     />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="http://localhost:1313/id/" />
+    <meta property="og:url" content="https://santaidikit.online/id/" />
     <meta
       property="og:image"
-      content="http://localhost:1313/uploads/og-default.webp"
+      content="https://santaidikit.online/uploads/og-default.webp"
     />
 
     
@@ -73,7 +69,7 @@
     />
     <meta
       name="twitter:image"
-      content="http://localhost:1313/uploads/og-default.webp"
+      content="https://santaidikit.online/uploads/og-default.webp"
     />
 
     
@@ -88,9 +84,6 @@
     <noscript><link rel="stylesheet" href="/assets/css/bundle.css" /></noscript>
 
     
-    
-
-    
     <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="shortcut icon" href="/favicon.ico" />
@@ -100,7 +93,7 @@
 
     
      
-    <link rel=""alternate"" type=""application/rss+xml"" href=""http://localhost:1313/id/index.xml"" title=""santai dikit online"" />
+    <link rel=""alternate"" type=""application/rss+xml"" href=""https://santaidikit.online/id/index.xml"" title=""santai dikit online"" />
      
 
     
@@ -564,15 +557,20 @@
             clientOptions: { theme: "light", lang: "id" },
           });
         });
-
-        
-        
       }
 
-      window.addEventListener("scroll", lazyLoadScripts, { once: true });
-      setTimeout(lazyLoadScripts, 3000);
+      {
+        {
+           
+        }
+      }
+      window.addEventListener("DOMContentLoaded", () => {
+        setTimeout(lazyLoadScripts, 800);
+      });
       if ("requestIdleCallback" in window) {
-        requestIdleCallback(lazyLoadScripts);
+        requestIdleCallback(lazyLoadScripts, { timeout: 1000 });
+      } else {
+        setTimeout(lazyLoadScripts, 1000);
       }
     </script>
   </body>
