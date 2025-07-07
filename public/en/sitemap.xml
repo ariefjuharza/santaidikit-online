@@ -2,223 +2,223 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://santaidikit.online/dukungan/</loc>
+    <loc>http://localhost:1313/dukungan/</loc>
     <lastmod>2025-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/newsletter/</loc>
+    <loc>http://localhost:1313/newsletter/</loc>
     <lastmod>2025-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-07-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="https://santaidikit.online/id/"
+                href="http://localhost:1313/id/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://santaidikit.online/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>https://santaidikit.online/terms/</loc>
+    <loc>http://localhost:1313/terms/</loc>
     <lastmod>2025-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/privacy-policy/</loc>
+    <loc>http://localhost:1313/privacy-policy/</loc>
     <lastmod>2025-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-07-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="https://santaidikit.online/id/categories/"
+                href="http://localhost:1313/id/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://santaidikit.online/categories/"
+                href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>https://santaidikit.online/tags/digital/</loc>
+    <loc>http://localhost:1313/tags/digital/</loc>
     <lastmod>2025-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/tags/fenomena-sosial/</loc>
+    <loc>http://localhost:1313/tags/fenomena-sosial/</loc>
     <lastmod>2025-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/tags/kesehatan-mental/</loc>
+    <loc>http://localhost:1313/tags/kesehatan-mental/</loc>
     <lastmod>2025-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/posts/kesepian-epidemi-sunyi/</loc>
+    <loc>http://localhost:1313/posts/kesepian-epidemi-sunyi/</loc>
     <lastmod>2025-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/tags/refleksi/</loc>
+    <loc>http://localhost:1313/tags/refleksi/</loc>
     <lastmod>2025-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-07-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="https://santaidikit.online/id/tags/"
+                href="http://localhost:1313/id/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://santaidikit.online/tags/"
+                href="http://localhost:1313/tags/"
                 />
   </url><url>
-    <loc>https://santaidikit.online/categories/tulisan/</loc>
+    <loc>http://localhost:1313/categories/tulisan/</loc>
     <lastmod>2025-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/tags/kopi/</loc>
+    <loc>http://localhost:1313/tags/kopi/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/posts/kopi-dan-pikiran/</loc>
+    <loc>http://localhost:1313/posts/kopi-dan-pikiran/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/tags/menulis/</loc>
+    <loc>http://localhost:1313/tags/menulis/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/categories/android/</loc>
+    <loc>http://localhost:1313/categories/android/</loc>
     <lastmod>2025-06-30T09:00:00+07:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/tags/android/</loc>
+    <loc>http://localhost:1313/tags/android/</loc>
     <lastmod>2025-06-30T09:00:00+07:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/categories/aplikasi/</loc>
+    <loc>http://localhost:1313/categories/aplikasi/</loc>
     <lastmod>2025-06-30T09:00:00+07:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/tags/gratis/</loc>
+    <loc>http://localhost:1313/tags/gratis/</loc>
     <lastmod>2025-06-30T09:00:00+07:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/portofolio/</loc>
+    <loc>http://localhost:1313/portofolio/</loc>
     <lastmod>2025-06-30T09:00:00+07:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/tags/univpn/</loc>
+    <loc>http://localhost:1313/tags/univpn/</loc>
     <lastmod>2025-06-30T09:00:00+07:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/portofolio/univpn/</loc>
+    <loc>http://localhost:1313/portofolio/univpn/</loc>
     <lastmod>2025-06-30T09:00:00+07:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/tags/vpn/</loc>
+    <loc>http://localhost:1313/tags/vpn/</loc>
     <lastmod>2025-06-30T09:00:00+07:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/tags/internet/</loc>
+    <loc>http://localhost:1313/tags/internet/</loc>
     <lastmod>2025-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/posts/internet-lemot-tapi-ide-tetap-jalan/</loc>
+    <loc>http://localhost:1313/posts/internet-lemot-tapi-ide-tetap-jalan/</loc>
     <lastmod>2025-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/tags/produktivitas/</loc>
+    <loc>http://localhost:1313/tags/produktivitas/</loc>
     <lastmod>2025-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/posts/jenis-bahasa-pemrograman-bagian-2/</loc>
+    <loc>http://localhost:1313/posts/jenis-bahasa-pemrograman-bagian-2/</loc>
     <lastmod>2025-06-29T23:45:00+07:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/tags/bahasa-pemrograman/</loc>
+    <loc>http://localhost:1313/tags/bahasa-pemrograman/</loc>
     <lastmod>2025-06-29T23:45:00+07:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/categories/coding/</loc>
+    <loc>http://localhost:1313/categories/coding/</loc>
     <lastmod>2025-06-29T23:45:00+07:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/tags/coding/</loc>
+    <loc>http://localhost:1313/tags/coding/</loc>
     <lastmod>2025-06-29T23:45:00+07:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/tags/pemula/</loc>
+    <loc>http://localhost:1313/tags/pemula/</loc>
     <lastmod>2025-06-29T23:45:00+07:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/categories/pengetahuan/</loc>
+    <loc>http://localhost:1313/categories/pengetahuan/</loc>
     <lastmod>2025-06-29T23:45:00+07:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/posts/jenis-bahasa-pemrograman-bagian-1/</loc>
+    <loc>http://localhost:1313/posts/jenis-bahasa-pemrograman-bagian-1/</loc>
     <lastmod>2025-06-29T23:30:00+07:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/rekomendasi/buku-ringan-tapi-nendang/</loc>
+    <loc>http://localhost:1313/rekomendasi/buku-ringan-tapi-nendang/</loc>
     <lastmod>2025-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/rekomendasi/channel-youtube-asik/</loc>
+    <loc>http://localhost:1313/rekomendasi/channel-youtube-asik/</loc>
     <lastmod>2025-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/tags/baca-sambil-rebahan/</loc>
+    <loc>http://localhost:1313/tags/baca-sambil-rebahan/</loc>
     <lastmod>2025-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/tags/buku/</loc>
+    <loc>http://localhost:1313/tags/buku/</loc>
     <lastmod>2025-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/tags/ngopi/</loc>
+    <loc>http://localhost:1313/tags/ngopi/</loc>
     <lastmod>2025-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/tags/podcast/</loc>
+    <loc>http://localhost:1313/tags/podcast/</loc>
     <lastmod>2025-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/rekomendasi/</loc>
+    <loc>http://localhost:1313/rekomendasi/</loc>
     <lastmod>2025-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/tags/rekomendasi/</loc>
+    <loc>http://localhost:1313/tags/rekomendasi/</loc>
     <lastmod>2025-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/tags/santai-dikit/</loc>
+    <loc>http://localhost:1313/tags/santai-dikit/</loc>
     <lastmod>2025-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/tags/visual/</loc>
+    <loc>http://localhost:1313/tags/visual/</loc>
     <lastmod>2025-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/tags/youtube/</loc>
+    <loc>http://localhost:1313/tags/youtube/</loc>
     <lastmod>2025-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/rekomendasi/podcast-untuk-teman-kopi/</loc>
+    <loc>http://localhost:1313/rekomendasi/podcast-untuk-teman-kopi/</loc>
     <lastmod>2025-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/tags/750ti/</loc>
+    <loc>http://localhost:1313/tags/750ti/</loc>
     <lastmod>2025-06-27T21:00:00+07:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/tags/gpu/</loc>
+    <loc>http://localhost:1313/tags/gpu/</loc>
     <lastmod>2025-06-27T21:00:00+07:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/posts/cerita-tentang-gtx-750-ti/</loc>
+    <loc>http://localhost:1313/posts/cerita-tentang-gtx-750-ti/</loc>
     <lastmod>2025-06-27T21:00:00+07:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/tags/nostalgia/</loc>
+    <loc>http://localhost:1313/tags/nostalgia/</loc>
     <lastmod>2025-06-27T21:00:00+07:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/categories/perangkat/</loc>
+    <loc>http://localhost:1313/categories/perangkat/</loc>
     <lastmod>2025-06-27T21:00:00+07:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/tags/motivasi/</loc>
+    <loc>http://localhost:1313/tags/motivasi/</loc>
     <lastmod>2025-06-26T05:26:00+00:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/tags/perangkat/</loc>
+    <loc>http://localhost:1313/tags/perangkat/</loc>
     <lastmod>2025-06-26T05:26:00+00:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/categories/refleksi/</loc>
+    <loc>http://localhost:1313/categories/refleksi/</loc>
     <lastmod>2025-06-26T05:26:00+00:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/tags/santai/</loc>
+    <loc>http://localhost:1313/tags/santai/</loc>
     <lastmod>2025-06-26T05:26:00+00:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/posts/santai-dikit-tapi-jalan-terus/</loc>
+    <loc>http://localhost:1313/posts/santai-dikit-tapi-jalan-terus/</loc>
     <lastmod>2025-06-26T05:26:00+00:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/cara-pikir/santai-bukan-berarti-nggak-serius/</loc>
+    <loc>http://localhost:1313/cara-pikir/santai-bukan-berarti-nggak-serius/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/cara-pikir/berpikir-boleh-panik-jangan/</loc>
+    <loc>http://localhost:1313/cara-pikir/berpikir-boleh-panik-jangan/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/cara-pikir/</loc>
+    <loc>http://localhost:1313/cara-pikir/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/cara-pikir/nggak-semua-harus-heboh/</loc>
+    <loc>http://localhost:1313/cara-pikir/nggak-semua-harus-heboh/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santaidikit.online/redaksi/</loc>
+    <loc>http://localhost:1313/redaksi/</loc>
   </url><url>
-    <loc>https://santaidikit.online/kontak/</loc>
+    <loc>http://localhost:1313/kontak/</loc>
   </url><url>
-    <loc>https://santaidikit.online/tentang/</loc>
+    <loc>http://localhost:1313/tentang/</loc>
   </url>
 </urlset>

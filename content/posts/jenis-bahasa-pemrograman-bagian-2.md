@@ -148,7 +148,7 @@ Ada audio, video, canvas, dan banyak elemen baru yang nambah fleksibilitas web.
   </head>
   <body>
     <header>
-      <h1>Selamat Datang di Santai Dikit Online</h1>
+      <h1 class="text-4xl">Selamat Datang di Santai Dikit Online</h1>
     </header>
     <section>
       <p>🌿 Santai dulu, baru ngoding.</p>
