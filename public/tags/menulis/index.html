@@ -128,7 +128,7 @@
   </head>
 
   <body
-    class="bg-gradient-to-br from-white via-[#f0f0f0] to-[#e8eff1] text-gray-800 font-firacode antialiased dark:from-[#1c1c1e] dark:via-[#222] dark:to-[#111] dark:text-gray-200"
+    class="bg-gradient-to-br from-white via-[#f0f0f0] to-[#e8eff1] text-gray-800 font-sans antialiased dark:from-[#1c1c1e] dark:via-[#222] dark:to-[#111] dark:text-gray-200"
   >
     
     <header
@@ -457,11 +457,10 @@ yang bikin mikir itu bukan kopinya, tapi waktunya. Dan kopi cuma jadi penanda ba
       window.addEventListener("DOMContentLoaded", () => {
         setTimeout(lazyLoadScripts, 800);
       });
+      setTimeout(lazyLoadScripts, 3000);
       if ("requestIdleCallback" in window) {
         requestIdleCallback(lazyLoadScripts, { timeout: 1000 });
-      } else {
-        setTimeout(lazyLoadScripts, 1000);
-      }
+      } 
     </script>
   </body>
 </html>
