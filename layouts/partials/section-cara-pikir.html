@@ -8,7 +8,9 @@
     >
       🧠 Cara Pikir Kita
     </h2>
-    <p class="text-lg mb-10 text-gray-700 dark:text-gray-300 leading-relaxed">
+    <p
+      class="text-lg mb-10 text-gray-700 dark:text-gray-300 leading-relaxed font-mono"
+    >
       Kadang hidup terasa ribet karena cara mikir kita sendiri yang muter-muter.
       Di sini, kami coba tawarin cara pandang yang lebih enteng, tapi tetap
       nyambung sama hidup sehari-hari.
@@ -26,7 +28,7 @@
           {{ .Title }}
         </h3>
         <p
-          class="text-sm text-gray-700 dark:text-gray-300 leading-relaxed line-clamp-2"
+          class="text-sm text-gray-700 dark:text-gray-300 font-mono leading-relaxed line-clamp-2"
         >
           {{ .Params.description | truncate 160 | plainify }}
         </p>

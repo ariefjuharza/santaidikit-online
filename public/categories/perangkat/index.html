@@ -6,14 +6,14 @@
 
     <link
       rel="preload"
-      href="/fonts/plus-jakarta-sans-v11-latin-regular.woff2"
+      href="/fonts/space-grotesk-v21-latin-regular.woff2"
       as="font"
       type="font/woff2"
       crossorigin
     />
     <link
       rel="preload"
-      href="/fonts/fira-code-v26-latin-regular.woff2"
+      href="/fonts/space-mono-v17-latin-regular.woff2"
       as="font"
       type="font/woff2"
       crossorigin
@@ -150,7 +150,8 @@
         
         <button
           id="menu-toggle"
-          class="lg:hidden text-gray-700 dark:text-gray-200" aria-label="Buka menu navigasi"
+          class="lg:hidden text-gray-700 dark:text-gray-200"
+          aria-label="Buka menu navigasi"
         >
           <svg
             class="w-6 h-6"
@@ -263,7 +264,7 @@ GPU ini nggak pernah minta banyak. Daya kecil, nggak rewel, tapi cukup buat jala
 
     
     <footer
-      class="bg-gray-800 text-gray-300 py-12 font-firacode border-t border-gray-700 animate-fade-in"
+      class="bg-gray-800 text-gray-300 py-12 font-sans border-t border-gray-700 animate-fade-in"
     >
       <div class="max-w-5xl mx-auto px-4 text-center">
         <p class="text-sm tracking-wide">
@@ -274,7 +275,7 @@ GPU ini nggak pernah minta banyak. Daya kecil, nggak rewel, tapi cukup buat jala
           Dibuat dengan cinta, ditemani secangkir kopi & mikir santai ☕
         </p>
 
-        <div class="mt-8 text-xs text-[#659fb2] dark:text-[#88c8da] flex flex-wrap gap-x-4 gap-y-2">
+        <div class="mt-8 text-xs text-[#659fb2] dark:text-[#88c8da] space-x-4">
           <a
             href="/tentang/"
             class="inline-block py-2 px-3 hover:text-[#f07f48] dark:hover:text-[#f7a678] transition"
@@ -459,7 +460,7 @@ GPU ini nggak pernah minta banyak. Daya kecil, nggak rewel, tapi cukup buat jala
       setTimeout(lazyLoadScripts, 3000);
       if ("requestIdleCallback" in window) {
         requestIdleCallback(lazyLoadScripts, { timeout: 1000 });
-      } 
+      }
     </script>
   </body>
 </html>

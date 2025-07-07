@@ -6,14 +6,14 @@
 
     <link
       rel="preload"
-      href="/fonts/plus-jakarta-sans-v11-latin-regular.woff2"
+      href="/fonts/space-grotesk-v21-latin-regular.woff2"
       as="font"
       type="font/woff2"
       crossorigin
     />
     <link
       rel="preload"
-      href="/fonts/fira-code-v26-latin-regular.woff2"
+      href="/fonts/space-mono-v17-latin-regular.woff2"
       as="font"
       type="font/woff2"
       crossorigin
@@ -150,7 +150,8 @@
         
         <button
           id="menu-toggle"
-          class="lg:hidden text-gray-700 dark:text-gray-200" aria-label="Buka menu navigasi"
+          class="lg:hidden text-gray-700 dark:text-gray-200"
+          aria-label="Buka menu navigasi"
         >
           <svg
             class="w-6 h-6"
@@ -244,7 +245,10 @@
   <div class="text-sm text-gray-500 dark:text-gray-400 italic mb-8">
     Diperbarui terakhir: 4 July 2025
   </div>
-  <div class="content"><h2 id="-syarat--ketentuan">☕ Syarat &amp; Ketentuan</h2>
+  <div
+    class="prose prose-neutral dark:prose-invert max-w-none font-mono prose-headings:font-bold prose-headings:text-[#f07f48] prose-p:leading-relaxed prose-a:text-white hover:prose-a:text-[#f07f48] prose-blockquote:border-l-4 prose-blockquote:border-[#f07f48] prose-blockquote:text-gray-600 dark:prose-blockquote:text-gray-300 prose-code:bg-[#f0f0f0] prose-code:text-[#d6336c] prose-code:px-1.5 prose-code:py-0.5 prose-code:rounded dark:prose-code:bg-[#2d2d2d] dark:prose-code:text-[#ffb86c] prose-pre:bg-[#f8f8f8] dark:prose-pre:bg-[#1e1e1e] prose-pre:text-sm prose-pre:rounded-lg prose-pre:p-4 prose-ul:marker:text-[#f07f48] prose-ol:marker:text-[#659fb2] prose-table:border prose-table:border-gray-200 dark:prose-table:border-gray-700"
+  >
+    <h2 id="-syarat--ketentuan">☕ Syarat &amp; Ketentuan</h2>
 <p>Selamat datang di <strong>santaidikit.online</strong>. Di sini, kita bikin ruang buat mikir santai tapi tetap jalan. Tapi tentu aja, semua perlu aturan main biar enak bareng.</p>
 <hr>
 <h3 id="1-hak-cipta--konten">1. Hak Cipta &amp; Konten</h3>
@@ -261,14 +265,15 @@
 <hr>
 <h3 id="5-kontak">5. Kontak</h3>
 <p>Ada pertanyaan? Santai aja, hubungi kami lewat halaman <a href="/kontak/">Kontak</a>. Kita ngobrol baik-baik.</p>
-</div>
+
+  </div>
 </section>
 
     </main>
 
     
     <footer
-      class="bg-gray-800 text-gray-300 py-12 font-firacode border-t border-gray-700 animate-fade-in"
+      class="bg-gray-800 text-gray-300 py-12 font-sans border-t border-gray-700 animate-fade-in"
     >
       <div class="max-w-5xl mx-auto px-4 text-center">
         <p class="text-sm tracking-wide">
@@ -279,7 +284,7 @@
           Dibuat dengan cinta, ditemani secangkir kopi & mikir santai ☕
         </p>
 
-        <div class="mt-8 text-xs text-[#659fb2] dark:text-[#88c8da] flex flex-wrap gap-x-4 gap-y-2">
+        <div class="mt-8 text-xs text-[#659fb2] dark:text-[#88c8da] space-x-4">
           <a
             href="/tentang/"
             class="inline-block py-2 px-3 hover:text-[#f07f48] dark:hover:text-[#f7a678] transition"
@@ -464,7 +469,7 @@
       setTimeout(lazyLoadScripts, 3000);
       if ("requestIdleCallback" in window) {
         requestIdleCallback(lazyLoadScripts, { timeout: 1000 });
-      } 
+      }
     </script>
   </body>
 </html>

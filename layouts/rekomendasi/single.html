@@ -1,7 +1,5 @@
 {{ define "main" }}
-<article
-  class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 font-firacode animate-fade-in-up"
->
+<article class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 animate-fade-in-up">
   <!-- Judul -->
   <h1
     class="text-3xl sm:text-4xl font-bold mb-4 text-[#f07f48] dark:text-[#f07f48]"
@@ -17,7 +15,9 @@
   */}}
 
   <!-- Metadata -->
-  <div class="text-sm text-gray-500 dark:text-gray-400 mb-6 flex flex-wrap items-center gap-4">
+  <div
+    class="text-sm text-gray-500 dark:text-gray-400 mb-6 flex flex-wrap items-center gap-4"
+  >
     <span>{{ .Date.Format "02 Jan 2006" }}</span>
     <span>•</span>
     <span>{{ .ReadingTime }} menit baca</span>
@@ -34,7 +34,7 @@
 
   <!-- Konten Markdown -->
   <div
-    class="prose prose-neutral max-w-none prose-headings:font-bold prose-p:leading-relaxed prose-img:rounded dark:prose-invert"
+    class="prose prose-neutral dark:prose-invert max-w-none font-mono prose-headings:font-bold prose-headings:text-[#f07f48] prose-p:leading-relaxed prose-a:text-white hover:prose-a:text-[#f07f48] prose-blockquote:border-l-4 prose-blockquote:border-[#f07f48] prose-blockquote:text-gray-600 dark:prose-blockquote:text-gray-300 prose-code:bg-[#f0f0f0] prose-code:text-[#d6336c] prose-code:px-1.5 prose-code:py-0.5 prose-code:rounded dark:prose-code:bg-[#2d2d2d] dark:prose-code:text-[#ffb86c] prose-pre:bg-[#f8f8f8] dark:prose-pre:bg-[#1e1e1e] prose-pre:text-sm prose-pre:rounded-lg prose-pre:p-4 prose-ul:marker:text-[#f07f48] prose-ol:marker:text-[#659fb2] prose-table:border prose-table:border-gray-200 dark:prose-table:border-gray-700"
   >
     {{ .Content }}
   </div>

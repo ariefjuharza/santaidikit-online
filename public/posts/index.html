@@ -6,14 +6,14 @@
 
     <link
       rel="preload"
-      href="/fonts/plus-jakarta-sans-v11-latin-regular.woff2"
+      href="/fonts/space-grotesk-v21-latin-regular.woff2"
       as="font"
       type="font/woff2"
       crossorigin
     />
     <link
       rel="preload"
-      href="/fonts/fira-code-v26-latin-regular.woff2"
+      href="/fonts/space-mono-v17-latin-regular.woff2"
       as="font"
       type="font/woff2"
       crossorigin
@@ -152,7 +152,8 @@
         
         <button
           id="menu-toggle"
-          class="lg:hidden text-gray-700 dark:text-gray-200" aria-label="Buka menu navigasi"
+          class="lg:hidden text-gray-700 dark:text-gray-200"
+          aria-label="Buka menu navigasi"
         >
           <svg
             class="w-6 h-6"
@@ -242,7 +243,7 @@
     >
       
 <section
-  class="py-20 px-6 bg-slate-50 dark:bg-[#1b1b1b] text-gray-900 dark:text-gray-100 font-firacode transition-colors duration-500"
+  class="py-20 px-6 bg-slate-50 dark:bg-[#1b1b1b] text-gray-900 dark:text-gray-100 transition-colors duration-500"
 >
   <div class="max-w-5xl mx-auto text-center animate-fade-in-up">
     <h2
@@ -250,7 +251,9 @@
     >
       ✍️ Tulisan Santai Tapi Ngena
     </h2>
-    <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300 mb-10">
+    <p
+      class="text-lg leading-relaxed text-gray-600 dark:text-gray-300 font-mono mb-10"
+    >
       Kumpulan tulisan dari Si Dikit. Kadang ringan, kadang ngena banget. Cocok
       buat yang mau mikir santai, tapi tetap dapet makna.
     </p>
@@ -270,7 +273,7 @@
         </p>
         
         <p
-          class="text-sm text-gray-700 dark:text-gray-300 leading-relaxed mb-4"
+          class="text-sm text-gray-700 dark:text-gray-300 font-mono leading-relaxed mb-4"
         >
           Bukan cuma soal sepi, tapi soal kesehatan mental dan sosial yang makin terkikis di tengah keramaian online.
         </p>
@@ -295,7 +298,7 @@
         </p>
         
         <p
-          class="text-sm text-gray-700 dark:text-gray-300 leading-relaxed mb-4"
+          class="text-sm text-gray-700 dark:text-gray-300 font-mono leading-relaxed mb-4"
         >
           Kadang yang kita butuhin bukan kecepatan, tapi jeda. Dan secangkir kopi bisa bantu itu.
         </p>
@@ -320,7 +323,7 @@
         </p>
         
         <p
-          class="text-sm text-gray-700 dark:text-gray-300 leading-relaxed mb-4"
+          class="text-sm text-gray-700 dark:text-gray-300 font-mono leading-relaxed mb-4"
         >
           Kadang yang lambat bukan sinyalnya, tapi niatnya. Kalau udah mau mulai, bahkan loading pun bisa jadi waktu mikir.
         </p>
@@ -345,7 +348,7 @@
         </p>
         
         <p
-          class="text-sm text-gray-700 dark:text-gray-300 leading-relaxed mb-4"
+          class="text-sm text-gray-700 dark:text-gray-300 font-mono leading-relaxed mb-4"
         >
           Lanjutan penjelasan bahasa pemrograman populer versi santai, lengkap dengan contoh kodenya. Kali ini bahas HTML, Ruby, PHP, Go, Kotlin, dan HTML5.
         </p>
@@ -370,7 +373,7 @@
         </p>
         
         <p
-          class="text-sm text-gray-700 dark:text-gray-300 leading-relaxed mb-4"
+          class="text-sm text-gray-700 dark:text-gray-300 font-mono leading-relaxed mb-4"
         >
           Penjelasan singkat tentang berbagai bahasa pemrograman yang sering ditemui, dibahas santai plus contoh sintaksnya biar nggak cuma teori doang.
         </p>
@@ -395,7 +398,7 @@
         </p>
         
         <p
-          class="text-sm text-gray-700 dark:text-gray-300 leading-relaxed mb-4"
+          class="text-sm text-gray-700 dark:text-gray-300 font-mono leading-relaxed mb-4"
         >
           Cerita soal GPU jadul yang tetap setia menemani coding sehari-hari. Nggak harus canggih buat jadi produktif.
         </p>
@@ -420,7 +423,7 @@
         </p>
         
         <p
-          class="text-sm text-gray-700 dark:text-gray-300 leading-relaxed mb-4"
+          class="text-sm text-gray-700 dark:text-gray-300 font-mono leading-relaxed mb-4"
         >
           Nggak harus alat canggih untuk mulai produktif. Cerita tentang berkarya di tengah keterbatasan, dengan gaya santai tapi tetap mikir.
         </p>
@@ -440,7 +443,7 @@
 
     
     <footer
-      class="bg-gray-800 text-gray-300 py-12 font-firacode border-t border-gray-700 animate-fade-in"
+      class="bg-gray-800 text-gray-300 py-12 font-sans border-t border-gray-700 animate-fade-in"
     >
       <div class="max-w-5xl mx-auto px-4 text-center">
         <p class="text-sm tracking-wide">
@@ -451,7 +454,7 @@
           Dibuat dengan cinta, ditemani secangkir kopi & mikir santai ☕
         </p>
 
-        <div class="mt-8 text-xs text-[#659fb2] dark:text-[#88c8da] flex flex-wrap gap-x-4 gap-y-2">
+        <div class="mt-8 text-xs text-[#659fb2] dark:text-[#88c8da] space-x-4">
           <a
             href="/tentang/"
             class="inline-block py-2 px-3 hover:text-[#f07f48] dark:hover:text-[#f7a678] transition"
@@ -636,7 +639,7 @@
       setTimeout(lazyLoadScripts, 3000);
       if ("requestIdleCallback" in window) {
         requestIdleCallback(lazyLoadScripts, { timeout: 1000 });
-      } 
+      }
     </script>
   </body>
 </html>

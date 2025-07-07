@@ -1,10 +1,16 @@
 {{ define "main" }}
 <section
-  class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-16 font-firacode text-gray-800 dark:text-gray-200 animate-fade-in-up"
+  class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-16 text-gray-800 dark:text-gray-200 animate-fade-in-up"
 >
-  <h1 class="text-4xl font-bold text-[#f07f48] mb-6">💌 Ngobrol Santai</h1>
+  <h1 
+  class="text-3xl sm:text-4xl font-bold text-[#f07f48] dark:text-[#f07f48] mb-4 leading-snug"
+  >💌 Ngobrol Santai
+</h1>
 
-  <div class="prose dark:prose-invert max-w-none mb-8">{{ .Content }}</div>
+  <div 
+  class="prose prose-neutral dark:prose-invert max-w-none font-mono prose-headings:font-bold prose-headings:text-[#f07f48] prose-p:leading-relaxed prose-a:text-white hover:prose-a:text-[#f07f48] prose-blockquote:border-l-4 prose-blockquote:border-[#f07f48] prose-blockquote:text-gray-600 dark:prose-blockquote:text-gray-300 prose-code:bg-[#f0f0f0] prose-code:text-[#d6336c] prose-code:px-1.5 prose-code:py-0.5 prose-code:rounded dark:prose-code:bg-[#2d2d2d] dark:prose-code:text-[#ffb86c] prose-pre:bg-[#f8f8f8] dark:prose-pre:bg-[#1e1e1e] prose-pre:text-sm prose-pre:rounded-lg prose-pre:p-4 prose-ul:marker:text-[#f07f48] prose-ol:marker:text-[#659fb2] prose-table:border prose-table:border-gray-200 dark:prose-table:border-gray-700"
+  >{{ .Content }}
+</div>
 
   {{/*  <form
     action="https://formspree.io/f/mwpbzrob"
@@ -14,9 +20,11 @@
 
   <form 
   name="contact" 
-  method="POST" data-netlify="true">
+  method="POST" data-netlify="true"
+  class="space-y-4"
+  >
     <div>
-      <label class="block text-sm font-medium mb-1">Nama</label>
+      <label class="block text-sm font-medium font-mono mb-1">Nama</label>
       <input
         type="text"
         name="name"
@@ -26,7 +34,7 @@
     </div>
 
     <div>
-      <label class="block text-sm font-medium mb-1">Email</label>
+      <label class="block text-sm font-medium font-mono mb-1">Email</label>
       <input
         type="email"
         name="email"
@@ -36,7 +44,7 @@
     </div>
 
     <div>
-      <label class="block text-sm font-medium mb-1">Pesan</label>
+      <label class="block text-sm font-medium font-mono mb-1">Pesan</label>
       <textarea
         name="message"
         rows="5"

@@ -6,14 +6,14 @@
 
     <link
       rel="preload"
-      href="/fonts/plus-jakarta-sans-v11-latin-regular.woff2"
+      href="/fonts/space-grotesk-v21-latin-regular.woff2"
       as="font"
       type="font/woff2"
       crossorigin
     />
     <link
       rel="preload"
-      href="/fonts/fira-code-v26-latin-regular.woff2"
+      href="/fonts/space-mono-v17-latin-regular.woff2"
       as="font"
       type="font/woff2"
       crossorigin
@@ -153,7 +153,8 @@
         <!-- Hamburger Button (Mobile only) -->
         <button
           id="menu-toggle"
-          class="lg:hidden text-gray-700 dark:text-gray-200" aria-label="Buka menu navigasi"
+          class="lg:hidden text-gray-700 dark:text-gray-200"
+          aria-label="Buka menu navigasi"
         >
           <svg
             class="w-6 h-6"
@@ -246,7 +247,7 @@
 
     <!-- Footer -->
     <footer
-      class="bg-gray-800 text-gray-300 py-12 font-firacode border-t border-gray-700 animate-fade-in"
+      class="bg-gray-800 text-gray-300 py-12 font-sans border-t border-gray-700 animate-fade-in"
     >
       <div class="max-w-5xl mx-auto px-4 text-center">
         <p class="text-sm tracking-wide">
@@ -442,7 +443,7 @@
       setTimeout(lazyLoadScripts, 3000);
       if ("requestIdleCallback" in window) {
         requestIdleCallback(lazyLoadScripts, { timeout: 1000 });
-      } 
+      }
     </script>
   </body>
 </html>

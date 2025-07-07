@@ -10,9 +10,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        firacode: ['"Fira Code"', "monospace"],
-        plusjakarta: ['"Plus Jakarta Sans"', "ui-sans-serif", "system-ui"],
-        sans: ['"Plus Jakarta Sans"', "ui-sans-serif", "system-ui"], // fallback global
+        sans: ['"Space Grotesk"', "ui-sans-serif", "system-ui"], // fallback global
+        mono: ['"Space Mono"', "monospace"],
       },
       colors: {
         primary: "#f07f48",

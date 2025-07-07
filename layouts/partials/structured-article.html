@@ -1,28 +1,28 @@
 {{ if and .IsPage (eq .Type "posts") }}
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": {{ .Title | jsonify }},
-  "description": {{ with .Params.description }}{{ . | jsonify }}{{ else }}"santai dikit online — mikir santai, tapi tetap jalan"{{ end }},
-  "author": {
-    "@type": "Person",
-    "name": "Si Dikit"
-  },
-  "datePublished": "{{ .PublishDate.Format "2006-01-02" }}",
-  "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "{{ .Permalink }}"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "santai dikit online",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://santaidikit.online/uploads/si-dikit-no-bg.webp"
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": {{ .Title | jsonify }},
+    "description": {{ with .Params.description }}{{ . | jsonify }}{{ else }}"santai dikit online — mikir santai, tapi tetap jalan"{{ end }},
+    "author": {
+      "@type": "Person",
+      "name": "Si Dikit"
+    },
+    "datePublished": "{{ .PublishDate.Format "2006-01-02" }}",
+    "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ .Permalink }}"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "santai dikit online",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://santaidikit.online/uploads/si-dikit-no-bg.webp"
+      }
     }
   }
-}
 </script>
 {{ end }}
