@@ -1,6 +1,6 @@
 ---
 title: Aura Farming dan Bocah Riau yang Nggak Main-Main
-date: 2025-07-18T13:04:00
+date: 2025-07-14T13:04:00
 ---
 > Kadang hal paling santai bisa punya impact paling gede. Termasuk satu tarian kecil yang sukses narik perhatian dunia.
 
@@ -8,7 +8,7 @@ date: 2025-07-18T13:04:00
 
 ## ✨ Bocah, Pacu Jalur, dan Tarian Penuh Aura
 
-Baru-baru ini, ada momen tak terduga dari event _Pacu Jalur_ di Riau yang viral banget di media sosial. Seorang bocah—belakangan diketahui bernama **Rayyan**—berdiri dengan tenang di depan perahu lomba, lalu mulai nari dengan ekspresi penuh percaya diri. Tapi yang bikin heboh bukan cuma gerakannya... **tapi auranya**.
+Baru-baru ini, ada momen tak terduga dari event _Pacu Jalur_ di Kabupaten Kuantan Singingi, Provinsi Riau yang viral banget di media sosial. Seorang bocah—belakangan diketahui bernama **Rayyan**—berdiri dengan tenang di depan perahu lomba, lalu mulai nari dengan ekspresi penuh percaya diri. Tapi yang bikin heboh bukan cuma gerakannya... **tapi auranya**.
 
 Iya, kamu nggak salah baca. Dunia maya menyebutnya **"Aura Farming"**—semacam vibe tak kasat mata yang bikin penonton merasa: _"Wah ini anak beda sih."_
 
@@ -32,7 +32,7 @@ Dan si Rayyan ini pas banget mewakili itu semua. Bahkan sampai muncul meme:
 
 ## 🌍 Viral Sampai Global
 
-Fenomena ini nggak berhenti di TikTok lokal. Sampai ke **Twitter/X internasional**, beberapa fans BTS bilang vibe-nya kayak **Taehyung (V) + Jungkook** waktu lagi "aura farming". Gila nggak tuh? Bahkan **Kementerian Pariwisata** RI ikut angkat suara, bilang ini bentuk kekuatan budaya lokal yang harus dijaga.
+Fenomena ini nggak berhenti di TikTok lokal. Sampai ke **Twitter/X internasional**, beberapa fans BTS bilang vibe-nya kayak **Taehyung (V) + Jungkook** waktu lagi "aura farming". Gila nggak tuh? Bahkan **Kementerian Pariwisata** ikut angkat suara, bilang ini bentuk kekuatan budaya lokal yang harus dijaga.
 
 Kalau menurut Si Dikit:
 
