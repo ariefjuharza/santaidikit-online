@@ -1,10 +1,10 @@
 ---
-title: Aura Farming dan Bocah Riau yang Nggak Main-Main
+title: "Pacu Jalur dan Aura Farming: Ketika Tradisi Bertemu Trending"
 date: 2025-07-17T20:04:00
 description: "Sebuah tarian anak kecil di Pacu Jalur bikin dunia nengok. Aura farming bukan cuma meme, tapi refleksi dari budaya yang bikin bangga."
 categories: ["fenomena", "budaya", "sosial"]
 tags: ["viral", "aura farming", "budaya lokal", "internet culture"]
-slug: "ilustrasi-aura-farming-pacu-jalur-di-riau"
+slug: "pacu-jalur-dan-aura-farming-ketika-tradisi-bertemu-trending"
 image: "/uploads/si-dikit-aura-farming.webp"
 ---
 
