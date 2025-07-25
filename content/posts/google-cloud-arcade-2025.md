@@ -1,12 +1,18 @@
 ---
-title: "Google Cloud Arcade 2025: Beasiswa Coding Rasa Main Game"
-description: "Google dan Dicoding lagi buka program beasiswa coding berbasis gamifikasi bernama Arcade Facilitator 2025. Belajar cloud, dapet badge, kumpulin poin, terus tukerin hadiah? Gaskeun!"
+title: 'Google Cloud Arcade 2025: Beasiswa Coding Rasa Main Game'
 date: 2025-07-24T21:00:00+07:00
-categories: [rekomendasi]
-tags: ["beasiswa", "cloud", "google", "dicoding", "gamifikasi", "program"]
-cover: "/uploads/arcade-banner.webp"
+cover: /uploads/arcade-banner.webp
+description: Google dan Dicoding lagi buka program beasiswa coding berbasis gamifikasi bernama Arcade Facilitator 2025. Belajar cloud, dapet badge, kumpulin poin, terus tukerin hadiah? Gaskeun!
+categories:
+  - rekomendasi
+tags:
+  - beasiswa
+  - cloud
+  - google
+  - dicoding
+  - gamifikasi
+  - program
 ---
-
 > **Belajar cloud rasa main game? Bisa! Apalagi kalau bisa dapet badge, poin, dan hadiah dari Google.**
 
 ---
@@ -23,10 +29,8 @@ Begitu daftar, kamu bakal dapet akses gratis ke materi Google Cloud lewat [Cloud
 
 - **Arcade Game Badge**  
   Serangkaian lab praktik langsung. Semakin cepat selesai, makin banyak poin yang kamu kumpulin.
-
 - **Arcade Trivia Game**  
   Kuis interaktif buat nguji seberapa paham kamu sama materi cloud yang udah dipelajari.
-
 - **Google Cloud Skills Boost**  
   Praktik langsung plus tantangan akhir (challenge lab) buat ngebuktiin skill kamu di dunia nyata.
 
@@ -64,4 +68,3 @@ Kalau kamu suka tantangan, suka belajar, dan pengin dapet reward sekaligus upgra
 Coba aja dulu. Siapa tahu cocok. Dan siapa tahu... kamu pulang bawa swag resmi dari Google 😎☁️
 
 ➡️ [Daftar sekarang!](https://docs.google.com/forms/d/e/1FAIpQLSe39HH-KDVmyg46JtHn2EmVuta2JAUsyl7pk5lSLQK_1-Aj2Q/viewform?usp=pp_url&entry.600268542=__other_option__&entry.600268542.other_option_response=AFFH21Z9)
-
