@@ -1,6 +1,6 @@
 ---
 title: 'GTX 750 Ti dan Meja Coding: Teman Setia di Era Digital'
-date: 2025-07-25T17:20:00
+date: 2025-06-27T17:20:00
 image: /uploads/Graphics-Card-GTX-750-Ti-Close-Up.webp
 description: Cerita soal GPU jadul yang tetap setia menemani coding sehari-hari. Nggak harus canggih buat jadi produktif.
 draft: false
