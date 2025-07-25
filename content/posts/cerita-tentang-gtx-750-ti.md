@@ -1,14 +1,17 @@
 ---
-title: "GTX 750 Ti dan Meja Coding: Teman Setia di Era Digital"
-date: 2025-06-27T21:00:00+07:00
+title: 'GTX 750 Ti dan Meja Coding: Teman Setia di Era Digital'
+date: 2025-07-25T17:20:00
+image: /uploads/Graphics-Card-GTX-750-Ti-Close-Up.webp
+description: Cerita soal GPU jadul yang tetap setia menemani coding sehari-hari. Nggak harus canggih buat jadi produktif.
 draft: false
-categories: ["perangkat"]
-tags: ["gpu", "nostalgia", "750ti"]
-description: "Cerita soal GPU jadul yang tetap setia menemani coding sehari-hari. Nggak harus canggih buat jadi produktif."
-slug: "cerita-tentang-gtx-750-ti"
-image: "/uploads/Graphics-Card-GTX-750-Ti-Close-Up.webp"
+categories:
+  - perangkat
+tags:
+  - gpu
+  - nostalgia
+  - 750ti
+slug: cerita-tentang-gtx-750-ti
 ---
-
 **Kadang, yang nggak terlalu canggih justru yang paling setia.**  
 Begitu juga dengan satu benda kecil yang sudah nemenin hari-hari di depan layar: **NVIDIA GTX 750 Ti.**
 
@@ -80,5 +83,3 @@ Selama dia masih bisa nyalain dua layar dan bikin kita bisa nulis baris demi bar
 **✍️ Ditulis oleh Si Dikit**
 
 _Tulisan ini disusun dengan GPU yang sama sejak zaman HTML masih diketik di Notepad. Fan-nya masih muter, walau kadang kayak berisik minta libur. Tapi ya... dia masih setia._
-
-
