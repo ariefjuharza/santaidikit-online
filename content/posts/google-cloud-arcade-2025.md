@@ -43,7 +43,7 @@ Kumpulin poinnya cukup banyak, kamu bisa nukerin dengan **merchandise resmi dari
 ## 🗓️ Kapan dan Gimana Daftarnya?
 
 📅 **15 Juli – 9 September 2025**  
-📍 Daftar lewat: [https://rsvp.withgoogle.com/events/arcade-fasilitator-id](https://docs.google.com/forms/d/e/1FAIpQLSe39HH-KDVmyg46JtHn2EmVuta2JAUsyl7pk5lSLQK_1-Aj2Q/viewform?usp=pp_url&entry.600268542=__other_option__&entry.600268542.other_option_response=AFFH21Z9)
+📍 Cara daftar: [Isi formulirnya pada link ini](https://docs.google.com/forms/d/e/1FAIpQLSe39HH-KDVmyg46JtHn2EmVuta2JAUsyl7pk5lSLQK_1-Aj2Q/viewform?usp=pp_url&entry.600268542=__other_option__&entry.600268542.other_option_response=AFFH21Z9)
 
 Buka buat **semua WNI berusia 18+ tahun**. Gak harus anak kuliahan kok. Yang penting kamu punya minat belajar teknologi dan siap commit buat nyelesaiin misi gamenya.
 
