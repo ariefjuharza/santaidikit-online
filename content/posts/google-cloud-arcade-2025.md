@@ -4,7 +4,6 @@ date: 2025-07-23T17:23:00
 description: Google dan Dicoding lagi buka program beasiswa coding berbasis gamifikasi bernama Arcade Facilitator 2025. Belajar cloud, dapet badge, kumpulin poin, terus tukerin hadiah? Gaskeun!
 categories: ["rekomendasi"]
 tags: ["beasiswa", "cloud", "dicoding", "gamifikasi", "program"]
-slug: "pacu-jalur-dan-aura-farming-ketika-tradisi-bertemu-trending"
 image: "/uploads/arcade-banner.webp"
 ---
 
