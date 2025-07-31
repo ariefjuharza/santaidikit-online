@@ -98,15 +98,15 @@
     ` .Rel .MediaType.Type .Permalink site.Title | safeHTML }} {{ end }}
 
     <!-- Google AdSense -->
-    {{/*
+    
     <meta name="google-adsense-account" content="ca-pub-8527144637859921" />
-    */}}
+    
 
     <!-- Yandex.RTB -->
-    <script>
+    {{/*  <script>
       window.yaContextCb = window.yaContextCb || [];
     </script>
-    <script src="https://yandex.ru/ads/system/context.js" async></script>
+    <script src="https://yandex.ru/ads/system/context.js" async></script>  */}}
 
     <!-- JSON-LD untuk homepage -->
     <script type="application/ld+json">
@@ -391,7 +391,7 @@
     </script>
 
     <!-- Yandex.RTB R-A-16393349-1 -->
-    <div id="yandex_rtb_R-A-16393349-1"></div>
+    {{/*  <div id="yandex_rtb_R-A-16393349-1"></div>  */}}
 
     <script>
       function lazyLoadScripts() {
@@ -406,9 +406,7 @@
         };
 
         // Google AdSense
-        {
-          {
-            /*  load(
+        load(
           "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8527144637859921"
         );
 
@@ -416,9 +414,7 @@
         window.adsbygoogle.push({
           google_ad_client: "ca-pub-8527144637859921",
           enable_page_level_ads: true,
-        });  */
-          }
-        }
+        });
 
         window.yaContextCb.push(() => {
           Ya.Context.AdvManager.render({
