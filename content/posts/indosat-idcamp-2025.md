@@ -58,16 +58,13 @@ Total ada **8 alur belajar utama**, ditambah **2 alur bonus** (Cyber Security & 
 🎯 Kalau kamu ngerasa butuh upgrade skill atau sekadar penasaran sama dunia AI, ini kesempatan emas.
 Daftarnya gampang banget, tinggal klik tombol atau scan QR Code di bawah ini 👇
 
-<p class="mt-6 text-center">
+<div style="display: flex; flex-direction: column; align-items: center; margin-top: 2rem; gap: 1rem;">
   <a 
     href="https://s.id/daftarIDCamp2025"
     class="inline-block bg-[#f07f48] text-white font-semibold px-6 py-3 rounded-full shadow hover:bg-[#d96a36] transition"
-    > 🚀 Daftar IDCamp 2025
+  >
+    🚀 Daftar IDCamp 2025
   </a>
-</p>
-
-<div style="display: flex; flex-direction: column; align-items: center; margin-top: 2rem;">
-  <p><strong>Scan QR Code untuk daftar!</strong></p>
   <img src="/uploads/qr-daftarIDCamp2025.webp" alt="QR Code IDCamp 2025" style="width:200px; height:auto;">
 </div>
 
