@@ -56,16 +56,15 @@ Total ada **8 alur belajar utama**, ditambah **2 alur bonus** (Cyber Security & 
 ## Cara Daftar
 
 🎯 Kalau kamu ngerasa butuh upgrade skill atau sekadar penasaran sama dunia AI, ini kesempatan emas.
-Daftarnya gampang banget, tinggal klik tombol di bawah ini:
+Daftarnya gampang banget, tinggal klik tombol di bawah ini 👇
 
 <p class="mt-6 text-center">
-  <a href="https://idcamp.ioh.co.id/login?referrer_id=4930507" 
-     class="inline-block bg-pink-600 hover:bg-pink-700 text-white font-semibold py-3 px-6 rounded-lg shadow-md transition">
-    🚀 Daftar Sekarang!
+  <a 
+    href="https://s.id/daftarIDCamp2025"
+    class="inline-block bg-[#f07f48] text-white font-semibold px-6 py-3 rounded-full shadow hover:bg-[#d96a36] transition"
+    > 🚀 Daftar IDCamp 2025!
   </a>
 </p>
-
-👉 [Daftar IDCamp 2025 lewat link ini](https://idcamp.ioh.co.id/login?referrer_id=4930507)
 
 ---
 
@@ -74,11 +73,10 @@ Karena siapa tahu, langkah kecilmu hari ini bakal jadi pintu ke karir teknologi 
 
 Santai dikit, tapi belajar jalan terus. 🚀
 
-<p class="mt-6">
-  <a href="https://idcamp.ioh.co.id/login?referrer_id=4930507" 
-     class="inline-block bg-pink-600 hover:bg-pink-700 text-white font-semibold py-3 px-6 rounded-lg shadow-md transition">
-    🚀 Daftar Sekarang!
+<p class="mt-6"> 
+  <a 
+    href="https://s.id/daftarIDCamp2025"
+    class="inline-block bg-[#f07f48] text-white font-semibold px-6 py-3 rounded-full shadow hover:bg-[#d96a36] transition"
+    > 🚀 Daftar Sekarang!
   </a>
 </p>
-
-➡️ [Daftar sekarang!](https://idcamp.ioh.co.id/login?referrer_id=4930507)
