@@ -1,6 +1,6 @@
 ---
 title: 🚀 Yuk, Santai Dikit Tapi Upgrade Skill Bareng IDCamp 2025!
-date: 2025-09-26T15:40:00
+date: 2025-09-25T15:40:00
 ---
 Halo, perantau digital! ✨
 Pernah kepikiran nggak sih gimana serunya kalau bisa belajar **Artificial Intelligence (AI)** gratis, full beasiswa, dari mana aja, kapan aja, dengan kurikulum yang udah diakui industri?
