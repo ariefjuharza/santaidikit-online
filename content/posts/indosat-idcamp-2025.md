@@ -62,11 +62,11 @@ Daftarnya gampang banget, tinggal klik tombol atau scan QR Code di bawah ini �
   <a 
     href="https://s.id/daftarIDCamp2025"
     class="inline-block bg-[#f07f48] text-white font-semibold px-6 py-3 rounded-full shadow hover:bg-[#d96a36] transition"
-    > 🚀 Daftar IDCamp 2025!
+    > 🚀 Daftar IDCamp 2025
   </a>
 </p>
 
-<div style="text-align: center; margin-top: 2rem;">
+<div style="display: flex; flex-direction: column; align-items: center; margin-top: 2rem;">
   <p><strong>Scan QR Code untuk daftar!</strong></p>
   <img src="/uploads/qr-daftarIDCamp2025.webp" alt="QR Code IDCamp 2025" style="width:200px; height:auto;">
 </div>
